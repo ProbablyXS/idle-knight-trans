@@ -46,867 +46,840 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainMenu_Friends_Button" xml:space="preserve">
-    <value>Amis</value>
+    <value>好友</value>
   </data>
   <data name="MainMenu_Settings_Button" xml:space="preserve">
-    <value>Paramètres</value>
+    <value>设置</value>
   </data>
   <data name="MainMenu_Leaderboard_Button" xml:space="preserve">
-    <value>Classement</value>
+    <value>排行榜</value>
   </data>
   <data name="MainMenu_Inventory_Button" xml:space="preserve">
-    <value>Inventaire</value>
+    <value>背包</value>
   </data>
   <data name="MainMenu_Shop_Button" xml:space="preserve">
-    <value>Boutique</value>
+    <value>商店</value>
   </data>
   <data name="MainMenu_HpText_Tooltip" xml:space="preserve">
-    <value>❤ Détermine combien de dégâts le chevalier peut subir avant de mourir.</value>
+    <value>❤ 决定骑士在死亡前能承受多少伤害。</value>
   </data>
   <data name="MainMenu_DmgText_Tooltip" xml:space="preserve">
-    <value>⚔ Augmente les dégâts infligés par le chevalier à chaque attaque.</value>
+    <value>⚔ 增加骑士每次攻击造成的伤害。</value>
   </data>
   <data name="MainMenu_AgiText_Tooltip" xml:space="preserve">
-    <value>💨 Augmente les chances d'esquive et détermine qui attaque en premier lors du combat.</value>
+    <value>💨 提高闪避几率，决定谁在战斗中先出手。</value>
   </data>
   <data name="Settings_General_LanguageText" xml:space="preserve">
-    <value>Langue</value>
+    <value>语言</value>
   </data>
   <data name="Settings_General_AlwaysOnTopText" xml:space="preserve">
-    <value>Toujours au premier plan</value>
+    <value>始终置顶</value>
   </data>
   <data name="Settings_General_StartWithWindowsText" xml:space="preserve">
-    <value>Démarrer avec Windows</value>
+    <value>随Windows启动</value>
   </data>
   <data name="Settings_General_RunAsAdminText" xml:space="preserve">
-    <value>Exécuter en tant qu'administrateur</value>
+    <value>以管理员身份运行</value>
   </data>
   <data name="Settings_General_NotificationsText" xml:space="preserve">
-    <value>Notifications</value>
+    <value>通知</value>
   </data>
   <data name="Settings_General_ShowTaskBarIconText" xml:space="preserve">
-    <value>Afficher l'icône dans la barre des tâches</value>
+    <value>显示任务栏图标</value>
   </data>
   <data name="Settings_General_CloseGameText" xml:space="preserve">
-    <value>Quitter le jeu</value>
+    <value>关闭游戏</value>
   </data>
   <data name="Settings_GeneralText" xml:space="preserve">
-    <value>GÉNÉRAL</value>
+    <value>常规</value>
   </data>
   <data name="Settings_GeneralInfoText" xml:space="preserve">
-    <value>Paramètres généraux du système</value>
+    <value>常规系统设置</value>
   </data>
   <data name="Settings_AudioText" xml:space="preserve">
-    <value>AUDIO</value>
+    <value>音频</value>
   </data>
   <data name="Settings_AudioInfoText" xml:space="preserve">
-    <value>Gérer les paramètres audio</value>
+    <value>管理音效设置</value>
   </data>
   <data name="Settings_Nav_General" xml:space="preserve">
-    <value>GÉNÉRAL</value>
+    <value>常规</value>
   </data>
   <data name="Settings_Nav_Audio" xml:space="preserve">
-    <value>AUDIO</value>
+    <value>音频</value>
   </data>
   <data name="Settings_Nav_Overlay" xml:space="preserve">
-    <value>OVERLAY</value>
+    <value>覆盖层</value>
   </data>
   <data name="Settings_Nav_Stats" xml:space="preserve">
-    <value>STATS</value>
+    <value>统计</value>
   </data>
   <data name="Settings_Nav_Credits" xml:space="preserve">
-    <value>CRÉDITS</value>
+    <value>制作人员</value>
   </data>
   <data name="Settings_Nav_Menu" xml:space="preserve">
-    <value>MENU</value>
+    <value>菜单</value>
   </data>
   <data name="Settings_SystemText" xml:space="preserve">
-    <value>SYSTÈME</value>
+    <value>系统</value>
   </data>
   <data name="Settings_SystemInfoText" xml:space="preserve">
-    <value>Paramètres généraux du système</value>
+    <value>常规系统设置</value>
   </data>
   <data name="Settings_OverlayText" xml:space="preserve">
-    <value>OVERLAY</value>
+    <value>覆盖层</value>
   </data>
   <data name="Settings_OverlayInfoText" xml:space="preserve">
-    <value>Propriétés de l'overlay</value>
+    <value>覆盖层属性</value>
   </data>
   <data name="Settings_CreditsText" xml:space="preserve">
-    <value>CRÉDITS</value>
+    <value>制作人员</value>
   </data>
   <data name="Settings_CreditsInfoText" xml:space="preserve">
-    <value>L'équipe derrière le jeu</value>
+    <value>游戏背后的团队</value>
   </data>
   <data name="Settings_StatsText" xml:space="preserve">
-    <value>STATS</value>
+    <value>统计</value>
   </data>
   <data name="Settings_StatsInfoText" xml:space="preserve">
-    <value>Statistiques</value>
+    <value>统计数据</value>
   </data>
   <data name="Settings_Header_Volume" xml:space="preserve">
-    <value>VOLUME</value>
+    <value>音量</value>
   </data>
   <data name="Settings_Header_Toggles" xml:space="preserve">
-    <value>OPTIONS</value>
+    <value>开关</value>
   </data>
   <data name="Settings_Header_Controls" xml:space="preserve">
-    <value>CONTRÔLES</value>
+    <value>控制</value>
   </data>
   <data name="Settings_Header_Appearance" xml:space="preserve">
-    <value>APPARENCE</value>
+    <value>外观</value>
   </data>
   <data name="Settings_Header_Video" xml:space="preserve">
-    <value>VIDÉO</value>
+    <value>视频</value>
   </data>
   <data name="Settings_Header_Team" xml:space="preserve">
-    <value>ÉQUIPE</value>
+    <value>团队</value>
   </data>
   <data name="Settings_Header_GameAssets" xml:space="preserve">
-    <value>RESSOURCES DU JEU</value>
+    <value>游戏资源</value>
   </data>
   <data name="Settings_Header_BuiltWith" xml:space="preserve">
-    <value>RÉALISÉ AVEC</value>
+    <value>使用技术</value>
   </data>
   <data name="Settings_Header_Links" xml:space="preserve">
-    <value>LIENS</value>
+    <value>链接</value>
   </data>
   <data name="Settings_Header_PrivacyPolicy" xml:space="preserve">
-    <value>POLITIQUE DE CONFIDENTIALITÉ</value>
+    <value>隐私政策</value>
   </data>
   <data name="Settings_Header_Stats" xml:space="preserve">
-    <value>STATS</value>
+    <value>统计</value>
   </data>
   <data name="Settings_Header_Dungeon" xml:space="preserve">
-    <value>DONJON</value>
+    <value>地下城</value>
   </data>
   <data name="Settings_Header_Ranked" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>排位赛</value>
   </data>
   <data name="Settings_General_English" xml:space="preserve">
-    <value>Français</value>
+    <value>中文（简体）</value>
   </data>
   <data name="Settings_General_Quit" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>退出</value>
   </data>
   <data name="Settings_Audio_GameVolume" xml:space="preserve">
-    <value>Volume du jeu</value>
+    <value>游戏音量</value>
   </data>
   <data name="Settings_Audio_Music" xml:space="preserve">
-    <value>Musique</value>
+    <value>音乐</value>
   </data>
   <data name="Settings_Audio_SoundEffects" xml:space="preserve">
-    <value>Effets sonores</value>
+    <value>音效</value>
   </data>
   <data name="Settings_Audio_EnableMusic" xml:space="preserve">
-    <value>Activer la musique</value>
+    <value>启用音乐</value>
   </data>
   <data name="Settings_Overlay_ControllerSupport" xml:space="preserve">
-    <value>Activer le support manette</value>
+    <value>启用手柄支持</value>
   </data>
   <data name="Settings_Overlay_WidgetSize" xml:space="preserve">
-    <value>Taille du widget</value>
+    <value>小部件大小</value>
   </data>
   <data name="Settings_Overlay_ShowXpBar" xml:space="preserve">
-    <value>Afficher la barre XP</value>
+    <value>显示经验条</value>
   </data>
   <data name="Settings_Overlay_ScreenSelection" xml:space="preserve">
-    <value>Sélection de l'écran</value>
+    <value>屏幕选择</value>
   </data>
   <data name="Settings_Overlay_SoftwareRendering" xml:space="preserve">
-    <value>Rendu logiciel</value>
+    <value>软件渲染</value>
   </data>
   <data name="Settings_Overlay_FpsLimit" xml:space="preserve">
-    <value>Limite FPS</value>
+    <value>帧率限制</value>
   </data>
   <data name="Settings_Overlay_ScreenPrimary" xml:space="preserve">
-    <value>Écran {0} (Principal)</value>
+    <value>屏幕 {0}（主屏幕）</value>
   </data>
   <data name="Settings_Overlay_ScreenNormal" xml:space="preserve">
-    <value>Écran {0}</value>
+    <value>屏幕 {0}</value>
   </data>
   <data name="Settings_Credits_Programming" xml:space="preserve">
-    <value>Programmation</value>
+    <value>编程</value>
   </data>
   <data name="Settings_Credits_Art" xml:space="preserve">
-    <value>Art &amp; Design</value>
+    <value>美术与设计</value>
   </data>
   <data name="Settings_Credits_MusicText" xml:space="preserve">
-    <value>Musique</value>
+    <value>音乐</value>
   </data>
   <data name="Settings_Credits_BugHunters" xml:space="preserve">
-    <value>Chasseurs de bugs</value>
+    <value>找虫侠</value>
   </data>
   <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>Chevalier, Créateur : Mattz</value>
+    <value>骑士，创作者：Mattz</value>
   </data>
   <data name="Settings_Credits_AssetEdits" xml:space="preserve">
-    <value>Éditions : Dark, Darkness, Shadow, Bloody, White, Monochrome(Probably), Green, Emerald, VoIP (Pooh5159), Gold (Upper)</value>
+    <value>编辑：Dark, Darkness, Shadow, Bloody, White, Monochrome (Probably), Green, Emerald, VoIP(Pooh5159), Gold (Upper)</value>
   </data>
   <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>Gobelin, Créateur : Mattz</value>
+    <value>哥布林，创作者：Mattz</value>
   </data>
   <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>Squelette, Créateur : Mattz</value>
+    <value>骷髅，创作者：Mattz</value>
   </data>
   <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>Kobold, Créateur : Mattz</value>
+    <value>地精，创作者：Mattz</value>
   </data>
   <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>Bébé Dragon, Créateur : Mattz</value>
+    <value>小龙，创作者：Mattz</value>
   </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>VECR Engine (WPF / .NET, C#)</value>
   </data>
   <data name="Settings_Links_Website" xml:space="preserve">
-    <value>Site web</value>
+    <value>网站</value>
   </data>
   <data name="Settings_Links_Discord" xml:space="preserve">
-    <value>Serveur Discord</value>
+    <value>Discord服务器</value>
   </data>
   <data name="Settings_Links_ReportBug" xml:space="preserve">
-    <value>Signaler un bug</value>
+    <value>报告错误</value>
   </data>
   <data name="Settings_Privacy_1" xml:space="preserve">
-    <value>Idle Knight traite un ensemble limité de données afin de fournir des fonctionnalités en ligne et assurer le bon fonctionnement du jeu.</value>
+    <value>Idle Knight处理有限的数据，以提供在线功能并确保游戏正常运行。</value>
   </data>
   <data name="Settings_Privacy_2" xml:space="preserve">
-    <value>Les informations suivantes peuvent être collectées et stockées :</value>
+    <value>以下信息可能会被收集和存储：</value>
   </data>
   <data name="Settings_Privacy_3" xml:space="preserve">
     <value>• SteamID64</value>
   </data>
   <data name="Settings_Privacy_4" xml:space="preserve">
-    <value>• Progression du joueur et statistiques de jeu</value>
+    <value>• 玩家进度和游戏统计数据</value>
   </data>
   <data name="Settings_Privacy_5" xml:space="preserve">
-    <value>• Données de matchmaking et de classement</value>
+    <value>• 匹配和排行榜数据</value>
   </data>
   <data name="Settings_Privacy_6" xml:space="preserve">
-    <value>• Données techniques liées au serveur</value>
+    <value>• 与服务器相关的技术数据</value>
   </data>
   <data name="Settings_Privacy_7" xml:space="preserve">
-    <value>• Informations nécessaires à la validation des achats Steam (aucune information de paiement n'est collectée)</value>
+    <value>• 验证Steam购买所需的信息（不收集支付信息）</value>
   </data>
   <data name="Settings_Privacy_8" xml:space="preserve">
-    <value>Ces données sont utilisées exclusivement pour :</value>
+    <value>这些数据仅用于：</value>
   </data>
   <data name="Settings_Privacy_9" xml:space="preserve">
-    <value>• Identifier le joueur</value>
+    <value>• 识别玩家</value>
   </data>
   <data name="Settings_Privacy_10" xml:space="preserve">
-    <value>• Sauvegarder et synchroniser la progression</value>
+    <value>• 保存并同步进度</value>
   </data>
   <data name="Settings_Privacy_11" xml:space="preserve">
-    <value>• Gérer le matchmaking et les classements</value>
+    <value>• 运营匹配系统和排行榜</value>
   </data>
   <data name="Settings_Privacy_12" xml:space="preserve">
-    <value>• Maintenir les services en ligne et les serveurs de jeu</value>
+    <value>• 维护在线服务和游戏服务器</value>
   </data>
   <data name="Settings_Privacy_13" xml:space="preserve">
-    <value>• Vérifier les achats et droits Steam</value>
+    <value>• 验证Steam购买和权益</value>
   </data>
   <data name="Settings_Privacy_14" xml:space="preserve">
-    <value>Aucune donnée n'est vendue, partagée ou transmise à des tiers.</value>
+    <value>任何数据均不会被出售、共享或转让给第三方。</value>
   </data>
   <data name="Settings_Privacy_15" xml:space="preserve">
-    <value>Toutes les données collectées sont stockées de manière sécurisée sur nos serveurs.</value>
+    <value>所有收集的数据均安全存储在我们的服务器上。</value>
   </data>
   <data name="Settings_Privacy_16" xml:space="preserve">
-    <value>En jouant à Idle Knight, vous acceptez cette Politique de Confidentialité ainsi que la Politique de Confidentialité de Steam.</value>
+    <value>通过游玩Idle Knight，您同意本隐私政策及Steam自身的隐私政策。</value>
   </data>
   <data name="Settings_Title_IdleKnight" xml:space="preserve">
     <value>Idle Knight</value>
   </data>
   <data name="Settings_Version_Text" xml:space="preserve">
-    <value>Version 1.0.0 Playtest  •  2026</value>
+    <value>版本 1.0.0 测试版 • 2026</value>
   </data>
   <data name="Settings_Stats_XP" xml:space="preserve">
     <value>XP</value>
   </data>
   <data name="Settings_Stats_TotalXp" xml:space="preserve">
-    <value>XP total gagné</value>
+    <value>总获得经验值</value>
   </data>
   <data name="Settings_Stats_LEVEL" xml:space="preserve">
-    <value>NIVEAU</value>
+    <value>等级</value>
   </data>
   <data name="Settings_Stats_CurrentLevel" xml:space="preserve">
-    <value>Niveau actuel</value>
+    <value>当前等级</value>
   </data>
   <data name="Settings_Stats_HP" xml:space="preserve">
     <value>HP</value>
   </data>
   <data name="Settings_Stats_CurrentHp" xml:space="preserve">
-    <value>HP actuel</value>
+    <value>当前生命值</value>
   </data>
   <data name="Settings_Stats_DMG" xml:space="preserve">
-    <value>DGT</value>
+    <value>伤害</value>
   </data>
   <data name="Settings_Stats_CurrentDamage" xml:space="preserve">
-    <value>Dégâts actuels</value>
+    <value>当前伤害</value>
   </data>
   <data name="Settings_Stats_AGI" xml:space="preserve">
-    <value>AGI</value>
+    <value>敏捷</value>
   </data>
   <data name="Settings_Stats_CurrentAgility" xml:space="preserve">
-    <value>Agilité actuelle</value>
+    <value>当前敏捷</value>
   </data>
   <data name="Settings_Stats_PTS" xml:space="preserve">
-    <value>PTS</value>
+    <value>点数</value>
   </data>
   <data name="Settings_Stats_AvailabilityPoints" xml:space="preserve">
-    <value>Points disponibles</value>
+    <value>可用点数</value>
   </data>
   <data name="Settings_Stats_MATCHES" xml:space="preserve">
-    <value>PARTIES</value>
+    <value>对局</value>
   </data>
   <data name="Settings_Stats_DungeonMatches" xml:space="preserve">
-    <value>Total de parties en donjon</value>
+    <value>地下城总对局数</value>
   </data>
   <data name="Settings_Stats_WINS" xml:space="preserve">
-    <value>VICTOIRES</value>
+    <value>胜利</value>
   </data>
   <data name="Settings_Stats_DungeonWins" xml:space="preserve">
-    <value>Total de victoires en donjon</value>
+    <value>地下城总胜利数</value>
   </data>
   <data name="Settings_Stats_LOSSES" xml:space="preserve">
-    <value>DÉFAITES</value>
+    <value>失败</value>
   </data>
   <data name="Settings_Stats_DungeonLosses" xml:space="preserve">
-    <value>Total de défaites en donjon</value>
+    <value>地下城总失败数</value>
   </data>
   <data name="Settings_Stats_RankedMatches" xml:space="preserve">
-    <value>Total de parties classées</value>
+    <value>排位赛总对局数</value>
   </data>
   <data name="Settings_Stats_RankedWins" xml:space="preserve">
-    <value>Total de victoires classées</value>
+    <value>排位赛总胜利数</value>
   </data>
   <data name="Settings_Stats_RankedLosses" xml:space="preserve">
-    <value>Total de défaites classées</value>
+    <value>排位赛总失败数</value>
   </data>
   <data name="Settings_Stats_EARNED" xml:space="preserve">
-    <value>GAGNÉS</value>
+    <value>获得</value>
   </data>
   <data name="Settings_Stats_RankedPointsEarned" xml:space="preserve">
-    <value>Total de points classés gagnés</value>
+    <value>排位赛总获得积分</value>
   </data>
   <data name="Settings_Stats_LOST" xml:space="preserve">
-    <value>PERDUS</value>
+    <value>失去</value>
   </data>
   <data name="Settings_Stats_RankedPointsLost" xml:space="preserve">
-    <value>Total de points classés perdus</value>
+    <value>排位赛总失去积分</value>
   </data>
   <data name="Settings_Stats_SuffixXP" xml:space="preserve">
-    <value> XP</value>
+    <value>XP</value>
   </data>
   <data name="Settings_Stats_PrefixLVL" xml:space="preserve">
-    <value>NIV </value>
+    <value>等级</value>
   </data>
   <data name="Settings_Stats_SuffixHP" xml:space="preserve">
-    <value> HP</value>
+    <value>HP</value>
   </data>
   <data name="Settings_Stats_SuffixDMG" xml:space="preserve">
-    <value> DGT</value>
+    <value>伤害</value>
   </data>
   <data name="Settings_Stats_SuffixAGI" xml:space="preserve">
-    <value>% AGI</value>
+    <value>% 敏捷</value>
   </data>
   <data name="Settings_Stats_SuffixPTS" xml:space="preserve">
-    <value> PTS</value>
+    <value>点数</value>
   </data>
   <data name="MainMenu_FightButton_Text" xml:space="preserve">
-    <value>⚔️ COMBAT ⚔️</value>
+    <value>⚔️ 战斗 ⚔️</value>
   </data>
   <data name="FightMenu_DungeonButton_Text" xml:space="preserve">
-    <value>DONJON</value>
+    <value>地下城</value>
   </data>
   <data name="FightMenu_RankedButton_Text" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>排位赛</value>
   </data>
   <data name="FightMenu_FightText" xml:space="preserve">
-    <value>COMBAT</value>
+    <value>战斗</value>
   </data>
   <data name="DungeonMenu_DungeonText" xml:space="preserve">
-    <value>DONJON</value>
+    <value>地下城</value>
   </data>
   <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>Catacombes Abandonnées</value>
+    <value>废弃地下墓穴</value>
   </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
-    <value>Puissance recommandée : </value>
+    <value>推荐战力：</value>
   </data>
   <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>NIVEAU 18</value>
+    <value>等级 18</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
-    <value>RÉCOMPENSES POSSIBLES</value>
+    <value>可能的奖励</value>
   </data>
   <data name="DungeonMenu_Keys_Text" xml:space="preserve">
-    <value>Clés : </value>
+    <value>钥匙：</value>
   </data>
   <data name="RankedMenu_RankedText" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>排位赛</value>
   </data>
   <data name="RankedMenu_FindMatch_Button" xml:space="preserve">
-    <value>TROUVER UNE PARTIE</value>
+    <value>寻找对局</value>
   </data>
   <data name="RankedMenu_ExitButton" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>退出</value>
   </data>
   <data name="RankedMenu_Keys_Text" xml:space="preserve">
-    <value>Clés : </value>
+    <value>钥匙：</value>
   </data>
   <data name="FightMenu_ExitButton_Text" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>退出</value>
   </data>
   <data name="DungeonMenu_EnterDungeon_Button" xml:space="preserve">
-    <value>ENTRER DANS LE DONJON</value>
+    <value>进入地下城</value>
   </data>
   <data name="DungeonMenu_Exit_Button" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>退出</value>
   </data>
   <data name="RankedMenu_Points_Text" xml:space="preserve">
-    <value>Points : </value>
+    <value>积分：</value>
   </data>
   <data name="Tuto_Dialogue1" xml:space="preserve">
-    <value>Hé, toi ! Ouais, toi, la nouvelle recrue en armure.</value>
+    <value>嘿，你！对，就是你，穿盔甲的新兵。</value>
   </data>
   <data name="Tuto_Dialogue2" xml:space="preserve">
-    <value>Tu ne vas pas rester planté là toute la journée, si ?</value>
+    <value>你不会整天就站在那儿吧？</value>
   </data>
   <data name="Tuto_Dialogue3" xml:space="preserve">
-    <value>Prouve-moi que tu sais tenir sur tes deux jambes.
-Saisis ton personnage et déplace-le sur l'écran.</value>
+    <value>向我证明你能自立。抓住你的角色并在屏幕上移动它。</value>
   </data>
   <data name="Tuto_Dialogue4" xml:space="preserve">
-    <value>Pas mal, tu n'es pas complètement rouillé !</value>
+    <value>不错嘛，你还没完全生锈！</value>
   </data>
   <data name="Tuto_Dialogue5" xml:space="preserve">
-    <value>Maintenant, survole ton personnage
-pour découvrir le menu.</value>
+    <value>现在将鼠标悬停在角色上以发现菜单。</value>
   </data>
   <data name="Tuto_Dialogue6" xml:space="preserve">
-    <value>Tu vois ton nom en haut ? C'est toi.
-Pour l'instant tu es niveau 0, mais ça va vite changer.</value>
+    <value>看到顶部的名字了吗？那就是你。现在你是0级，但这即将改变。</value>
   </data>
   <data name="Tuto_Dialogue7" xml:space="preserve">
-    <value>La barre bleue sous ton nom est ton expérience.
-Elle se remplit chaque fois que tu cliques sur ton personnage.</value>
+    <value>名字下方的蓝条是你的经验值。每次点击角色时它就会增加。</value>
   </data>
   <data name="Tuto_Dialogue8" xml:space="preserve">
-    <value>Le nombre en dessous indique l'XP gagnée à ce niveau,
-et combien il t'en faut pour atteindre le suivant.</value>
+    <value>下方的数字显示你在本级获得了多少经验值，以及升到下一级还需要多少。</value>
   </data>
   <data name="Tuto_Dialogue9" xml:space="preserve">
-    <value>Les trois lignes en dessous sont tes stats :
-PV, DGT et AGI.
-On y reviendra plus tard.</value>
+    <value>下面三行是你的属性：HP、伤害和敏捷。我们稍后会再讲。</value>
   </data>
   <data name="Tuto_Dialogue10" xml:space="preserve">
-    <value>Le bouton COMBAT en bas est l'endroit où tout commence.
-C'est celui qui lance les batailles.</value>
+    <value>底部的战斗按钮是一切的起点。那是开始战斗的按钮。</value>
   </data>
   <data name="Tuto_Dialogue11" xml:space="preserve">
-    <value>Et tout en bas, tes raccourcis :
-Amis, Classement, Inventaire, Boutique et Paramètres.</value>
+    <value>在最底部是你的快捷方式：好友、排行榜、背包、商店和设置。</value>
   </data>
   <data name="Tuto_Dialogue12" xml:space="preserve">
-    <value>Ici, tu peux trouver tes amis et suivre leur progression.
-Tu peux aussi combattre le fantôme d'un ami en cliquant sur le bouton Combat.</value>
+    <value>在这里你可以找到你的好友并追踪他们的进度。你也可以通过点击战斗按钮与好友的幽灵对战。</value>
   </data>
   <data name="Tuto_Dialogue13" xml:space="preserve">
-    <value>Compare-toi aux meilleurs joueurs du monde.
-Grimpe dans le classement en accumulant de l'XP.</value>
+    <value>与世界上最好的玩家比较。通过积累经验值来提升排名。</value>
   </data>
   <data name="Tuto_Dialogue14" xml:space="preserve">
-    <value>C'est ici que tu choisis ton apparence.
-Personnalise le look de ton personnage.</value>
+    <value>这里是你选择皮肤的地方。自定义你的角色外观。</value>
   </data>
   <data name="Tuto_Dialogue15" xml:space="preserve">
-    <value>C'est ici que tu choisis ton mode de combat.
-Donjon, Classé et Événement.</value>
+    <value>这里是你选择战斗模式的地方。地下城、排位和活动。</value>
   </data>
   <data name="Tuto_Dialogue16" xml:space="preserve">
-    <value>Affronte des joueurs du monde entier en temps réel.
-Grimpe dans le classement pour te faire un nom.</value>
+    <value>与来自世界各地的玩家实时对战。攀登排行榜以扬名立万。</value>
   </data>
   <data name="Tuto_Dialogue17" xml:space="preserve">
-    <value>Ici, tu peux ajuster le jeu à ta guise.
-Son, langue, notifications... tout est là.</value>
+    <value>在这里你可以根据自己的喜好调整游戏。声音、语言、通知……一切都在这里。</value>
   </data>
   <data name="Tuto_Dialogue18" xml:space="preserve">
-    <value>Parfait, tu connais les rouages maintenant.
-Clique n'importe où pour gagner de l'XP.</value>
+    <value>完美，你现在已经了解了基础知识。点击任何地方以获得经验值。</value>
   </data>
   <data name="Tuto_Dialogue19" xml:space="preserve">
-    <value>Pas mal du tout !
-Maintenant, tu vas devoir prendre du muscle avant d'entrer dans l'arène.</value>
+    <value>不错！现在你需要在进入竞技场之前练出一些肌肉。</value>
   </data>
   <data name="Tuto_Dialogue20" xml:space="preserve">
-    <value>Continue de cliquer jusqu'à atteindre le niveau 1 !
-Chaque clic te rapproche du but.</value>
+    <value>继续点击直到达到1级！每次点击让你更接近目标。</value>
   </data>
   <data name="Tuto_Dialogue21" xml:space="preserve">
-    <value>Beau travail ! Tu as atteint le niveau 1 !
-Il est temps de choisir tes compétences.</value>
+    <value>干得好！你已经达到1级！是时候选择你的技能了。</value>
   </data>
   <data name="Tuto_Dialogue22" xml:space="preserve">
-    <value>PV : Plus de points de vie.
-Plus tu en as, plus tu peux encaisser de coups.</value>
+    <value>HP：更多生命值。拥有的越多，你能承受的攻击就越多。</value>
   </data>
   <data name="Tuto_Dialogue23" xml:space="preserve">
-    <value>DGT : Plus de dégâts.
-Frappe plus fort, tue plus vite.</value>
+    <value>伤害：更多伤害。打得更猛，杀得更快。</value>
   </data>
   <data name="Tuto_Dialogue24" xml:space="preserve">
-    <value>AGI : Plus d'esquive.
-Plus elle est élevée, plus tu frappes tôt en combat.</value>
+    <value>敏捷：更高的闪避。越高，你在战斗中出手越早。</value>
   </data>
   <data name="Tuto_Dialogue25" xml:space="preserve">
-    <value>À ton tour.
-Choisis sagement, chaque point compte !</value>
+    <value>轮到你了。明智地选择，每一点都很重要！</value>
   </data>
   <data name="Tuto_Dialogue26" xml:space="preserve">
-    <value>Et voilà, tu es devenu plus fort !
-Chaque point investi fait la différence en combat.</value>
+    <value>就是这样，你变强了！每投入的一点在战斗中都有所不同。</value>
   </data>
   <data name="Tuto_Dialogue27" xml:space="preserve">
-    <value>Pour terminer l'entraînement, tu peux lancer un match Classé rapide.
-Mais tu n'es pas obligé, c'est toi qui vois.</value>
+    <value>为了完成训练，你可以参加一场快速排位赛。但这不是必须的，由你决定。</value>
   </data>
   <data name="Tuto_Dialogue28" xml:space="preserve">
-    <value>C'est tout ce que j'avais à t'apprendre.
-Bonne chance, guerrier. La suite ne dépend que de toi.</value>
+    <value>这就是我要教你的全部内容。祝你好运，战士。接下来就靠你自己了。</value>
   </data>
   <data name="Tuto_Dialogue29" xml:space="preserve">
-    <value>Ouvre le menu {name}.</value>
+    <value>打开 {name} 菜单。</value>
   </data>
   <data name="Tuto_DialogueMentorName" xml:space="preserve">
-    <value>Mentor</value>
+    <value>导师</value>
   </data>
   <data name="Tuto_DialogueKnightName" xml:space="preserve">
-    <value>Chevalier</value>
+    <value>骑士</value>
   </data>
   <data name="Tuto_Dialogue30" xml:space="preserve">
-    <value>Entre dans les donjons pour affronter de puissants boss et gagner de superbes récompenses.
-Conquis chaque étage et prouve que tu es digne de la gloire.</value>
+    <value>进入地下城对抗强大的首领并获得丰厚奖励。征服每一层并证明你值得拥有荣耀。</value>
   </data>
   <data name="MainMenu_HpText" xml:space="preserve">
-    <value>PV</value>
+    <value>生命值</value>
   </data>
   <data name="MainMenu_DmgText" xml:space="preserve">
-    <value>DGT</value>
+    <value>伤害</value>
   </data>
   <data name="MainMenu_AgiText" xml:space="preserve">
-    <value>% AGI</value>
+    <value>% 敏捷</value>
   </data>
   <data name="PtsUntilNextRank" xml:space="preserve">
-    <value>Jusqu'à</value>
+    <value>距</value>
   </data>
   <data name="FriendsMenu_Text" xml:space="preserve">
-    <value>AMIS</value>
+    <value>好友</value>
   </data>
   <data name="FriendsMenu_OnlineText" xml:space="preserve">
-    <value>en ligne</value>
+    <value>在线</value>
   </data>
   <data name="FriendsMenu_FriendsText" xml:space="preserve">
-    <value>amis</value>
+    <value>好友</value>
   </data>
   <data name="FriendsMenu_SearchFriendsText" xml:space="preserve">
-    <value>Rechercher un ami...</value>
+    <value>搜索好友...</value>
   </data>
   <data name="Previous_Button_Text" xml:space="preserve">
-    <value>◀ PREC</value>
+    <value>◀ 上一个</value>
   </data>
   <data name="Next_Button_Text" xml:space="preserve">
-    <value>SUIV ▶</value>
+    <value>下一个 ▶</value>
   </data>
   <data name="FriendsMenu_Fight_Button" xml:space="preserve">
-    <value>COMBATTRE</value>
+    <value>战斗</value>
   </data>
   <data name="FriendsMenu_Level_Text" xml:space="preserve">
-    <value>NIV</value>
+    <value>等级</value>
   </data>
   <data name="FriendsMenu_Loading_Text" xml:space="preserve">
-    <value>Chargement...</value>
+    <value>加载中...</value>
   </data>
   <data name="FightMenu_EventText" xml:space="preserve">
-    <value>ÉVÉNEMENT</value>
+    <value>活动</value>
   </data>
   <data name="LeaderboardMenu_You_Text" xml:space="preserve">
-    <value>Toi ·</value>
+    <value>你 ·</value>
   </data>
   <data name="DungeonMenu_BattleBossFight_Text" xml:space="preserve">
-    <value>COMBAT BOSS</value>
+    <value>首领战</value>
   </data>
   <data name="DungeonMenu_BattleFloor_Text" xml:space="preserve">
-    <value>ÉTAGE</value>
+    <value>层</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ Combat...</value>
+    <value>⚔ 战斗中...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
-    <value>Banni !</value>
+    <value>已封禁！</value>
   </data>
   <data name="InventoryMenu_Text" xml:space="preserve">
-    <value>INVENTAIRE</value>
+    <value>背包</value>
   </data>
   <data name="InventoryMenu_Skins_Text" xml:space="preserve">
-    <value>SKINS</value>
+    <value>皮肤</value>
   </data>
   <data name="InventoryMenu_Consumables_Text" xml:space="preserve">
-    <value>CONSOMMABLES</value>
+    <value>消耗品</value>
   </data>
   <data name="InventoryMenu_All_Button" xml:space="preserve">
-    <value>TOUS</value>
+    <value>全部</value>
   </data>
   <data name="UnlockCondition_1" xml:space="preserve">
-    <value>Skin par défaut</value>
+    <value>默认皮肤</value>
   </data>
   <data name="UnlockCondition_2" xml:space="preserve">
-    <value>Vaincre le boss du donjon 2</value>
+    <value>击败地下城2的首领</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
-    <value>À venir...</value>
+    <value>即将推出...</value>
   </data>
   <data name="UnlockCondition_4" xml:space="preserve">
-    <value>Rejoignez le discord Idle Knight</value>
+    <value>加入Idle Knight Discord服务器并申请皮肤</value>
   </data>
   <data name="UnlockCondition_5" xml:space="preserve">
-    <value>Acheter dans la boutique</value>
+    <value>在商店购买</value>
   </data>
   <data name="UnlockCondition_6" xml:space="preserve">
-    <value>Uniquement pour les playtesteurs</value>
+    <value>内测专属</value>
   </data>
   <data name="Consumable_ItemName_1" xml:space="preserve">
-    <value>Plume de phénix</value>
+    <value>凤凰羽毛</value>
   </data>
   <data name="Consumable_ItemName_2" xml:space="preserve">
-    <value>Double XP 15 min</value>
+    <value>双倍经验 15分钟</value>
   </data>
   <data name="Consumable_ItemName_3" xml:space="preserve">
-    <value>Double XP 30 min</value>
+    <value>双倍经验 30分钟</value>
   </data>
   <data name="Consumable_ItemName_4" xml:space="preserve">
-    <value>Double XP 60 min</value>
+    <value>双倍经验 60分钟</value>
   </data>
   <data name="Consumable_ItemDesc_1" xml:space="preserve">
-    <value>Réinitialise tes stats et restaure ton build de base.</value>
+    <value>重置你的属性并恢复基础配置。</value>
   </data>
   <data name="Consumable_ItemDesc_2" xml:space="preserve">
-    <value>Double ton XP pendant 15 minutes.</value>
+    <value>在15分钟内使经验值加倍。</value>
   </data>
   <data name="Consumable_ItemDesc_3" xml:space="preserve">
-    <value>Double ton XP pendant 30 minutes.</value>
+    <value>在30分钟内使经验值加倍。</value>
   </data>
   <data name="Consumable_ItemDesc_4" xml:space="preserve">
-    <value>Double ton XP pendant 60 minutes.</value>
+    <value>在60分钟内使经验值加倍。</value>
   </data>
   <data name="Consumable_ItemEffect_1" xml:space="preserve">
-    <value>Réinitialisation des stats</value>
+    <value>重置属性</value>
   </data>
   <data name="Consumable_ItemEffect_2" xml:space="preserve">
-    <value>x2 XP / 15 min</value>
+    <value>x2 XP / 15 分钟</value>
   </data>
   <data name="Consumable_ItemEffect_3" xml:space="preserve">
-    <value>x2 XP / 30 min</value>
+    <value>x2 XP / 30 分钟</value>
   </data>
   <data name="Consumable_ItemEffect_4" xml:space="preserve">
-    <value>x2 XP / 60 min</value>
+    <value>x2 XP / 60 分钟</value>
   </data>
   <data name="Notif_title_1" xml:space="preserve">
-    <value>Consommable trouvé !</value>
+    <value>找到消耗品！</value>
   </data>
   <data name="Notif_title_2" xml:space="preserve">
-    <value>Plus aucune clé disponible</value>
+    <value>没有钥匙了</value>
   </data>
   <data name="Notif_message_2" xml:space="preserve">
-    <value>Patiente jusqu’à la reset quotidienne (1h00 UTC)</value>
+    <value>等待每日UTC凌晨1:00的重置。</value>
   </data>
   <data name="Notif_title_3" xml:space="preserve">
-    <value>Stats non synchronisées</value>
+    <value>属性未同步</value>
   </data>
   <data name="Notif_message_3" xml:space="preserve">
-    <value>Veuillez patienter {secondsLeft}s avant de jouer.</value>
+    <value>请在游戏前等待 {secondsLeft} 秒。</value>
   </data>
   <data name="Notif_title_4" xml:space="preserve">
-    <value>Classé indisponible</value>
+    <value>排位赛不可用</value>
   </data>
   <data name="Notif_message_4" xml:space="preserve">
-    <value>Aucun adversaire trouvé à votre niveau. Réessayez plus tard.</value>
+    <value>在你的等级找不到对手。请稍后再试。</value>
   </data>
   <data name="Notif_title_5" xml:space="preserve">
-    <value>Donjon indisponible</value>
+    <value>地下城不可用</value>
   </data>
   <data name="Notif_message_5" xml:space="preserve">
-    <value>Une erreur s’est produite. Réessayez plus tard.</value>
+    <value>出了点问题。请稍后再试。</value>
   </data>
   <data name="Notif_title_6" xml:space="preserve">
-    <value>Stats non synchronisées</value>
+    <value>属性未同步</value>
   </data>
   <data name="Notif_message_6" xml:space="preserve">
-    <value>Vous devez attendre {secondsLeft}s avant de l’utiliser.</value>
+    <value>请在使用前等待 {secondsLeft} 秒。</value>
   </data>
   <data name="Cheater_text" xml:space="preserve">
-    <value>Cheater !</value>
+    <value>作弊者！</value>
   </data>
   <data name="Notif_title_7" xml:space="preserve">
-    <value>Niveau supérieur !</value>
+    <value>升级了！</value>
   </data>
   <data name="Notif_title_8" xml:space="preserve">
-    <value>Record hebdomadaire !</value>
+    <value>周记录！</value>
   </data>
   <data name="Notif_title_9" xml:space="preserve">
-    <value>Montée de rang !</value>
+    <value>段位提升！</value>
   </data>
   <data name="Notif_title_10" xml:space="preserve">
-    <value>Top 3 !</value>
+    <value>前3名！</value>
   </data>
   <data name="Notif_title_11" xml:space="preserve">
-    <value>Sauvegardé</value>
+    <value>已保存</value>
   </data>
   <data name="Notif_title_12" xml:space="preserve">
-    <value>Mode hors‑ligne</value>
+    <value>离线模式</value>
   </data>
   <data name="Notif_title_20" xml:space="preserve">
-    <value>Manette</value>
+    <value>手柄</value>
   </data>
   <data name="Notif_title_14" xml:space="preserve">
-    <value>⚠️ AVERTISSEMENT ⚠️</value>
+    <value>⚠️ 警告 ⚠️</value>
   </data>
   <data name="Notif_title_15" xml:space="preserve">
-    <value>⚠️ BANNI ⚠️</value>
+    <value>⚠️ 已封禁 ⚠️</value>
   </data>
   <data name="Notif_title_16" xml:space="preserve">
-    <value>☠️ Vous avez été signalé ☠️</value>
+    <value>☠️ 你已被标记 ☠️</value>
   </data>
   <data name="Notif_title_17" xml:space="preserve">
-    <value>Reconnecté</value>
+    <value>已重新连接</value>
   </data>
   <data name="Notif_title_18" xml:space="preserve">
-    <value>Dépassé !</value>
+    <value>被超越了！</value>
   </data>
   <data name="Notif_title_19" xml:space="preserve">
-    <value>Ami en ligne</value>
+    <value>好友上线</value>
   </data>
   <data name="Notif_message_7" xml:space="preserve">
-    <value>Niveau {level} atteint !</value>
+    <value>已达到 {level} 级！</value>
   </data>
   <data name="Notif_message_8" xml:space="preserve">
-    <value>{xp:N0} XP cette semaine</value>
+    <value>本周 {xp:N0} XP</value>
   </data>
   <data name="Notif_message_9" xml:space="preserve">
-    <value>Vous êtes maintenant n°{rank}</value>
+    <value>你现在排名第 #{rank}！</value>
   </data>
   <data name="Notif_message_10" xml:space="preserve">
-    <value>Vous êtes n°{rank} mondial !</value>
+    <value>你是全球第 #{rank} 名！</value>
   </data>
   <data name="Notif_message_11" xml:space="preserve">
-    <value>Progression envoyée au serveur</value>
+    <value>进度已发送至服务器</value>
   </data>
   <data name="Notif_message_12" xml:space="preserve">
-    <value>Sauvegarde locale uniquement. Vos statistiques ne seront pas enregistrées en ligne.</value>
+    <value>仅本地保存。你的属性不会在线保存。</value>
   </data>
   <data name="Notif_message_20" xml:space="preserve">
-    <value>Connecté.</value>
+    <value>已连接。</value>
   </data>
   <data name="Notif_message_21" xml:space="preserve">
-    <value>Déconnecté.</value>
+    <value>已断开连接。</value>
   </data>
   <data name="Notif_message_14" xml:space="preserve">
-    <value>Activité suspecte détectée.</value>
+    <value>检测到可疑活动。</value>
   </data>
   <data name="Notif_message_15" xml:space="preserve">
-    <value>Compte banni.</value>
+    <value>账号已封禁。</value>
   </data>
   <data name="Notif_message_16" xml:space="preserve">
-    <value>Triche détectée. L’incident a été signalé.</value>
+    <value>检测到作弊行为。此事件已被举报。</value>
   </data>
   <data name="Notif_message_17" xml:space="preserve">
-    <value>Serveur disponible</value>
+    <value>服务器可用</value>
   </data>
   <data name="Notif_message_18" xml:space="preserve">
-    <value>{name} vient de vous dépasser</value>
+    <value>{name} 刚刚超过了你</value>
   </data>
   <data name="Notif_title_21" xml:space="preserve">
-    <value>Manette</value>
+    <value>手柄</value>
   </data>
   <data name="RankedBattle_Text" xml:space="preserve">
-    <value>COMBAT CLASSÉ</value>
+    <value>排位战</value>
   </data>
   <data name="Dungeon_Boss_Text" xml:space="preserve">
-    <value>BOSS</value>
+    <value>首领</value>
   </data>
   <data name="GhostBattle_Text" xml:space="preserve">
-    <value>COMBAT FANTOME</value>
+    <value>幽灵战</value>
   </data>
   <data name="Dungeon_Floor_Text" xml:space="preserve">
-    <value>ÉTAGE</value>
+    <value>层</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ Boss en approche...</value>
+    <value>⚔ 首领即将出现...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
-    <value>Arrivée de l’étage {i + 2}...</value>
+    <value>⚔ 第 {i + 2} 层即将出现...</value>
   </data>
   <data name="Dungeon_BossFloor_Text" xml:space="preserve">
-    <value>ÉTAGE DU BOSS</value>
+    <value>首领层</value>
   </data>
   <data name="PlayVSMenu_Wins" xml:space="preserve">
-    <value>VICTOIRES</value>
+    <value>胜利</value>
   </data>
   <data name="PlayVSMenu_Losses" xml:space="preserve">
-    <value>DÉFAITES</value>
+    <value>失败</value>
   </data>
   <data name="GhostBattle_Log_1" xml:space="preserve">
-    <value>a remporté la bataille !</value>
+    <value>赢得了战斗！</value>
   </data>
   <data name="GhostBattle_Log_2" xml:space="preserve">
-    <value>attaque en premier !</value>
+    <value>先手攻击！</value>
   </data>
   <data name="GhostBattle_Log_3" xml:space="preserve">
-    <value>a esquivé ton attaque !</value>
+    <value>躲开了你的攻击！</value>
   </data>
   <data name="GhostBattle_SpawnDamageText_1" xml:space="preserve">
-    <value>RATÉ !</value>
+    <value>未命中！</value>
   </data>
   <data name="GhostBattle_Log_4" xml:space="preserve">
-    <value>a subi {myDmg} dégâts !</value>
+    <value>受到了 {myDmg} 点伤害！</value>
   </data>
   <data name="GhostBattle_Log_5" xml:space="preserve">
-    <value>a subi {enDmg} dégâts !</value>
+    <value>受到了 {enDmg} 点伤害！</value>
   </data>
   <data name="GhostBattle_Log_6" xml:space="preserve">
-    <value>Match nul.</value>
+    <value>战斗以平局结束。</value>
   </data>
   <data name="GhostBattle_Log_7" xml:space="preserve">
-    <value>a été vaincu...</value>
+    <value>被击败了...</value>
   </data>
   <data name="Notif_title_22" xml:space="preserve">
-    <value>Sync</value>
+    <value>同步</value>
   </data>
   <data name="Notif_message_22" xml:space="preserve">
-    <value>Données synchronisées.</value>
+    <value>你的数据已同步。</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ COMBAT BOSS ! ⚔</value>
+    <value>⚔ 首领战！⚔</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
-    <value>Commun</value>
+    <value>普通</value>
   </data>
   <data name="Rarity_Label_Uncommon" xml:space="preserve">
-    <value>Peu commun</value>
+    <value>不常见</value>
   </data>
   <data name="Rarity_Label_Rare" xml:space="preserve">
-    <value>Rare</value>
+    <value>稀有</value>
   </data>
   <data name="Rarity_Label_Epic" xml:space="preserve">
-    <value>Épique</value>
+    <value>史诗</value>
   </data>
   <data name="Rarity_Label_Legendary" xml:space="preserve">
-    <value>Légendaire</value>
+    <value>传说</value>
   </data>
   <data name="MainMenu_AvailablesPts" xml:space="preserve">
-    <value>POINTS DISPONIBLES</value>
+    <value>可用点数</value>
   </data>
 </root>

@@ -46,67 +46,67 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainMenu_Friends_Button" xml:space="preserve">
-    <value>Amis</value>
+    <value>Amigos</value>
   </data>
   <data name="MainMenu_Settings_Button" xml:space="preserve">
-    <value>Paramètres</value>
+    <value>Configurações</value>
   </data>
   <data name="MainMenu_Leaderboard_Button" xml:space="preserve">
-    <value>Classement</value>
+    <value>Placar</value>
   </data>
   <data name="MainMenu_Inventory_Button" xml:space="preserve">
-    <value>Inventaire</value>
+    <value>Inventário</value>
   </data>
   <data name="MainMenu_Shop_Button" xml:space="preserve">
-    <value>Boutique</value>
+    <value>Loja</value>
   </data>
   <data name="MainMenu_HpText_Tooltip" xml:space="preserve">
-    <value>❤ Détermine combien de dégâts le chevalier peut subir avant de mourir.</value>
+    <value>❤ Determina quanto dano o cavaleiro pode receber antes de morrer.</value>
   </data>
   <data name="MainMenu_DmgText_Tooltip" xml:space="preserve">
-    <value>⚔ Augmente les dégâts infligés par le chevalier à chaque attaque.</value>
+    <value>⚔ Aumenta o dano causado pelo cavaleiro a cada ataque.</value>
   </data>
   <data name="MainMenu_AgiText_Tooltip" xml:space="preserve">
-    <value>💨 Augmente les chances d'esquive et détermine qui attaque en premier lors du combat.</value>
+    <value>💨 Aumenta a chance de esquiva e determina quem ataca primeiro no combate.</value>
   </data>
   <data name="Settings_General_LanguageText" xml:space="preserve">
-    <value>Langue</value>
+    <value>Idioma</value>
   </data>
   <data name="Settings_General_AlwaysOnTopText" xml:space="preserve">
-    <value>Toujours au premier plan</value>
+    <value>Sempre no topo</value>
   </data>
   <data name="Settings_General_StartWithWindowsText" xml:space="preserve">
-    <value>Démarrer avec Windows</value>
+    <value>Iniciar com o Windows</value>
   </data>
   <data name="Settings_General_RunAsAdminText" xml:space="preserve">
-    <value>Exécuter en tant qu'administrateur</value>
+    <value>Executar como administrador</value>
   </data>
   <data name="Settings_General_NotificationsText" xml:space="preserve">
-    <value>Notifications</value>
+    <value>Notificações</value>
   </data>
   <data name="Settings_General_ShowTaskBarIconText" xml:space="preserve">
-    <value>Afficher l'icône dans la barre des tâches</value>
+    <value>Mostrar ícone na barra de tarefas</value>
   </data>
   <data name="Settings_General_CloseGameText" xml:space="preserve">
-    <value>Quitter le jeu</value>
+    <value>Fechar o jogo</value>
   </data>
   <data name="Settings_GeneralText" xml:space="preserve">
-    <value>GÉNÉRAL</value>
+    <value>GERAL</value>
   </data>
   <data name="Settings_GeneralInfoText" xml:space="preserve">
-    <value>Paramètres généraux du système</value>
+    <value>Configurações gerais do sistema</value>
   </data>
   <data name="Settings_AudioText" xml:space="preserve">
-    <value>AUDIO</value>
+    <value>ÁUDIO</value>
   </data>
   <data name="Settings_AudioInfoText" xml:space="preserve">
-    <value>Gérer les paramètres audio</value>
+    <value>Gerenciar configurações de som</value>
   </data>
   <data name="Settings_Nav_General" xml:space="preserve">
-    <value>GÉNÉRAL</value>
+    <value>GERAL</value>
   </data>
   <data name="Settings_Nav_Audio" xml:space="preserve">
-    <value>AUDIO</value>
+    <value>ÁUDIO</value>
   </data>
   <data name="Settings_Nav_Overlay" xml:space="preserve">
     <value>OVERLAY</value>
@@ -115,484 +115,484 @@
     <value>STATS</value>
   </data>
   <data name="Settings_Nav_Credits" xml:space="preserve">
-    <value>CRÉDITS</value>
+    <value>CRÉDITOS</value>
   </data>
   <data name="Settings_Nav_Menu" xml:space="preserve">
     <value>MENU</value>
   </data>
   <data name="Settings_SystemText" xml:space="preserve">
-    <value>SYSTÈME</value>
+    <value>SISTEMA</value>
   </data>
   <data name="Settings_SystemInfoText" xml:space="preserve">
-    <value>Paramètres généraux du système</value>
+    <value>Configurações gerais do sistema</value>
   </data>
   <data name="Settings_OverlayText" xml:space="preserve">
     <value>OVERLAY</value>
   </data>
   <data name="Settings_OverlayInfoText" xml:space="preserve">
-    <value>Propriétés de l'overlay</value>
+    <value>Propriedades do overlay</value>
   </data>
   <data name="Settings_CreditsText" xml:space="preserve">
-    <value>CRÉDITS</value>
+    <value>CRÉDITOS</value>
   </data>
   <data name="Settings_CreditsInfoText" xml:space="preserve">
-    <value>L'équipe derrière le jeu</value>
+    <value>A equipe por trás do jogo</value>
   </data>
   <data name="Settings_StatsText" xml:space="preserve">
     <value>STATS</value>
   </data>
   <data name="Settings_StatsInfoText" xml:space="preserve">
-    <value>Statistiques</value>
+    <value>Estatísticas</value>
   </data>
   <data name="Settings_Header_Volume" xml:space="preserve">
     <value>VOLUME</value>
   </data>
   <data name="Settings_Header_Toggles" xml:space="preserve">
-    <value>OPTIONS</value>
+    <value>OPÇÕES</value>
   </data>
   <data name="Settings_Header_Controls" xml:space="preserve">
-    <value>CONTRÔLES</value>
+    <value>CONTROLES</value>
   </data>
   <data name="Settings_Header_Appearance" xml:space="preserve">
-    <value>APPARENCE</value>
+    <value>APARÊNCIA</value>
   </data>
   <data name="Settings_Header_Video" xml:space="preserve">
-    <value>VIDÉO</value>
+    <value>VÍDEO</value>
   </data>
   <data name="Settings_Header_Team" xml:space="preserve">
-    <value>ÉQUIPE</value>
+    <value>EQUIPE</value>
   </data>
   <data name="Settings_Header_GameAssets" xml:space="preserve">
-    <value>RESSOURCES DU JEU</value>
+    <value>RECURSOS DO JOGO</value>
   </data>
   <data name="Settings_Header_BuiltWith" xml:space="preserve">
-    <value>RÉALISÉ AVEC</value>
+    <value>CONSTRUÍDO COM</value>
   </data>
   <data name="Settings_Header_Links" xml:space="preserve">
-    <value>LIENS</value>
+    <value>LINKS</value>
   </data>
   <data name="Settings_Header_PrivacyPolicy" xml:space="preserve">
-    <value>POLITIQUE DE CONFIDENTIALITÉ</value>
+    <value>POLÍTICA DE PRIVACIDADE</value>
   </data>
   <data name="Settings_Header_Stats" xml:space="preserve">
     <value>STATS</value>
   </data>
   <data name="Settings_Header_Dungeon" xml:space="preserve">
-    <value>DONJON</value>
+    <value>MASMORRA</value>
   </data>
   <data name="Settings_Header_Ranked" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>RANQUEADO</value>
   </data>
   <data name="Settings_General_English" xml:space="preserve">
-    <value>Français</value>
+    <value>Português (Brasil)</value>
   </data>
   <data name="Settings_General_Quit" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>SAIR</value>
   </data>
   <data name="Settings_Audio_GameVolume" xml:space="preserve">
-    <value>Volume du jeu</value>
+    <value>Volume do Jogo</value>
   </data>
   <data name="Settings_Audio_Music" xml:space="preserve">
-    <value>Musique</value>
+    <value>Música</value>
   </data>
   <data name="Settings_Audio_SoundEffects" xml:space="preserve">
-    <value>Effets sonores</value>
+    <value>Efeitos Sonoros</value>
   </data>
   <data name="Settings_Audio_EnableMusic" xml:space="preserve">
-    <value>Activer la musique</value>
+    <value>Ativar Música</value>
   </data>
   <data name="Settings_Overlay_ControllerSupport" xml:space="preserve">
-    <value>Activer le support manette</value>
+    <value>Ativar suporte a controle</value>
   </data>
   <data name="Settings_Overlay_WidgetSize" xml:space="preserve">
-    <value>Taille du widget</value>
+    <value>Tamanho do widget</value>
   </data>
   <data name="Settings_Overlay_ShowXpBar" xml:space="preserve">
-    <value>Afficher la barre XP</value>
+    <value>Mostrar barra de XP</value>
   </data>
   <data name="Settings_Overlay_ScreenSelection" xml:space="preserve">
-    <value>Sélection de l'écran</value>
+    <value>Seleção de tela</value>
   </data>
   <data name="Settings_Overlay_SoftwareRendering" xml:space="preserve">
-    <value>Rendu logiciel</value>
+    <value>Renderização por software</value>
   </data>
   <data name="Settings_Overlay_FpsLimit" xml:space="preserve">
-    <value>Limite FPS</value>
+    <value>Limite de FPS</value>
   </data>
   <data name="Settings_Overlay_ScreenPrimary" xml:space="preserve">
-    <value>Écran {0} (Principal)</value>
+    <value>Tela {0} (Principal)</value>
   </data>
   <data name="Settings_Overlay_ScreenNormal" xml:space="preserve">
-    <value>Écran {0}</value>
+    <value>Tela {0}</value>
   </data>
   <data name="Settings_Credits_Programming" xml:space="preserve">
-    <value>Programmation</value>
+    <value>Programação</value>
   </data>
   <data name="Settings_Credits_Art" xml:space="preserve">
-    <value>Art &amp; Design</value>
+    <value>Arte &amp; Design</value>
   </data>
   <data name="Settings_Credits_MusicText" xml:space="preserve">
-    <value>Musique</value>
+    <value>Música</value>
   </data>
   <data name="Settings_Credits_BugHunters" xml:space="preserve">
-    <value>Chasseurs de bugs</value>
+    <value>Caçadores de Bugs</value>
   </data>
   <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>Chevalier, Créateur : Mattz</value>
+    <value>Cavaleiro, Criador: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetEdits" xml:space="preserve">
-    <value>Éditions : Dark, Darkness, Shadow, Bloody, White, Monochrome(Probably), Green, Emerald, VoIP (Pooh5159), Gold (Upper)</value>
+    <value>Edições: Dark, Darkness, Shadow, Bloody, White, Monochrome (Probably), Green, Emerald, VoIP (Pooh5159), Gold (Upper)</value>
   </data>
   <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>Gobelin, Créateur : Mattz</value>
+    <value>Goblin, Criador: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>Squelette, Créateur : Mattz</value>
+    <value>Esqueleto, Criador: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>Kobold, Créateur : Mattz</value>
+    <value>Kobold, Criador: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>Bébé Dragon, Créateur : Mattz</value>
+    <value>Dragãozinho, Criador: Mattz</value>
   </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>VECR Engine (WPF / .NET, C#)</value>
   </data>
   <data name="Settings_Links_Website" xml:space="preserve">
-    <value>Site web</value>
+    <value>Site</value>
   </data>
   <data name="Settings_Links_Discord" xml:space="preserve">
-    <value>Serveur Discord</value>
+    <value>Servidor Discord</value>
   </data>
   <data name="Settings_Links_ReportBug" xml:space="preserve">
-    <value>Signaler un bug</value>
+    <value>Reportar um Bug</value>
   </data>
   <data name="Settings_Privacy_1" xml:space="preserve">
-    <value>Idle Knight traite un ensemble limité de données afin de fournir des fonctionnalités en ligne et assurer le bon fonctionnement du jeu.</value>
+    <value>O Idle Knight processa um conjunto limitado de dados para fornecer recursos online e garantir o bom funcionamento do jogo.</value>
   </data>
   <data name="Settings_Privacy_2" xml:space="preserve">
-    <value>Les informations suivantes peuvent être collectées et stockées :</value>
+    <value>As seguintes informações podem ser coletadas e armazenadas:</value>
   </data>
   <data name="Settings_Privacy_3" xml:space="preserve">
     <value>• SteamID64</value>
   </data>
   <data name="Settings_Privacy_4" xml:space="preserve">
-    <value>• Progression du joueur et statistiques de jeu</value>
+    <value>• Progressão do jogador e estatísticas de jogo</value>
   </data>
   <data name="Settings_Privacy_5" xml:space="preserve">
-    <value>• Données de matchmaking et de classement</value>
+    <value>• Dados de matchmaking e placar</value>
   </data>
   <data name="Settings_Privacy_6" xml:space="preserve">
-    <value>• Données techniques liées au serveur</value>
+    <value>• Dados técnicos relacionados ao servidor</value>
   </data>
   <data name="Settings_Privacy_7" xml:space="preserve">
-    <value>• Informations nécessaires à la validation des achats Steam (aucune information de paiement n'est collectée)</value>
+    <value>• Informações necessárias para validar compras na Steam (nenhuma informação de pagamento é coletada)</value>
   </data>
   <data name="Settings_Privacy_8" xml:space="preserve">
-    <value>Ces données sont utilisées exclusivement pour :</value>
+    <value>Esses dados são usados exclusivamente para:</value>
   </data>
   <data name="Settings_Privacy_9" xml:space="preserve">
-    <value>• Identifier le joueur</value>
+    <value>• Identificar o jogador</value>
   </data>
   <data name="Settings_Privacy_10" xml:space="preserve">
-    <value>• Sauvegarder et synchroniser la progression</value>
+    <value>• Salvar e sincronizar a progressão</value>
   </data>
   <data name="Settings_Privacy_11" xml:space="preserve">
-    <value>• Gérer le matchmaking et les classements</value>
+    <value>• Operar matchmaking e placar</value>
   </data>
   <data name="Settings_Privacy_12" xml:space="preserve">
-    <value>• Maintenir les services en ligne et les serveurs de jeu</value>
+    <value>• Manter os serviços online e servidores do jogo</value>
   </data>
   <data name="Settings_Privacy_13" xml:space="preserve">
-    <value>• Vérifier les achats et droits Steam</value>
+    <value>• Verificar compras e direitos na Steam</value>
   </data>
   <data name="Settings_Privacy_14" xml:space="preserve">
-    <value>Aucune donnée n'est vendue, partagée ou transmise à des tiers.</value>
+    <value>Nenhum dado é vendido, compartilhado ou transferido a terceiros.</value>
   </data>
   <data name="Settings_Privacy_15" xml:space="preserve">
-    <value>Toutes les données collectées sont stockées de manière sécurisée sur nos serveurs.</value>
+    <value>Todos os dados coletados são armazenados com segurança em nossos servidores.</value>
   </data>
   <data name="Settings_Privacy_16" xml:space="preserve">
-    <value>En jouant à Idle Knight, vous acceptez cette Politique de Confidentialité ainsi que la Politique de Confidentialité de Steam.</value>
+    <value>Ao jogar Idle Knight, você concorda com esta Política de Privacidade e com a Política de Privacidade da Steam.</value>
   </data>
   <data name="Settings_Title_IdleKnight" xml:space="preserve">
     <value>Idle Knight</value>
   </data>
   <data name="Settings_Version_Text" xml:space="preserve">
-    <value>Version 1.0.0 Playtest  •  2026</value>
+    <value>Versão 1.0.0 Teste • 2026</value>
   </data>
   <data name="Settings_Stats_XP" xml:space="preserve">
     <value>XP</value>
   </data>
   <data name="Settings_Stats_TotalXp" xml:space="preserve">
-    <value>XP total gagné</value>
+    <value>XP Total Ganho</value>
   </data>
   <data name="Settings_Stats_LEVEL" xml:space="preserve">
-    <value>NIVEAU</value>
+    <value>NÍVEL</value>
   </data>
   <data name="Settings_Stats_CurrentLevel" xml:space="preserve">
-    <value>Niveau actuel</value>
+    <value>Nível Atual</value>
   </data>
   <data name="Settings_Stats_HP" xml:space="preserve">
     <value>HP</value>
   </data>
   <data name="Settings_Stats_CurrentHp" xml:space="preserve">
-    <value>HP actuel</value>
+    <value>HP Atual</value>
   </data>
   <data name="Settings_Stats_DMG" xml:space="preserve">
     <value>DGT</value>
   </data>
   <data name="Settings_Stats_CurrentDamage" xml:space="preserve">
-    <value>Dégâts actuels</value>
+    <value>Dano Atual</value>
   </data>
   <data name="Settings_Stats_AGI" xml:space="preserve">
     <value>AGI</value>
   </data>
   <data name="Settings_Stats_CurrentAgility" xml:space="preserve">
-    <value>Agilité actuelle</value>
+    <value>Agilidade Atual</value>
   </data>
   <data name="Settings_Stats_PTS" xml:space="preserve">
     <value>PTS</value>
   </data>
   <data name="Settings_Stats_AvailabilityPoints" xml:space="preserve">
-    <value>Points disponibles</value>
+    <value>Pontos Disponíveis</value>
   </data>
   <data name="Settings_Stats_MATCHES" xml:space="preserve">
-    <value>PARTIES</value>
+    <value>PARTIDAS</value>
   </data>
   <data name="Settings_Stats_DungeonMatches" xml:space="preserve">
-    <value>Total de parties en donjon</value>
+    <value>Total de Partidas na Masmorra</value>
   </data>
   <data name="Settings_Stats_WINS" xml:space="preserve">
-    <value>VICTOIRES</value>
+    <value>VITÓRIAS</value>
   </data>
   <data name="Settings_Stats_DungeonWins" xml:space="preserve">
-    <value>Total de victoires en donjon</value>
+    <value>Total de Vitórias na Masmorra</value>
   </data>
   <data name="Settings_Stats_LOSSES" xml:space="preserve">
-    <value>DÉFAITES</value>
+    <value>DERROTAS</value>
   </data>
   <data name="Settings_Stats_DungeonLosses" xml:space="preserve">
-    <value>Total de défaites en donjon</value>
+    <value>Total de Derrotas na Masmorra</value>
   </data>
   <data name="Settings_Stats_RankedMatches" xml:space="preserve">
-    <value>Total de parties classées</value>
+    <value>Total de Partidas Ranqueadas</value>
   </data>
   <data name="Settings_Stats_RankedWins" xml:space="preserve">
-    <value>Total de victoires classées</value>
+    <value>Total de Vitórias Ranqueadas</value>
   </data>
   <data name="Settings_Stats_RankedLosses" xml:space="preserve">
-    <value>Total de défaites classées</value>
+    <value>Total de Derrotas Ranqueadas</value>
   </data>
   <data name="Settings_Stats_EARNED" xml:space="preserve">
-    <value>GAGNÉS</value>
+    <value>GANHOS</value>
   </data>
   <data name="Settings_Stats_RankedPointsEarned" xml:space="preserve">
-    <value>Total de points classés gagnés</value>
+    <value>Total de Pontos Ranqueados Ganhos</value>
   </data>
   <data name="Settings_Stats_LOST" xml:space="preserve">
-    <value>PERDUS</value>
+    <value>PERDIDOS</value>
   </data>
   <data name="Settings_Stats_RankedPointsLost" xml:space="preserve">
-    <value>Total de points classés perdus</value>
+    <value>Total de Pontos Ranqueados Perdidos</value>
   </data>
   <data name="Settings_Stats_SuffixXP" xml:space="preserve">
-    <value> XP</value>
+    <value>XP</value>
   </data>
   <data name="Settings_Stats_PrefixLVL" xml:space="preserve">
-    <value>NIV </value>
+    <value>NÍV</value>
   </data>
   <data name="Settings_Stats_SuffixHP" xml:space="preserve">
-    <value> HP</value>
+    <value>HP</value>
   </data>
   <data name="Settings_Stats_SuffixDMG" xml:space="preserve">
-    <value> DGT</value>
+    <value>DGT</value>
   </data>
   <data name="Settings_Stats_SuffixAGI" xml:space="preserve">
     <value>% AGI</value>
   </data>
   <data name="Settings_Stats_SuffixPTS" xml:space="preserve">
-    <value> PTS</value>
+    <value>PTS</value>
   </data>
   <data name="MainMenu_FightButton_Text" xml:space="preserve">
-    <value>⚔️ COMBAT ⚔️</value>
+    <value>⚔️ LUTAR ⚔️</value>
   </data>
   <data name="FightMenu_DungeonButton_Text" xml:space="preserve">
-    <value>DONJON</value>
+    <value>MASMORRA</value>
   </data>
   <data name="FightMenu_RankedButton_Text" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>RANQUEADO</value>
   </data>
   <data name="FightMenu_FightText" xml:space="preserve">
-    <value>COMBAT</value>
+    <value>LUTA</value>
   </data>
   <data name="DungeonMenu_DungeonText" xml:space="preserve">
-    <value>DONJON</value>
+    <value>MASMORRA</value>
   </data>
   <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>Catacombes Abandonnées</value>
+    <value>Catacumbas Abandonadas</value>
   </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
-    <value>Puissance recommandée : </value>
+    <value>Poder Recomendado :</value>
   </data>
   <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>NIVEAU 18</value>
+    <value>NÍVEL 18</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
-    <value>RÉCOMPENSES POSSIBLES</value>
+    <value>RECOMPENSAS POSSÍVEIS</value>
   </data>
   <data name="DungeonMenu_Keys_Text" xml:space="preserve">
-    <value>Clés : </value>
+    <value>Chaves :</value>
   </data>
   <data name="RankedMenu_RankedText" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>RANQUEADO</value>
   </data>
   <data name="RankedMenu_FindMatch_Button" xml:space="preserve">
-    <value>TROUVER UNE PARTIE</value>
+    <value>BUSCAR PARTIDA</value>
   </data>
   <data name="RankedMenu_ExitButton" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>SAIR</value>
   </data>
   <data name="RankedMenu_Keys_Text" xml:space="preserve">
-    <value>Clés : </value>
+    <value>Chaves :</value>
   </data>
   <data name="FightMenu_ExitButton_Text" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>SAIR</value>
   </data>
   <data name="DungeonMenu_EnterDungeon_Button" xml:space="preserve">
-    <value>ENTRER DANS LE DONJON</value>
+    <value>ENTRAR NA MASMORRA</value>
   </data>
   <data name="DungeonMenu_Exit_Button" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>SAIR</value>
   </data>
   <data name="RankedMenu_Points_Text" xml:space="preserve">
-    <value>Points : </value>
+    <value>Pontos :</value>
   </data>
   <data name="Tuto_Dialogue1" xml:space="preserve">
-    <value>Hé, toi ! Ouais, toi, la nouvelle recrue en armure.</value>
+    <value>Ei, você! Sim, você, o novo recruta na armadura.</value>
   </data>
   <data name="Tuto_Dialogue2" xml:space="preserve">
-    <value>Tu ne vas pas rester planté là toute la journée, si ?</value>
+    <value>Você não vai ficar aí parado o dia todo, vai?</value>
   </data>
   <data name="Tuto_Dialogue3" xml:space="preserve">
-    <value>Prouve-moi que tu sais tenir sur tes deux jambes.
-Saisis ton personnage et déplace-le sur l'écran.</value>
+    <value>Prove que você consegue se sustentar por conta própria.
+ Segure seu personagem e mova-o pela tela.</value>
   </data>
   <data name="Tuto_Dialogue4" xml:space="preserve">
-    <value>Pas mal, tu n'es pas complètement rouillé !</value>
+    <value>Nada mal, você não está completamente enferrujado!</value>
   </data>
   <data name="Tuto_Dialogue5" xml:space="preserve">
-    <value>Maintenant, survole ton personnage
-pour découvrir le menu.</value>
+    <value>Agora passe o mouse sobre seu personagem
+ para descobrir o menu.</value>
   </data>
   <data name="Tuto_Dialogue6" xml:space="preserve">
-    <value>Tu vois ton nom en haut ? C'est toi.
-Pour l'instant tu es niveau 0, mais ça va vite changer.</value>
+    <value>Vê seu nome no topo? É você.
+ Agora você está no nível 0, mas isso vai mudar em breve.</value>
   </data>
   <data name="Tuto_Dialogue7" xml:space="preserve">
-    <value>La barre bleue sous ton nom est ton expérience.
-Elle se remplit chaque fois que tu cliques sur ton personnage.</value>
+    <value>A barra azul abaixo do seu nome é a sua experiência.
+ Ela se enche toda vez que você clica no seu personagem.</value>
   </data>
   <data name="Tuto_Dialogue8" xml:space="preserve">
-    <value>Le nombre en dessous indique l'XP gagnée à ce niveau,
-et combien il t'en faut pour atteindre le suivant.</value>
+    <value>O número abaixo mostra quanto XP você ganhou neste nível,
+ e quanto precisa para alcançar o próximo.</value>
   </data>
   <data name="Tuto_Dialogue9" xml:space="preserve">
-    <value>Les trois lignes en dessous sont tes stats :
-PV, DGT et AGI.
-On y reviendra plus tard.</value>
+    <value>As três linhas abaixo são seus atributos:
+ HP, DGT e AGI.
+ Voltaremos a eles mais tarde.</value>
   </data>
   <data name="Tuto_Dialogue10" xml:space="preserve">
-    <value>Le bouton COMBAT en bas est l'endroit où tout commence.
-C'est celui qui lance les batailles.</value>
+    <value>O botão LUTAR na parte inferior é onde tudo começa.
+ É ele que inicia as batalhas.</value>
   </data>
   <data name="Tuto_Dialogue11" xml:space="preserve">
-    <value>Et tout en bas, tes raccourcis :
-Amis, Classement, Inventaire, Boutique et Paramètres.</value>
+    <value>E bem no fundo, seus atalhos:
+ Amigos, Placar, Inventário, Loja e Configurações.</value>
   </data>
   <data name="Tuto_Dialogue12" xml:space="preserve">
-    <value>Ici, tu peux trouver tes amis et suivre leur progression.
-Tu peux aussi combattre le fantôme d'un ami en cliquant sur le bouton Combat.</value>
+    <value>Aqui você pode encontrar seus amigos e acompanhar o progresso deles.
+ Você também pode lutar contra o fantasma de um amigo clicando no botão Lutar.</value>
   </data>
   <data name="Tuto_Dialogue13" xml:space="preserve">
-    <value>Compare-toi aux meilleurs joueurs du monde.
-Grimpe dans le classement en accumulant de l'XP.</value>
+    <value>Compare-se com os melhores jogadores do mundo.
+ Suba no ranking acumulando XP.</value>
   </data>
   <data name="Tuto_Dialogue14" xml:space="preserve">
-    <value>C'est ici que tu choisis ton apparence.
-Personnalise le look de ton personnage.</value>
+    <value>Aqui você escolhe sua skin.
+ Personalize a aparência do seu personagem.</value>
   </data>
   <data name="Tuto_Dialogue15" xml:space="preserve">
-    <value>C'est ici que tu choisis ton mode de combat.
-Donjon, Classé et Événement.</value>
+    <value>Aqui você escolhe seu modo de combate.
+ Masmorra, Ranqueado e Evento.</value>
   </data>
   <data name="Tuto_Dialogue16" xml:space="preserve">
-    <value>Affronte des joueurs du monde entier en temps réel.
-Grimpe dans le classement pour te faire un nom.</value>
+    <value>Lute contra jogadores do mundo todo em tempo real.
+ Suba no placar para se destacar.</value>
   </data>
   <data name="Tuto_Dialogue17" xml:space="preserve">
-    <value>Ici, tu peux ajuster le jeu à ta guise.
-Son, langue, notifications... tout est là.</value>
+    <value>Aqui você pode ajustar o jogo ao seu gosto.
+ Som, idioma, notificações... tudo está aqui.</value>
   </data>
   <data name="Tuto_Dialogue18" xml:space="preserve">
-    <value>Parfait, tu connais les rouages maintenant.
-Clique n'importe où pour gagner de l'XP.</value>
+    <value>Perfeito, agora você conhece os fundamentos.
+ Clique em qualquer lugar para ganhar XP.</value>
   </data>
   <data name="Tuto_Dialogue19" xml:space="preserve">
-    <value>Pas mal du tout !
-Maintenant, tu vas devoir prendre du muscle avant d'entrer dans l'arène.</value>
+    <value>Nada mal!
+ Agora você precisará ganhar força antes de entrar na arena.</value>
   </data>
   <data name="Tuto_Dialogue20" xml:space="preserve">
-    <value>Continue de cliquer jusqu'à atteindre le niveau 1 !
-Chaque clic te rapproche du but.</value>
+    <value>Continue clicando até atingir o nível 1!
+ Cada clique te aproxima do objetivo.</value>
   </data>
   <data name="Tuto_Dialogue21" xml:space="preserve">
-    <value>Beau travail ! Tu as atteint le niveau 1 !
-Il est temps de choisir tes compétences.</value>
+    <value>Bom trabalho! Você alcançou o nível 1!
+ É hora de escolher suas habilidades.</value>
   </data>
   <data name="Tuto_Dialogue22" xml:space="preserve">
-    <value>PV : Plus de points de vie.
-Plus tu en as, plus tu peux encaisser de coups.</value>
+    <value>HP: Mais pontos de vida.
+ Quanto mais você tiver, mais golpes pode suportar.</value>
   </data>
   <data name="Tuto_Dialogue23" xml:space="preserve">
-    <value>DGT : Plus de dégâts.
-Frappe plus fort, tue plus vite.</value>
+    <value>DGT: Mais dano.
+ Bata mais forte, mate mais rápido.</value>
   </data>
   <data name="Tuto_Dialogue24" xml:space="preserve">
-    <value>AGI : Plus d'esquive.
-Plus elle est élevée, plus tu frappes tôt en combat.</value>
+    <value>AGI: Mais esquiva.
+ Quanto mais alta, mais cedo você ataca no combate.</value>
   </data>
   <data name="Tuto_Dialogue25" xml:space="preserve">
-    <value>À ton tour.
-Choisis sagement, chaque point compte !</value>
+    <value>Sua vez.
+ Escolha com sabedoria, cada ponto conta!</value>
   </data>
   <data name="Tuto_Dialogue26" xml:space="preserve">
-    <value>Et voilà, tu es devenu plus fort !
-Chaque point investi fait la différence en combat.</value>
+    <value>Aí está, você ficou mais forte!
+ Cada ponto investido faz diferença na batalha.</value>
   </data>
   <data name="Tuto_Dialogue27" xml:space="preserve">
-    <value>Pour terminer l'entraînement, tu peux lancer un match Classé rapide.
-Mais tu n'es pas obligé, c'est toi qui vois.</value>
+    <value>Para encerrar o treinamento, você pode entrar em uma partida Ranqueada rápida.
+ Mas não é obrigatório, é você quem decide.</value>
   </data>
   <data name="Tuto_Dialogue28" xml:space="preserve">
-    <value>C'est tout ce que j'avais à t'apprendre.
-Bonne chance, guerrier. La suite ne dépend que de toi.</value>
+    <value>É tudo o que eu tinha a te ensinar.
+ Boa sorte, guerreiro. O resto depende de você.</value>
   </data>
   <data name="Tuto_Dialogue29" xml:space="preserve">
-    <value>Ouvre le menu {name}.</value>
+    <value>Abra o menu {name}.</value>
   </data>
   <data name="Tuto_DialogueMentorName" xml:space="preserve">
     <value>Mentor</value>
   </data>
   <data name="Tuto_DialogueKnightName" xml:space="preserve">
-    <value>Chevalier</value>
+    <value>Cavaleiro</value>
   </data>
   <data name="Tuto_Dialogue30" xml:space="preserve">
-    <value>Entre dans les donjons pour affronter de puissants boss et gagner de superbes récompenses.
-Conquis chaque étage et prouve que tu es digne de la gloire.</value>
+    <value>Entre nas masmorras para enfrentar poderosos chefes e ganhar ótimas recompensas.
+ Conquiste cada andar e prove que você é digno da glória.</value>
   </data>
   <data name="MainMenu_HpText" xml:space="preserve">
-    <value>PV</value>
+    <value>HP</value>
   </data>
   <data name="MainMenu_DmgText" xml:space="preserve">
     <value>DGT</value>
@@ -601,109 +601,109 @@ Conquis chaque étage et prouve que tu es digne de la gloire.</value>
     <value>% AGI</value>
   </data>
   <data name="PtsUntilNextRank" xml:space="preserve">
-    <value>Jusqu'à</value>
+    <value>até</value>
   </data>
   <data name="FriendsMenu_Text" xml:space="preserve">
-    <value>AMIS</value>
+    <value>AMIGOS</value>
   </data>
   <data name="FriendsMenu_OnlineText" xml:space="preserve">
-    <value>en ligne</value>
+    <value>online</value>
   </data>
   <data name="FriendsMenu_FriendsText" xml:space="preserve">
-    <value>amis</value>
+    <value>amigos</value>
   </data>
   <data name="FriendsMenu_SearchFriendsText" xml:space="preserve">
-    <value>Rechercher un ami...</value>
+    <value>Procurar amigo...</value>
   </data>
   <data name="Previous_Button_Text" xml:space="preserve">
-    <value>◀ PREC</value>
+    <value>◀ ANT</value>
   </data>
   <data name="Next_Button_Text" xml:space="preserve">
-    <value>SUIV ▶</value>
+    <value>PROX ▶</value>
   </data>
   <data name="FriendsMenu_Fight_Button" xml:space="preserve">
-    <value>COMBATTRE</value>
+    <value>LUTAR</value>
   </data>
   <data name="FriendsMenu_Level_Text" xml:space="preserve">
-    <value>NIV</value>
+    <value>NÍV</value>
   </data>
   <data name="FriendsMenu_Loading_Text" xml:space="preserve">
-    <value>Chargement...</value>
+    <value>Carregando...</value>
   </data>
   <data name="FightMenu_EventText" xml:space="preserve">
-    <value>ÉVÉNEMENT</value>
+    <value>EVENTO</value>
   </data>
   <data name="LeaderboardMenu_You_Text" xml:space="preserve">
-    <value>Toi ·</value>
+    <value>Você ·</value>
   </data>
   <data name="DungeonMenu_BattleBossFight_Text" xml:space="preserve">
-    <value>COMBAT BOSS</value>
+    <value>LUTA CONTRA O CHEFE</value>
   </data>
   <data name="DungeonMenu_BattleFloor_Text" xml:space="preserve">
-    <value>ÉTAGE</value>
+    <value>ANDAR</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ Combat...</value>
+    <value>⚔ Lutando...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
-    <value>Banni !</value>
+    <value>Banido!</value>
   </data>
   <data name="InventoryMenu_Text" xml:space="preserve">
-    <value>INVENTAIRE</value>
+    <value>INVENTÁRIO</value>
   </data>
   <data name="InventoryMenu_Skins_Text" xml:space="preserve">
     <value>SKINS</value>
   </data>
   <data name="InventoryMenu_Consumables_Text" xml:space="preserve">
-    <value>CONSOMMABLES</value>
+    <value>CONSUMÍVEIS</value>
   </data>
   <data name="InventoryMenu_All_Button" xml:space="preserve">
-    <value>TOUS</value>
+    <value>TODOS</value>
   </data>
   <data name="UnlockCondition_1" xml:space="preserve">
-    <value>Skin par défaut</value>
+    <value>Skin padrão</value>
   </data>
   <data name="UnlockCondition_2" xml:space="preserve">
-    <value>Vaincre le boss du donjon 2</value>
+    <value>Derrote o chefe da masmorra 2</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
-    <value>À venir...</value>
+    <value>Em breve...</value>
   </data>
   <data name="UnlockCondition_4" xml:space="preserve">
-    <value>Rejoignez le discord Idle Knight</value>
+    <value>Entre no servidor Discord do Idle Knight e solicite a skin</value>
   </data>
   <data name="UnlockCondition_5" xml:space="preserve">
-    <value>Acheter dans la boutique</value>
+    <value>Comprar na loja</value>
   </data>
   <data name="UnlockCondition_6" xml:space="preserve">
-    <value>Uniquement pour les playtesteurs</value>
+    <value>Exclusivo para playtestadores</value>
   </data>
   <data name="Consumable_ItemName_1" xml:space="preserve">
-    <value>Plume de phénix</value>
+    <value>Pena de Fênix</value>
   </data>
   <data name="Consumable_ItemName_2" xml:space="preserve">
-    <value>Double XP 15 min</value>
+    <value>XP Duplo 15 min</value>
   </data>
   <data name="Consumable_ItemName_3" xml:space="preserve">
-    <value>Double XP 30 min</value>
+    <value>XP Duplo 30 min</value>
   </data>
   <data name="Consumable_ItemName_4" xml:space="preserve">
-    <value>Double XP 60 min</value>
+    <value>XP Duplo 60 min</value>
   </data>
   <data name="Consumable_ItemDesc_1" xml:space="preserve">
-    <value>Réinitialise tes stats et restaure ton build de base.</value>
+    <value>Redefine seus atributos e restaura sua build base.</value>
   </data>
   <data name="Consumable_ItemDesc_2" xml:space="preserve">
-    <value>Double ton XP pendant 15 minutes.</value>
+    <value>Dobra seu XP por 15 minutos.</value>
   </data>
   <data name="Consumable_ItemDesc_3" xml:space="preserve">
-    <value>Double ton XP pendant 30 minutes.</value>
+    <value>Dobra seu XP por 30 minutos.</value>
   </data>
   <data name="Consumable_ItemDesc_4" xml:space="preserve">
-    <value>Double ton XP pendant 60 minutes.</value>
+    <value>Dobra seu XP por 60 minutos.</value>
   </data>
   <data name="Consumable_ItemEffect_1" xml:space="preserve">
-    <value>Réinitialisation des stats</value>
+    <value>Redefinir atributos</value>
   </data>
   <data name="Consumable_ItemEffect_2" xml:space="preserve">
     <value>x2 XP / 15 min</value>
@@ -715,198 +715,198 @@ Conquis chaque étage et prouve que tu es digne de la gloire.</value>
     <value>x2 XP / 60 min</value>
   </data>
   <data name="Notif_title_1" xml:space="preserve">
-    <value>Consommable trouvé !</value>
+    <value>Consumível encontrado!</value>
   </data>
   <data name="Notif_title_2" xml:space="preserve">
-    <value>Plus aucune clé disponible</value>
+    <value>Sem chaves restantes</value>
   </data>
   <data name="Notif_message_2" xml:space="preserve">
-    <value>Patiente jusqu’à la reset quotidienne (1h00 UTC)</value>
+    <value>Aguarde o reset diário às 01h00 UTC.</value>
   </data>
   <data name="Notif_title_3" xml:space="preserve">
-    <value>Stats non synchronisées</value>
+    <value>Atributos não sincronizados</value>
   </data>
   <data name="Notif_message_3" xml:space="preserve">
-    <value>Veuillez patienter {secondsLeft}s avant de jouer.</value>
+    <value>Por favor, aguarde {secondsLeft}s antes de jogar.</value>
   </data>
   <data name="Notif_title_4" xml:space="preserve">
-    <value>Classé indisponible</value>
+    <value>Ranqueado indisponível</value>
   </data>
   <data name="Notif_message_4" xml:space="preserve">
-    <value>Aucun adversaire trouvé à votre niveau. Réessayez plus tard.</value>
+    <value>Nenhum adversário encontrado no seu nível. Tente novamente mais tarde.</value>
   </data>
   <data name="Notif_title_5" xml:space="preserve">
-    <value>Donjon indisponible</value>
+    <value>Masmorra indisponível</value>
   </data>
   <data name="Notif_message_5" xml:space="preserve">
-    <value>Une erreur s’est produite. Réessayez plus tard.</value>
+    <value>Algo deu errado. Tente novamente mais tarde.</value>
   </data>
   <data name="Notif_title_6" xml:space="preserve">
-    <value>Stats non synchronisées</value>
+    <value>Atributos não sincronizados</value>
   </data>
   <data name="Notif_message_6" xml:space="preserve">
-    <value>Vous devez attendre {secondsLeft}s avant de l’utiliser.</value>
+    <value>Por favor, aguarde {secondsLeft}s antes de usar.</value>
   </data>
   <data name="Cheater_text" xml:space="preserve">
-    <value>Cheater !</value>
+    <value>Trapaça!</value>
   </data>
   <data name="Notif_title_7" xml:space="preserve">
-    <value>Niveau supérieur !</value>
+    <value>SUBIU DE NÍVEL!</value>
   </data>
   <data name="Notif_title_8" xml:space="preserve">
-    <value>Record hebdomadaire !</value>
+    <value>RECORDE SEMANAL!</value>
   </data>
   <data name="Notif_title_9" xml:space="preserve">
-    <value>Montée de rang !</value>
+    <value>SUBIU DE RANK!</value>
   </data>
   <data name="Notif_title_10" xml:space="preserve">
-    <value>Top 3 !</value>
+    <value>TOP 3!</value>
   </data>
   <data name="Notif_title_11" xml:space="preserve">
-    <value>Sauvegardé</value>
+    <value>Salvo</value>
   </data>
   <data name="Notif_title_12" xml:space="preserve">
-    <value>Mode hors‑ligne</value>
+    <value>Modo Offline</value>
   </data>
   <data name="Notif_title_20" xml:space="preserve">
-    <value>Manette</value>
+    <value>Controle</value>
   </data>
   <data name="Notif_title_14" xml:space="preserve">
-    <value>⚠️ AVERTISSEMENT ⚠️</value>
+    <value>⚠️ AVISO ⚠️</value>
   </data>
   <data name="Notif_title_15" xml:space="preserve">
-    <value>⚠️ BANNI ⚠️</value>
+    <value>⚠️ BANIDO ⚠️</value>
   </data>
   <data name="Notif_title_16" xml:space="preserve">
-    <value>☠️ Vous avez été signalé ☠️</value>
+    <value>☠️ Você foi sinalizado ☠️</value>
   </data>
   <data name="Notif_title_17" xml:space="preserve">
-    <value>Reconnecté</value>
+    <value>Reconectado</value>
   </data>
   <data name="Notif_title_18" xml:space="preserve">
-    <value>Dépassé !</value>
+    <value>Ultrapassado!</value>
   </data>
   <data name="Notif_title_19" xml:space="preserve">
-    <value>Ami en ligne</value>
+    <value>Amigo online</value>
   </data>
   <data name="Notif_message_7" xml:space="preserve">
-    <value>Niveau {level} atteint !</value>
+    <value>Nível {level} alcançado!</value>
   </data>
   <data name="Notif_message_8" xml:space="preserve">
-    <value>{xp:N0} XP cette semaine</value>
+    <value>{xp:N0} XP esta semana</value>
   </data>
   <data name="Notif_message_9" xml:space="preserve">
-    <value>Vous êtes maintenant n°{rank}</value>
+    <value>Você está agora em #{rank}</value>
   </data>
   <data name="Notif_message_10" xml:space="preserve">
-    <value>Vous êtes n°{rank} mondial !</value>
+    <value>Você é #{rank} mundial!</value>
   </data>
   <data name="Notif_message_11" xml:space="preserve">
-    <value>Progression envoyée au serveur</value>
+    <value>Progresso enviado ao servidor</value>
   </data>
   <data name="Notif_message_12" xml:space="preserve">
-    <value>Sauvegarde locale uniquement. Vos statistiques ne seront pas enregistrées en ligne.</value>
+    <value>Salvo apenas localmente. Seus atributos não serão salvos online.</value>
   </data>
   <data name="Notif_message_20" xml:space="preserve">
-    <value>Connecté.</value>
+    <value>Conectado.</value>
   </data>
   <data name="Notif_message_21" xml:space="preserve">
-    <value>Déconnecté.</value>
+    <value>Desconectado.</value>
   </data>
   <data name="Notif_message_14" xml:space="preserve">
-    <value>Activité suspecte détectée.</value>
+    <value>Atividade suspeita detectada.</value>
   </data>
   <data name="Notif_message_15" xml:space="preserve">
-    <value>Compte banni.</value>
+    <value>Conta banida.</value>
   </data>
   <data name="Notif_message_16" xml:space="preserve">
-    <value>Triche détectée. L’incident a été signalé.</value>
+    <value>Trapaça detectada. O incidente foi reportado.</value>
   </data>
   <data name="Notif_message_17" xml:space="preserve">
-    <value>Serveur disponible</value>
+    <value>Servidor disponível</value>
   </data>
   <data name="Notif_message_18" xml:space="preserve">
-    <value>{name} vient de vous dépasser</value>
+    <value>{name} acabou de te ultrapassar</value>
   </data>
   <data name="Notif_title_21" xml:space="preserve">
-    <value>Manette</value>
+    <value>Controle</value>
   </data>
   <data name="RankedBattle_Text" xml:space="preserve">
-    <value>COMBAT CLASSÉ</value>
+    <value>BATALHA RANQUEADA</value>
   </data>
   <data name="Dungeon_Boss_Text" xml:space="preserve">
-    <value>BOSS</value>
+    <value>CHEFE</value>
   </data>
   <data name="GhostBattle_Text" xml:space="preserve">
-    <value>COMBAT FANTOME</value>
+    <value>BATALHA FANTASMA</value>
   </data>
   <data name="Dungeon_Floor_Text" xml:space="preserve">
-    <value>ÉTAGE</value>
+    <value>ANDAR DA MASMORRA</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ Boss en approche...</value>
+    <value>⚔ Chefe chegando...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
-    <value>Arrivée de l’étage {i + 2}...</value>
+    <value>⚔ Andar {i + 2} chegando...</value>
   </data>
   <data name="Dungeon_BossFloor_Text" xml:space="preserve">
-    <value>ÉTAGE DU BOSS</value>
+    <value>ANDAR DO CHEFE</value>
   </data>
   <data name="PlayVSMenu_Wins" xml:space="preserve">
-    <value>VICTOIRES</value>
+    <value>VITÓRIAS</value>
   </data>
   <data name="PlayVSMenu_Losses" xml:space="preserve">
-    <value>DÉFAITES</value>
+    <value>DERROTAS</value>
   </data>
   <data name="GhostBattle_Log_1" xml:space="preserve">
-    <value>a remporté la bataille !</value>
+    <value>venceu a batalha!</value>
   </data>
   <data name="GhostBattle_Log_2" xml:space="preserve">
-    <value>attaque en premier !</value>
+    <value>ataca primeiro!</value>
   </data>
   <data name="GhostBattle_Log_3" xml:space="preserve">
-    <value>a esquivé ton attaque !</value>
+    <value>esquivou do seu ataque!</value>
   </data>
   <data name="GhostBattle_SpawnDamageText_1" xml:space="preserve">
-    <value>RATÉ !</value>
+    <value>ERROU!</value>
   </data>
   <data name="GhostBattle_Log_4" xml:space="preserve">
-    <value>a subi {myDmg} dégâts !</value>
+    <value>recebeu {myDmg} de dano!</value>
   </data>
   <data name="GhostBattle_Log_5" xml:space="preserve">
-    <value>a subi {enDmg} dégâts !</value>
+    <value>recebeu {enDmg} de dano!</value>
   </data>
   <data name="GhostBattle_Log_6" xml:space="preserve">
-    <value>Match nul.</value>
+    <value>A batalha terminou em empate.</value>
   </data>
   <data name="GhostBattle_Log_7" xml:space="preserve">
-    <value>a été vaincu...</value>
+    <value>foi derrotado...</value>
   </data>
   <data name="Notif_title_22" xml:space="preserve">
-    <value>Sync</value>
+    <value>Sincronização</value>
   </data>
   <data name="Notif_message_22" xml:space="preserve">
-    <value>Données synchronisées.</value>
+    <value>Seus dados foram sincronizados.</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ COMBAT BOSS ! ⚔</value>
+    <value>⚔ LUTA CONTRA O CHEFE! ⚔</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
-    <value>Commun</value>
+    <value>Comum</value>
   </data>
   <data name="Rarity_Label_Uncommon" xml:space="preserve">
-    <value>Peu commun</value>
+    <value>Incomum</value>
   </data>
   <data name="Rarity_Label_Rare" xml:space="preserve">
-    <value>Rare</value>
+    <value>Raro</value>
   </data>
   <data name="Rarity_Label_Epic" xml:space="preserve">
-    <value>Épique</value>
+    <value>Épico</value>
   </data>
   <data name="Rarity_Label_Legendary" xml:space="preserve">
-    <value>Légendaire</value>
+    <value>Lendário</value>
   </data>
   <data name="MainMenu_AvailablesPts" xml:space="preserve">
-    <value>POINTS DISPONIBLES</value>
+    <value>PONTOS DISPONÍVEIS</value>
   </data>
 </root>

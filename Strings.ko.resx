@@ -46,867 +46,840 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainMenu_Friends_Button" xml:space="preserve">
-    <value>Amis</value>
+    <value>친구</value>
   </data>
   <data name="MainMenu_Settings_Button" xml:space="preserve">
-    <value>Paramètres</value>
+    <value>설정</value>
   </data>
   <data name="MainMenu_Leaderboard_Button" xml:space="preserve">
-    <value>Classement</value>
+    <value>리더보드</value>
   </data>
   <data name="MainMenu_Inventory_Button" xml:space="preserve">
-    <value>Inventaire</value>
+    <value>인벤토리</value>
   </data>
   <data name="MainMenu_Shop_Button" xml:space="preserve">
-    <value>Boutique</value>
+    <value>상점</value>
   </data>
   <data name="MainMenu_HpText_Tooltip" xml:space="preserve">
-    <value>❤ Détermine combien de dégâts le chevalier peut subir avant de mourir.</value>
+    <value>❤ 기사가 사망하기 전에 받을 수 있는 피해량을 결정합니다.</value>
   </data>
   <data name="MainMenu_DmgText_Tooltip" xml:space="preserve">
-    <value>⚔ Augmente les dégâts infligés par le chevalier à chaque attaque.</value>
+    <value>⚔ 매 공격 시 기사가 가하는 피해를 증가시킵니다.</value>
   </data>
   <data name="MainMenu_AgiText_Tooltip" xml:space="preserve">
-    <value>💨 Augmente les chances d'esquive et détermine qui attaque en premier lors du combat.</value>
+    <value>💨 회피 확률을 높이고 전투에서 누가 먼저 공격할지 결정합니다.</value>
   </data>
   <data name="Settings_General_LanguageText" xml:space="preserve">
-    <value>Langue</value>
+    <value>언어</value>
   </data>
   <data name="Settings_General_AlwaysOnTopText" xml:space="preserve">
-    <value>Toujours au premier plan</value>
+    <value>항상 위에</value>
   </data>
   <data name="Settings_General_StartWithWindowsText" xml:space="preserve">
-    <value>Démarrer avec Windows</value>
+    <value>Windows와 함께 시작</value>
   </data>
   <data name="Settings_General_RunAsAdminText" xml:space="preserve">
-    <value>Exécuter en tant qu'administrateur</value>
+    <value>관리자로 실행</value>
   </data>
   <data name="Settings_General_NotificationsText" xml:space="preserve">
-    <value>Notifications</value>
+    <value>알림</value>
   </data>
   <data name="Settings_General_ShowTaskBarIconText" xml:space="preserve">
-    <value>Afficher l'icône dans la barre des tâches</value>
+    <value>작업 표시줄 아이콘 표시</value>
   </data>
   <data name="Settings_General_CloseGameText" xml:space="preserve">
-    <value>Quitter le jeu</value>
+    <value>게임 닫기</value>
   </data>
   <data name="Settings_GeneralText" xml:space="preserve">
-    <value>GÉNÉRAL</value>
+    <value>일반</value>
   </data>
   <data name="Settings_GeneralInfoText" xml:space="preserve">
-    <value>Paramètres généraux du système</value>
+    <value>일반 시스템 설정</value>
   </data>
   <data name="Settings_AudioText" xml:space="preserve">
-    <value>AUDIO</value>
+    <value>오디오</value>
   </data>
   <data name="Settings_AudioInfoText" xml:space="preserve">
-    <value>Gérer les paramètres audio</value>
+    <value>사운드 설정 관리</value>
   </data>
   <data name="Settings_Nav_General" xml:space="preserve">
-    <value>GÉNÉRAL</value>
+    <value>일반</value>
   </data>
   <data name="Settings_Nav_Audio" xml:space="preserve">
-    <value>AUDIO</value>
+    <value>오디오</value>
   </data>
   <data name="Settings_Nav_Overlay" xml:space="preserve">
-    <value>OVERLAY</value>
+    <value>오버레이</value>
   </data>
   <data name="Settings_Nav_Stats" xml:space="preserve">
-    <value>STATS</value>
+    <value>스탯</value>
   </data>
   <data name="Settings_Nav_Credits" xml:space="preserve">
-    <value>CRÉDITS</value>
+    <value>크레딧</value>
   </data>
   <data name="Settings_Nav_Menu" xml:space="preserve">
-    <value>MENU</value>
+    <value>메뉴</value>
   </data>
   <data name="Settings_SystemText" xml:space="preserve">
-    <value>SYSTÈME</value>
+    <value>시스템</value>
   </data>
   <data name="Settings_SystemInfoText" xml:space="preserve">
-    <value>Paramètres généraux du système</value>
+    <value>일반 시스템 설정</value>
   </data>
   <data name="Settings_OverlayText" xml:space="preserve">
-    <value>OVERLAY</value>
+    <value>오버레이</value>
   </data>
   <data name="Settings_OverlayInfoText" xml:space="preserve">
-    <value>Propriétés de l'overlay</value>
+    <value>오버레이 속성</value>
   </data>
   <data name="Settings_CreditsText" xml:space="preserve">
-    <value>CRÉDITS</value>
+    <value>크레딧</value>
   </data>
   <data name="Settings_CreditsInfoText" xml:space="preserve">
-    <value>L'équipe derrière le jeu</value>
+    <value>게임을 만든 팀</value>
   </data>
   <data name="Settings_StatsText" xml:space="preserve">
-    <value>STATS</value>
+    <value>스탯</value>
   </data>
   <data name="Settings_StatsInfoText" xml:space="preserve">
-    <value>Statistiques</value>
+    <value>통계</value>
   </data>
   <data name="Settings_Header_Volume" xml:space="preserve">
-    <value>VOLUME</value>
+    <value>볼륨</value>
   </data>
   <data name="Settings_Header_Toggles" xml:space="preserve">
-    <value>OPTIONS</value>
+    <value>토글</value>
   </data>
   <data name="Settings_Header_Controls" xml:space="preserve">
-    <value>CONTRÔLES</value>
+    <value>컨트롤</value>
   </data>
   <data name="Settings_Header_Appearance" xml:space="preserve">
-    <value>APPARENCE</value>
+    <value>외형</value>
   </data>
   <data name="Settings_Header_Video" xml:space="preserve">
-    <value>VIDÉO</value>
+    <value>비디오</value>
   </data>
   <data name="Settings_Header_Team" xml:space="preserve">
-    <value>ÉQUIPE</value>
+    <value>팀</value>
   </data>
   <data name="Settings_Header_GameAssets" xml:space="preserve">
-    <value>RESSOURCES DU JEU</value>
+    <value>게임 에셋</value>
   </data>
   <data name="Settings_Header_BuiltWith" xml:space="preserve">
-    <value>RÉALISÉ AVEC</value>
+    <value>제작 도구</value>
   </data>
   <data name="Settings_Header_Links" xml:space="preserve">
-    <value>LIENS</value>
+    <value>링크</value>
   </data>
   <data name="Settings_Header_PrivacyPolicy" xml:space="preserve">
-    <value>POLITIQUE DE CONFIDENTIALITÉ</value>
+    <value>개인정보 처리방침</value>
   </data>
   <data name="Settings_Header_Stats" xml:space="preserve">
-    <value>STATS</value>
+    <value>스탯</value>
   </data>
   <data name="Settings_Header_Dungeon" xml:space="preserve">
-    <value>DONJON</value>
+    <value>던전</value>
   </data>
   <data name="Settings_Header_Ranked" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>랭크</value>
   </data>
   <data name="Settings_General_English" xml:space="preserve">
-    <value>Français</value>
+    <value>한국어</value>
   </data>
   <data name="Settings_General_Quit" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>종료</value>
   </data>
   <data name="Settings_Audio_GameVolume" xml:space="preserve">
-    <value>Volume du jeu</value>
+    <value>게임 볼륨</value>
   </data>
   <data name="Settings_Audio_Music" xml:space="preserve">
-    <value>Musique</value>
+    <value>음악</value>
   </data>
   <data name="Settings_Audio_SoundEffects" xml:space="preserve">
-    <value>Effets sonores</value>
+    <value>효과음</value>
   </data>
   <data name="Settings_Audio_EnableMusic" xml:space="preserve">
-    <value>Activer la musique</value>
+    <value>음악 활성화</value>
   </data>
   <data name="Settings_Overlay_ControllerSupport" xml:space="preserve">
-    <value>Activer le support manette</value>
+    <value>컨트롤러 지원 활성화</value>
   </data>
   <data name="Settings_Overlay_WidgetSize" xml:space="preserve">
-    <value>Taille du widget</value>
+    <value>위젯 크기</value>
   </data>
   <data name="Settings_Overlay_ShowXpBar" xml:space="preserve">
-    <value>Afficher la barre XP</value>
+    <value>XP 바 표시</value>
   </data>
   <data name="Settings_Overlay_ScreenSelection" xml:space="preserve">
-    <value>Sélection de l'écran</value>
+    <value>화면 선택</value>
   </data>
   <data name="Settings_Overlay_SoftwareRendering" xml:space="preserve">
-    <value>Rendu logiciel</value>
+    <value>소프트웨어 렌더링</value>
   </data>
   <data name="Settings_Overlay_FpsLimit" xml:space="preserve">
-    <value>Limite FPS</value>
+    <value>FPS 제한</value>
   </data>
   <data name="Settings_Overlay_ScreenPrimary" xml:space="preserve">
-    <value>Écran {0} (Principal)</value>
+    <value>화면 {0} (기본)</value>
   </data>
   <data name="Settings_Overlay_ScreenNormal" xml:space="preserve">
-    <value>Écran {0}</value>
+    <value>화면 {0}</value>
   </data>
   <data name="Settings_Credits_Programming" xml:space="preserve">
-    <value>Programmation</value>
+    <value>프로그래밍</value>
   </data>
   <data name="Settings_Credits_Art" xml:space="preserve">
-    <value>Art &amp; Design</value>
+    <value>아트 &amp; 디자인</value>
   </data>
   <data name="Settings_Credits_MusicText" xml:space="preserve">
-    <value>Musique</value>
+    <value>음악</value>
   </data>
   <data name="Settings_Credits_BugHunters" xml:space="preserve">
-    <value>Chasseurs de bugs</value>
+    <value>버그 헌터</value>
   </data>
   <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>Chevalier, Créateur : Mattz</value>
+    <value>기사, 제작자: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetEdits" xml:space="preserve">
-    <value>Éditions : Dark, Darkness, Shadow, Bloody, White, Monochrome(Probably), Green, Emerald, VoIP (Pooh5159), Gold (Upper)</value>
+    <value>편집: Dark, Darkness, Shadow, Bloody, White, Monochrome (Probably), Green, Emerald, VoIP(Pooh5159), Gold (Upper)</value>
   </data>
   <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>Gobelin, Créateur : Mattz</value>
+    <value>고블린, 제작자: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>Squelette, Créateur : Mattz</value>
+    <value>해골, 제작자: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>Kobold, Créateur : Mattz</value>
+    <value>코볼드, 제작자: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>Bébé Dragon, Créateur : Mattz</value>
+    <value>아기 드래곤, 제작자: Mattz</value>
   </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>VECR Engine (WPF / .NET, C#)</value>
   </data>
   <data name="Settings_Links_Website" xml:space="preserve">
-    <value>Site web</value>
+    <value>웹사이트</value>
   </data>
   <data name="Settings_Links_Discord" xml:space="preserve">
-    <value>Serveur Discord</value>
+    <value>디스코드 서버</value>
   </data>
   <data name="Settings_Links_ReportBug" xml:space="preserve">
-    <value>Signaler un bug</value>
+    <value>버그 신고</value>
   </data>
   <data name="Settings_Privacy_1" xml:space="preserve">
-    <value>Idle Knight traite un ensemble limité de données afin de fournir des fonctionnalités en ligne et assurer le bon fonctionnement du jeu.</value>
+    <value>Idle Knight는 온라인 기능을 제공하고 게임의 원활한 작동을 보장하기 위해 제한된 데이터를 처리합니다.</value>
   </data>
   <data name="Settings_Privacy_2" xml:space="preserve">
-    <value>Les informations suivantes peuvent être collectées et stockées :</value>
+    <value>다음 정보가 수집 및 저장될 수 있습니다:</value>
   </data>
   <data name="Settings_Privacy_3" xml:space="preserve">
     <value>• SteamID64</value>
   </data>
   <data name="Settings_Privacy_4" xml:space="preserve">
-    <value>• Progression du joueur et statistiques de jeu</value>
+    <value>• 플레이어 진행 상황 및 게임 통계</value>
   </data>
   <data name="Settings_Privacy_5" xml:space="preserve">
-    <value>• Données de matchmaking et de classement</value>
+    <value>• 매치메이킹 및 리더보드 데이터</value>
   </data>
   <data name="Settings_Privacy_6" xml:space="preserve">
-    <value>• Données techniques liées au serveur</value>
+    <value>• 서버 관련 기술 데이터</value>
   </data>
   <data name="Settings_Privacy_7" xml:space="preserve">
-    <value>• Informations nécessaires à la validation des achats Steam (aucune information de paiement n'est collectée)</value>
+    <value>• Steam 구매 확인에 필요한 정보 (결제 정보는 수집되지 않음)</value>
   </data>
   <data name="Settings_Privacy_8" xml:space="preserve">
-    <value>Ces données sont utilisées exclusivement pour :</value>
+    <value>이 데이터는 다음 목적으로만 사용됩니다:</value>
   </data>
   <data name="Settings_Privacy_9" xml:space="preserve">
-    <value>• Identifier le joueur</value>
+    <value>• 플레이어 식별</value>
   </data>
   <data name="Settings_Privacy_10" xml:space="preserve">
-    <value>• Sauvegarder et synchroniser la progression</value>
+    <value>• 진행 상황 저장 및 동기화</value>
   </data>
   <data name="Settings_Privacy_11" xml:space="preserve">
-    <value>• Gérer le matchmaking et les classements</value>
+    <value>• 매치메이킹 및 리더보드 운영</value>
   </data>
   <data name="Settings_Privacy_12" xml:space="preserve">
-    <value>• Maintenir les services en ligne et les serveurs de jeu</value>
+    <value>• 온라인 서비스 및 게임 서버 유지</value>
   </data>
   <data name="Settings_Privacy_13" xml:space="preserve">
-    <value>• Vérifier les achats et droits Steam</value>
+    <value>• Steam 구매 및 이용 권한 확인</value>
   </data>
   <data name="Settings_Privacy_14" xml:space="preserve">
-    <value>Aucune donnée n'est vendue, partagée ou transmise à des tiers.</value>
+    <value>어떤 데이터도 제3자에게 판매, 공유 또는 이전되지 않습니다.</value>
   </data>
   <data name="Settings_Privacy_15" xml:space="preserve">
-    <value>Toutes les données collectées sont stockées de manière sécurisée sur nos serveurs.</value>
+    <value>수집된 모든 데이터는 당사 서버에 안전하게 저장됩니다.</value>
   </data>
   <data name="Settings_Privacy_16" xml:space="preserve">
-    <value>En jouant à Idle Knight, vous acceptez cette Politique de Confidentialité ainsi que la Politique de Confidentialité de Steam.</value>
+    <value>Idle Knight를 플레이함으로써 이 개인정보 처리방침과 Steam의 개인정보 처리방침에 동의합니다.</value>
   </data>
   <data name="Settings_Title_IdleKnight" xml:space="preserve">
     <value>Idle Knight</value>
   </data>
   <data name="Settings_Version_Text" xml:space="preserve">
-    <value>Version 1.0.0 Playtest  •  2026</value>
+    <value>버전 1.0.0 플레이테스트 • 2026</value>
   </data>
   <data name="Settings_Stats_XP" xml:space="preserve">
     <value>XP</value>
   </data>
   <data name="Settings_Stats_TotalXp" xml:space="preserve">
-    <value>XP total gagné</value>
+    <value>총 획득 XP</value>
   </data>
   <data name="Settings_Stats_LEVEL" xml:space="preserve">
-    <value>NIVEAU</value>
+    <value>레벨</value>
   </data>
   <data name="Settings_Stats_CurrentLevel" xml:space="preserve">
-    <value>Niveau actuel</value>
+    <value>현재 레벨</value>
   </data>
   <data name="Settings_Stats_HP" xml:space="preserve">
     <value>HP</value>
   </data>
   <data name="Settings_Stats_CurrentHp" xml:space="preserve">
-    <value>HP actuel</value>
+    <value>현재 HP</value>
   </data>
   <data name="Settings_Stats_DMG" xml:space="preserve">
-    <value>DGT</value>
+    <value>피해</value>
   </data>
   <data name="Settings_Stats_CurrentDamage" xml:space="preserve">
-    <value>Dégâts actuels</value>
+    <value>현재 피해</value>
   </data>
   <data name="Settings_Stats_AGI" xml:space="preserve">
-    <value>AGI</value>
+    <value>민첩</value>
   </data>
   <data name="Settings_Stats_CurrentAgility" xml:space="preserve">
-    <value>Agilité actuelle</value>
+    <value>현재 민첩</value>
   </data>
   <data name="Settings_Stats_PTS" xml:space="preserve">
-    <value>PTS</value>
+    <value>포인트</value>
   </data>
   <data name="Settings_Stats_AvailabilityPoints" xml:space="preserve">
-    <value>Points disponibles</value>
+    <value>사용 가능한 포인트</value>
   </data>
   <data name="Settings_Stats_MATCHES" xml:space="preserve">
-    <value>PARTIES</value>
+    <value>매치</value>
   </data>
   <data name="Settings_Stats_DungeonMatches" xml:space="preserve">
-    <value>Total de parties en donjon</value>
+    <value>총 던전 매치</value>
   </data>
   <data name="Settings_Stats_WINS" xml:space="preserve">
-    <value>VICTOIRES</value>
+    <value>승리</value>
   </data>
   <data name="Settings_Stats_DungeonWins" xml:space="preserve">
-    <value>Total de victoires en donjon</value>
+    <value>총 던전 승리</value>
   </data>
   <data name="Settings_Stats_LOSSES" xml:space="preserve">
-    <value>DÉFAITES</value>
+    <value>패배</value>
   </data>
   <data name="Settings_Stats_DungeonLosses" xml:space="preserve">
-    <value>Total de défaites en donjon</value>
+    <value>총 던전 패배</value>
   </data>
   <data name="Settings_Stats_RankedMatches" xml:space="preserve">
-    <value>Total de parties classées</value>
+    <value>총 랭크 매치</value>
   </data>
   <data name="Settings_Stats_RankedWins" xml:space="preserve">
-    <value>Total de victoires classées</value>
+    <value>총 랭크 승리</value>
   </data>
   <data name="Settings_Stats_RankedLosses" xml:space="preserve">
-    <value>Total de défaites classées</value>
+    <value>총 랭크 패배</value>
   </data>
   <data name="Settings_Stats_EARNED" xml:space="preserve">
-    <value>GAGNÉS</value>
+    <value>획득</value>
   </data>
   <data name="Settings_Stats_RankedPointsEarned" xml:space="preserve">
-    <value>Total de points classés gagnés</value>
+    <value>총 획득 랭크 포인트</value>
   </data>
   <data name="Settings_Stats_LOST" xml:space="preserve">
-    <value>PERDUS</value>
+    <value>잃음</value>
   </data>
   <data name="Settings_Stats_RankedPointsLost" xml:space="preserve">
-    <value>Total de points classés perdus</value>
+    <value>총 잃은 랭크 포인트</value>
   </data>
   <data name="Settings_Stats_SuffixXP" xml:space="preserve">
-    <value> XP</value>
+    <value>XP</value>
   </data>
   <data name="Settings_Stats_PrefixLVL" xml:space="preserve">
-    <value>NIV </value>
+    <value>레벨</value>
   </data>
   <data name="Settings_Stats_SuffixHP" xml:space="preserve">
-    <value> HP</value>
+    <value>HP</value>
   </data>
   <data name="Settings_Stats_SuffixDMG" xml:space="preserve">
-    <value> DGT</value>
+    <value>피해</value>
   </data>
   <data name="Settings_Stats_SuffixAGI" xml:space="preserve">
-    <value>% AGI</value>
+    <value>% 민첩</value>
   </data>
   <data name="Settings_Stats_SuffixPTS" xml:space="preserve">
-    <value> PTS</value>
+    <value>포인트</value>
   </data>
   <data name="MainMenu_FightButton_Text" xml:space="preserve">
-    <value>⚔️ COMBAT ⚔️</value>
+    <value>⚔️ 전투 ⚔️</value>
   </data>
   <data name="FightMenu_DungeonButton_Text" xml:space="preserve">
-    <value>DONJON</value>
+    <value>던전</value>
   </data>
   <data name="FightMenu_RankedButton_Text" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>랭크</value>
   </data>
   <data name="FightMenu_FightText" xml:space="preserve">
-    <value>COMBAT</value>
+    <value>전투</value>
   </data>
   <data name="DungeonMenu_DungeonText" xml:space="preserve">
-    <value>DONJON</value>
+    <value>던전</value>
   </data>
   <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>Catacombes Abandonnées</value>
+    <value>버려진 지하묘지</value>
   </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
-    <value>Puissance recommandée : </value>
+    <value>권장 전투력 :</value>
   </data>
   <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>NIVEAU 18</value>
+    <value>레벨 18</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
-    <value>RÉCOMPENSES POSSIBLES</value>
+    <value>가능한 보상</value>
   </data>
   <data name="DungeonMenu_Keys_Text" xml:space="preserve">
-    <value>Clés : </value>
+    <value>열쇠 :</value>
   </data>
   <data name="RankedMenu_RankedText" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>랭크</value>
   </data>
   <data name="RankedMenu_FindMatch_Button" xml:space="preserve">
-    <value>TROUVER UNE PARTIE</value>
+    <value>매치 찾기</value>
   </data>
   <data name="RankedMenu_ExitButton" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>종료</value>
   </data>
   <data name="RankedMenu_Keys_Text" xml:space="preserve">
-    <value>Clés : </value>
+    <value>열쇠 :</value>
   </data>
   <data name="FightMenu_ExitButton_Text" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>종료</value>
   </data>
   <data name="DungeonMenu_EnterDungeon_Button" xml:space="preserve">
-    <value>ENTRER DANS LE DONJON</value>
+    <value>던전 입장</value>
   </data>
   <data name="DungeonMenu_Exit_Button" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>종료</value>
   </data>
   <data name="RankedMenu_Points_Text" xml:space="preserve">
-    <value>Points : </value>
+    <value>포인트 :</value>
   </data>
   <data name="Tuto_Dialogue1" xml:space="preserve">
-    <value>Hé, toi ! Ouais, toi, la nouvelle recrue en armure.</value>
+    <value>이봐, 거기 너! 그래, 너 말이야, 갑옷 입은 신입 말이야.</value>
   </data>
   <data name="Tuto_Dialogue2" xml:space="preserve">
-    <value>Tu ne vas pas rester planté là toute la journée, si ?</value>
+    <value>하루 종일 그렇게 서 있을 건 아니지?</value>
   </data>
   <data name="Tuto_Dialogue3" xml:space="preserve">
-    <value>Prouve-moi que tu sais tenir sur tes deux jambes.
-Saisis ton personnage et déplace-le sur l'écran.</value>
+    <value>혼자 설 수 있다는 걸 보여줘. 캐릭터를 잡고 화면에서 움직여봐.</value>
   </data>
   <data name="Tuto_Dialogue4" xml:space="preserve">
-    <value>Pas mal, tu n'es pas complètement rouillé !</value>
+    <value>나쁘지 않은걸, 완전히 녹슬지는 않았군!</value>
   </data>
   <data name="Tuto_Dialogue5" xml:space="preserve">
-    <value>Maintenant, survole ton personnage
-pour découvrir le menu.</value>
+    <value>이제 캐릭터 위에 마우스를 올려 메뉴를 확인해봐.</value>
   </data>
   <data name="Tuto_Dialogue6" xml:space="preserve">
-    <value>Tu vois ton nom en haut ? C'est toi.
-Pour l'instant tu es niveau 0, mais ça va vite changer.</value>
+    <value>맨 위에 네 이름 보여? 그게 너야. 지금은 레벨 0이지만, 곧 바뀔 거야.</value>
   </data>
   <data name="Tuto_Dialogue7" xml:space="preserve">
-    <value>La barre bleue sous ton nom est ton expérience.
-Elle se remplit chaque fois que tu cliques sur ton personnage.</value>
+    <value>이름 아래 파란 바가 경험치야. 캐릭터를 클릭할 때마다 채워져.</value>
   </data>
   <data name="Tuto_Dialogue8" xml:space="preserve">
-    <value>Le nombre en dessous indique l'XP gagnée à ce niveau,
-et combien il t'en faut pour atteindre le suivant.</value>
+    <value>아래 숫자는 이번 레벨에서 얻은 XP와 다음 레벨까지 필요한 XP를 보여줘.</value>
   </data>
   <data name="Tuto_Dialogue9" xml:space="preserve">
-    <value>Les trois lignes en dessous sont tes stats :
-PV, DGT et AGI.
-On y reviendra plus tard.</value>
+    <value>아래 세 줄은 네 스탯이야: HP, 피해, 민첩. 나중에 다시 설명할게.</value>
   </data>
   <data name="Tuto_Dialogue10" xml:space="preserve">
-    <value>Le bouton COMBAT en bas est l'endroit où tout commence.
-C'est celui qui lance les batailles.</value>
+    <value>하단의 전투 버튼이 모든 것의 시작이야. 전투를 시작하는 버튼이야.</value>
   </data>
   <data name="Tuto_Dialogue11" xml:space="preserve">
-    <value>Et tout en bas, tes raccourcis :
-Amis, Classement, Inventaire, Boutique et Paramètres.</value>
+    <value>맨 아래에는 단축키들이 있어: 친구, 리더보드, 인벤토리, 상점, 설정.</value>
   </data>
   <data name="Tuto_Dialogue12" xml:space="preserve">
-    <value>Ici, tu peux trouver tes amis et suivre leur progression.
-Tu peux aussi combattre le fantôme d'un ami en cliquant sur le bouton Combat.</value>
+    <value>여기서 친구들을 찾고 그들의 진행 상황을 확인할 수 있어. 전투 버튼을 클릭해서 친구의 유령과 싸울 수도 있어.</value>
   </data>
   <data name="Tuto_Dialogue13" xml:space="preserve">
-    <value>Compare-toi aux meilleurs joueurs du monde.
-Grimpe dans le classement en accumulant de l'XP.</value>
+    <value>전 세계 최고의 플레이어들과 비교해봐. XP를 쌓아 랭킹을 올려.</value>
   </data>
   <data name="Tuto_Dialogue14" xml:space="preserve">
-    <value>C'est ici que tu choisis ton apparence.
-Personnalise le look de ton personnage.</value>
+    <value>여기서 스킨을 고를 수 있어. 캐릭터 외형을 커스터마이즈해.</value>
   </data>
   <data name="Tuto_Dialogue15" xml:space="preserve">
-    <value>C'est ici que tu choisis ton mode de combat.
-Donjon, Classé et Événement.</value>
+    <value>여기서 전투 모드를 선택해. 던전, 랭크, 이벤트.</value>
   </data>
   <data name="Tuto_Dialogue16" xml:space="preserve">
-    <value>Affronte des joueurs du monde entier en temps réel.
-Grimpe dans le classement pour te faire un nom.</value>
+    <value>전 세계 플레이어들과 실시간으로 싸워. 리더보드를 올라가며 이름을 알려.</value>
   </data>
   <data name="Tuto_Dialogue17" xml:space="preserve">
-    <value>Ici, tu peux ajuster le jeu à ta guise.
-Son, langue, notifications... tout est là.</value>
+    <value>여기서 게임을 취향대로 조정할 수 있어. 사운드, 언어, 알림... 모두 여기 있어.</value>
   </data>
   <data name="Tuto_Dialogue18" xml:space="preserve">
-    <value>Parfait, tu connais les rouages maintenant.
-Clique n'importe où pour gagner de l'XP.</value>
+    <value>완벽해, 이제 기본을 알았어. 아무 곳이나 클릭해서 XP를 획득해.</value>
   </data>
   <data name="Tuto_Dialogue19" xml:space="preserve">
-    <value>Pas mal du tout !
-Maintenant, tu vas devoir prendre du muscle avant d'entrer dans l'arène.</value>
+    <value>나쁘지 않아! 이제 아레나에 들어가기 전에 좀 더 강해져야 해.</value>
   </data>
   <data name="Tuto_Dialogue20" xml:space="preserve">
-    <value>Continue de cliquer jusqu'à atteindre le niveau 1 !
-Chaque clic te rapproche du but.</value>
+    <value>레벨 1에 도달할 때까지 계속 클릭해! 클릭할수록 목표에 가까워져.</value>
   </data>
   <data name="Tuto_Dialogue21" xml:space="preserve">
-    <value>Beau travail ! Tu as atteint le niveau 1 !
-Il est temps de choisir tes compétences.</value>
+    <value>잘했어! 레벨 1에 도달했어! 이제 스킬을 선택할 시간이야.</value>
   </data>
   <data name="Tuto_Dialogue22" xml:space="preserve">
-    <value>PV : Plus de points de vie.
-Plus tu en as, plus tu peux encaisser de coups.</value>
+    <value>HP: 생명력 포인트 증가. 많을수록 더 많은 공격을 버틸 수 있어.</value>
   </data>
   <data name="Tuto_Dialogue23" xml:space="preserve">
-    <value>DGT : Plus de dégâts.
-Frappe plus fort, tue plus vite.</value>
+    <value>피해: 피해량 증가. 더 강하게 치고, 더 빨리 처치해.</value>
   </data>
   <data name="Tuto_Dialogue24" xml:space="preserve">
-    <value>AGI : Plus d'esquive.
-Plus elle est élevée, plus tu frappes tôt en combat.</value>
+    <value>민첩: 회피 증가. 높을수록 전투에서 먼저 공격해.</value>
   </data>
   <data name="Tuto_Dialogue25" xml:space="preserve">
-    <value>À ton tour.
-Choisis sagement, chaque point compte !</value>
+    <value>네 차례야. 현명하게 선택해, 모든 포인트가 중요해!</value>
   </data>
   <data name="Tuto_Dialogue26" xml:space="preserve">
-    <value>Et voilà, tu es devenu plus fort !
-Chaque point investi fait la différence en combat.</value>
+    <value>이제 더 강해졌어! 투자한 모든 포인트가 전투에서 차이를 만들어.</value>
   </data>
   <data name="Tuto_Dialogue27" xml:space="preserve">
-    <value>Pour terminer l'entraînement, tu peux lancer un match Classé rapide.
-Mais tu n'es pas obligé, c'est toi qui vois.</value>
+    <value>훈련을 마치려면 빠른 랭크 매치에 참여할 수 있어. 하지만 의무는 아니야, 네가 결정해.</value>
   </data>
   <data name="Tuto_Dialogue28" xml:space="preserve">
-    <value>C'est tout ce que j'avais à t'apprendre.
-Bonne chance, guerrier. La suite ne dépend que de toi.</value>
+    <value>가르쳐줄 건 다 알려줬어. 행운을 빌어, 전사여. 나머지는 네 몫이야.</value>
   </data>
   <data name="Tuto_Dialogue29" xml:space="preserve">
-    <value>Ouvre le menu {name}.</value>
+    <value>{name} 메뉴를 열어.</value>
   </data>
   <data name="Tuto_DialogueMentorName" xml:space="preserve">
-    <value>Mentor</value>
+    <value>멘토</value>
   </data>
   <data name="Tuto_DialogueKnightName" xml:space="preserve">
-    <value>Chevalier</value>
+    <value>기사</value>
   </data>
   <data name="Tuto_Dialogue30" xml:space="preserve">
-    <value>Entre dans les donjons pour affronter de puissants boss et gagner de superbes récompenses.
-Conquis chaque étage et prouve que tu es digne de la gloire.</value>
+    <value>던전에 들어가 강력한 보스와 싸우고 훌륭한 보상을 획득해. 모든 층을 정복하고 영광에 걸맞음을 증명해.</value>
   </data>
   <data name="MainMenu_HpText" xml:space="preserve">
-    <value>PV</value>
+    <value>HP</value>
   </data>
   <data name="MainMenu_DmgText" xml:space="preserve">
-    <value>DGT</value>
+    <value>피해</value>
   </data>
   <data name="MainMenu_AgiText" xml:space="preserve">
-    <value>% AGI</value>
+    <value>% 민첩</value>
   </data>
   <data name="PtsUntilNextRank" xml:space="preserve">
-    <value>Jusqu'à</value>
+    <value>까지</value>
   </data>
   <data name="FriendsMenu_Text" xml:space="preserve">
-    <value>AMIS</value>
+    <value>친구</value>
   </data>
   <data name="FriendsMenu_OnlineText" xml:space="preserve">
-    <value>en ligne</value>
+    <value>온라인</value>
   </data>
   <data name="FriendsMenu_FriendsText" xml:space="preserve">
-    <value>amis</value>
+    <value>친구</value>
   </data>
   <data name="FriendsMenu_SearchFriendsText" xml:space="preserve">
-    <value>Rechercher un ami...</value>
+    <value>친구 검색...</value>
   </data>
   <data name="Previous_Button_Text" xml:space="preserve">
-    <value>◀ PREC</value>
+    <value>◀ 이전</value>
   </data>
   <data name="Next_Button_Text" xml:space="preserve">
-    <value>SUIV ▶</value>
+    <value>다음 ▶</value>
   </data>
   <data name="FriendsMenu_Fight_Button" xml:space="preserve">
-    <value>COMBATTRE</value>
+    <value>전투</value>
   </data>
   <data name="FriendsMenu_Level_Text" xml:space="preserve">
-    <value>NIV</value>
+    <value>레벨</value>
   </data>
   <data name="FriendsMenu_Loading_Text" xml:space="preserve">
-    <value>Chargement...</value>
+    <value>불러오는 중...</value>
   </data>
   <data name="FightMenu_EventText" xml:space="preserve">
-    <value>ÉVÉNEMENT</value>
+    <value>이벤트</value>
   </data>
   <data name="LeaderboardMenu_You_Text" xml:space="preserve">
-    <value>Toi ·</value>
+    <value>나 ·</value>
   </data>
   <data name="DungeonMenu_BattleBossFight_Text" xml:space="preserve">
-    <value>COMBAT BOSS</value>
+    <value>보스 전투</value>
   </data>
   <data name="DungeonMenu_BattleFloor_Text" xml:space="preserve">
-    <value>ÉTAGE</value>
+    <value>층</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ Combat...</value>
+    <value>⚔ 전투 중...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
-    <value>Banni !</value>
+    <value>밴 당함!</value>
   </data>
   <data name="InventoryMenu_Text" xml:space="preserve">
-    <value>INVENTAIRE</value>
+    <value>인벤토리</value>
   </data>
   <data name="InventoryMenu_Skins_Text" xml:space="preserve">
-    <value>SKINS</value>
+    <value>스킨</value>
   </data>
   <data name="InventoryMenu_Consumables_Text" xml:space="preserve">
-    <value>CONSOMMABLES</value>
+    <value>소모품</value>
   </data>
   <data name="InventoryMenu_All_Button" xml:space="preserve">
-    <value>TOUS</value>
+    <value>전체</value>
   </data>
   <data name="UnlockCondition_1" xml:space="preserve">
-    <value>Skin par défaut</value>
+    <value>기본 스킨</value>
   </data>
   <data name="UnlockCondition_2" xml:space="preserve">
-    <value>Vaincre le boss du donjon 2</value>
+    <value>던전 2의 보스를 처치</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
-    <value>À venir...</value>
+    <value>곧 출시...</value>
   </data>
   <data name="UnlockCondition_4" xml:space="preserve">
-    <value>Rejoignez le discord Idle Knight</value>
+    <value>Idle Knight 디스코드 서버에 가입하여 스킨 요청</value>
   </data>
   <data name="UnlockCondition_5" xml:space="preserve">
-    <value>Acheter dans la boutique</value>
+    <value>상점에서 구매</value>
   </data>
   <data name="UnlockCondition_6" xml:space="preserve">
-    <value>Uniquement pour les playtesteurs</value>
+    <value>플레이테스터 전용</value>
   </data>
   <data name="Consumable_ItemName_1" xml:space="preserve">
-    <value>Plume de phénix</value>
+    <value>불사조의 깃털</value>
   </data>
   <data name="Consumable_ItemName_2" xml:space="preserve">
-    <value>Double XP 15 min</value>
+    <value>XP 2배 15분</value>
   </data>
   <data name="Consumable_ItemName_3" xml:space="preserve">
-    <value>Double XP 30 min</value>
+    <value>XP 2배 30분</value>
   </data>
   <data name="Consumable_ItemName_4" xml:space="preserve">
-    <value>Double XP 60 min</value>
+    <value>XP 2배 60분</value>
   </data>
   <data name="Consumable_ItemDesc_1" xml:space="preserve">
-    <value>Réinitialise tes stats et restaure ton build de base.</value>
+    <value>스탯을 초기화하고 기본 빌드를 복원합니다.</value>
   </data>
   <data name="Consumable_ItemDesc_2" xml:space="preserve">
-    <value>Double ton XP pendant 15 minutes.</value>
+    <value>15분 동안 XP를 2배로 획득합니다.</value>
   </data>
   <data name="Consumable_ItemDesc_3" xml:space="preserve">
-    <value>Double ton XP pendant 30 minutes.</value>
+    <value>30분 동안 XP를 2배로 획득합니다.</value>
   </data>
   <data name="Consumable_ItemDesc_4" xml:space="preserve">
-    <value>Double ton XP pendant 60 minutes.</value>
+    <value>60분 동안 XP를 2배로 획득합니다.</value>
   </data>
   <data name="Consumable_ItemEffect_1" xml:space="preserve">
-    <value>Réinitialisation des stats</value>
+    <value>스탯 초기화</value>
   </data>
   <data name="Consumable_ItemEffect_2" xml:space="preserve">
-    <value>x2 XP / 15 min</value>
+    <value>x2 XP / 15분</value>
   </data>
   <data name="Consumable_ItemEffect_3" xml:space="preserve">
-    <value>x2 XP / 30 min</value>
+    <value>x2 XP / 30분</value>
   </data>
   <data name="Consumable_ItemEffect_4" xml:space="preserve">
-    <value>x2 XP / 60 min</value>
+    <value>x2 XP / 60분</value>
   </data>
   <data name="Notif_title_1" xml:space="preserve">
-    <value>Consommable trouvé !</value>
+    <value>소모품 발견!</value>
   </data>
   <data name="Notif_title_2" xml:space="preserve">
-    <value>Plus aucune clé disponible</value>
+    <value>열쇠 없음</value>
   </data>
   <data name="Notif_message_2" xml:space="preserve">
-    <value>Patiente jusqu’à la reset quotidienne (1h00 UTC)</value>
+    <value>매일 UTC 01:00 초기화를 기다려주세요.</value>
   </data>
   <data name="Notif_title_3" xml:space="preserve">
-    <value>Stats non synchronisées</value>
+    <value>스탯 미동기화</value>
   </data>
   <data name="Notif_message_3" xml:space="preserve">
-    <value>Veuillez patienter {secondsLeft}s avant de jouer.</value>
+    <value>플레이하기 전에 {secondsLeft}초 기다려주세요.</value>
   </data>
   <data name="Notif_title_4" xml:space="preserve">
-    <value>Classé indisponible</value>
+    <value>랭크 이용 불가</value>
   </data>
   <data name="Notif_message_4" xml:space="preserve">
-    <value>Aucun adversaire trouvé à votre niveau. Réessayez plus tard.</value>
+    <value>해당 레벨에서 상대를 찾을 수 없습니다. 나중에 다시 시도해주세요.</value>
   </data>
   <data name="Notif_title_5" xml:space="preserve">
-    <value>Donjon indisponible</value>
+    <value>던전 이용 불가</value>
   </data>
   <data name="Notif_message_5" xml:space="preserve">
-    <value>Une erreur s’est produite. Réessayez plus tard.</value>
+    <value>오류가 발생했습니다. 나중에 다시 시도해주세요.</value>
   </data>
   <data name="Notif_title_6" xml:space="preserve">
-    <value>Stats non synchronisées</value>
+    <value>스탯 미동기화</value>
   </data>
   <data name="Notif_message_6" xml:space="preserve">
-    <value>Vous devez attendre {secondsLeft}s avant de l’utiliser.</value>
+    <value>사용하기 전에 {secondsLeft}초 기다려주세요.</value>
   </data>
   <data name="Cheater_text" xml:space="preserve">
-    <value>Cheater !</value>
+    <value>치터!</value>
   </data>
   <data name="Notif_title_7" xml:space="preserve">
-    <value>Niveau supérieur !</value>
+    <value>레벨 업!</value>
   </data>
   <data name="Notif_title_8" xml:space="preserve">
-    <value>Record hebdomadaire !</value>
+    <value>주간 기록!</value>
   </data>
   <data name="Notif_title_9" xml:space="preserve">
-    <value>Montée de rang !</value>
+    <value>랭크 업!</value>
   </data>
   <data name="Notif_title_10" xml:space="preserve">
-    <value>Top 3 !</value>
+    <value>TOP 3!</value>
   </data>
   <data name="Notif_title_11" xml:space="preserve">
-    <value>Sauvegardé</value>
+    <value>저장됨</value>
   </data>
   <data name="Notif_title_12" xml:space="preserve">
-    <value>Mode hors‑ligne</value>
+    <value>오프라인 모드</value>
   </data>
   <data name="Notif_title_20" xml:space="preserve">
-    <value>Manette</value>
+    <value>컨트롤러</value>
   </data>
   <data name="Notif_title_14" xml:space="preserve">
-    <value>⚠️ AVERTISSEMENT ⚠️</value>
+    <value>⚠️ 경고 ⚠️</value>
   </data>
   <data name="Notif_title_15" xml:space="preserve">
-    <value>⚠️ BANNI ⚠️</value>
+    <value>⚠️ 밴 당함 ⚠️</value>
   </data>
   <data name="Notif_title_16" xml:space="preserve">
-    <value>☠️ Vous avez été signalé ☠️</value>
+    <value>☠️ 경고 표시됨 ☠️</value>
   </data>
   <data name="Notif_title_17" xml:space="preserve">
-    <value>Reconnecté</value>
+    <value>재연결됨</value>
   </data>
   <data name="Notif_title_18" xml:space="preserve">
-    <value>Dépassé !</value>
+    <value>추월당함!</value>
   </data>
   <data name="Notif_title_19" xml:space="preserve">
-    <value>Ami en ligne</value>
+    <value>친구 온라인</value>
   </data>
   <data name="Notif_message_7" xml:space="preserve">
-    <value>Niveau {level} atteint !</value>
+    <value>레벨 {level} 달성!</value>
   </data>
   <data name="Notif_message_8" xml:space="preserve">
-    <value>{xp:N0} XP cette semaine</value>
+    <value>이번 주 {xp:N0} XP</value>
   </data>
   <data name="Notif_message_9" xml:space="preserve">
-    <value>Vous êtes maintenant n°{rank}</value>
+    <value>현재 #{rank}위입니다!</value>
   </data>
   <data name="Notif_message_10" xml:space="preserve">
-    <value>Vous êtes n°{rank} mondial !</value>
+    <value>전 세계 #{rank}위입니다!</value>
   </data>
   <data name="Notif_message_11" xml:space="preserve">
-    <value>Progression envoyée au serveur</value>
+    <value>진행 상황이 서버에 전송됨</value>
   </data>
   <data name="Notif_message_12" xml:space="preserve">
-    <value>Sauvegarde locale uniquement. Vos statistiques ne seront pas enregistrées en ligne.</value>
+    <value>로컬에만 저장됩니다. 스탯은 온라인에 저장되지 않습니다.</value>
   </data>
   <data name="Notif_message_20" xml:space="preserve">
-    <value>Connecté.</value>
+    <value>연결됨.</value>
   </data>
   <data name="Notif_message_21" xml:space="preserve">
-    <value>Déconnecté.</value>
+    <value>연결 끊김.</value>
   </data>
   <data name="Notif_message_14" xml:space="preserve">
-    <value>Activité suspecte détectée.</value>
+    <value>의심스러운 활동이 감지되었습니다.</value>
   </data>
   <data name="Notif_message_15" xml:space="preserve">
-    <value>Compte banni.</value>
+    <value>계정이 밴 처리되었습니다.</value>
   </data>
   <data name="Notif_message_16" xml:space="preserve">
-    <value>Triche détectée. L’incident a été signalé.</value>
+    <value>치트가 감지되었습니다. 사건이 보고되었습니다.</value>
   </data>
   <data name="Notif_message_17" xml:space="preserve">
-    <value>Serveur disponible</value>
+    <value>서버 이용 가능</value>
   </data>
   <data name="Notif_message_18" xml:space="preserve">
-    <value>{name} vient de vous dépasser</value>
+    <value>{name}이(가) 방금 당신을 추월했습니다</value>
   </data>
   <data name="Notif_title_21" xml:space="preserve">
-    <value>Manette</value>
+    <value>컨트롤러</value>
   </data>
   <data name="RankedBattle_Text" xml:space="preserve">
-    <value>COMBAT CLASSÉ</value>
+    <value>랭크 전투</value>
   </data>
   <data name="Dungeon_Boss_Text" xml:space="preserve">
-    <value>BOSS</value>
+    <value>보스</value>
   </data>
   <data name="GhostBattle_Text" xml:space="preserve">
-    <value>COMBAT FANTOME</value>
+    <value>유령 전투</value>
   </data>
   <data name="Dungeon_Floor_Text" xml:space="preserve">
-    <value>ÉTAGE</value>
+    <value>층</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ Boss en approche...</value>
+    <value>⚔ 보스 등장 중...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
-    <value>Arrivée de l’étage {i + 2}...</value>
+    <value>⚔ {i + 2}층 진입 중...</value>
   </data>
   <data name="Dungeon_BossFloor_Text" xml:space="preserve">
-    <value>ÉTAGE DU BOSS</value>
+    <value>보스 층</value>
   </data>
   <data name="PlayVSMenu_Wins" xml:space="preserve">
-    <value>VICTOIRES</value>
+    <value>승리</value>
   </data>
   <data name="PlayVSMenu_Losses" xml:space="preserve">
-    <value>DÉFAITES</value>
+    <value>패배</value>
   </data>
   <data name="GhostBattle_Log_1" xml:space="preserve">
-    <value>a remporté la bataille !</value>
+    <value>전투에서 승리했습니다!</value>
   </data>
   <data name="GhostBattle_Log_2" xml:space="preserve">
-    <value>attaque en premier !</value>
+    <value>먼저 공격합니다!</value>
   </data>
   <data name="GhostBattle_Log_3" xml:space="preserve">
-    <value>a esquivé ton attaque !</value>
+    <value>공격을 회피했습니다!</value>
   </data>
   <data name="GhostBattle_SpawnDamageText_1" xml:space="preserve">
-    <value>RATÉ !</value>
+    <value>빗나감!</value>
   </data>
   <data name="GhostBattle_Log_4" xml:space="preserve">
-    <value>a subi {myDmg} dégâts !</value>
+    <value>{myDmg}의 피해를 받았습니다!</value>
   </data>
   <data name="GhostBattle_Log_5" xml:space="preserve">
-    <value>a subi {enDmg} dégâts !</value>
+    <value>{enDmg}의 피해를 받았습니다!</value>
   </data>
   <data name="GhostBattle_Log_6" xml:space="preserve">
-    <value>Match nul.</value>
+    <value>전투가 무승부로 끝났습니다.</value>
   </data>
   <data name="GhostBattle_Log_7" xml:space="preserve">
-    <value>a été vaincu...</value>
+    <value>패배했습니다...</value>
   </data>
   <data name="Notif_title_22" xml:space="preserve">
-    <value>Sync</value>
+    <value>동기화</value>
   </data>
   <data name="Notif_message_22" xml:space="preserve">
-    <value>Données synchronisées.</value>
+    <value>데이터가 동기화되었습니다.</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ COMBAT BOSS ! ⚔</value>
+    <value>⚔ 보스 전투! ⚔</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
-    <value>Commun</value>
+    <value>일반</value>
   </data>
   <data name="Rarity_Label_Uncommon" xml:space="preserve">
-    <value>Peu commun</value>
+    <value>희귀</value>
   </data>
   <data name="Rarity_Label_Rare" xml:space="preserve">
-    <value>Rare</value>
+    <value>레어</value>
   </data>
   <data name="Rarity_Label_Epic" xml:space="preserve">
-    <value>Épique</value>
+    <value>에픽</value>
   </data>
   <data name="Rarity_Label_Legendary" xml:space="preserve">
-    <value>Légendaire</value>
+    <value>전설</value>
   </data>
   <data name="MainMenu_AvailablesPts" xml:space="preserve">
-    <value>POINTS DISPONIBLES</value>
+    <value>사용 가능한 포인트</value>
   </data>
 </root>

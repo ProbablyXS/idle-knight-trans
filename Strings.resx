@@ -1,104 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
-    Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
-    associated with the data types.
-    
-    Example:
-    
-    ... ado.net/XML headers & schema ...
-    <resheader name="resmimetype">text/microsoft-resx</resheader>
-    <resheader name="version">2.0</resheader>
-    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-        <value>[base64 mime encoded serialized .NET Framework object]</value>
-    </data>
-    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-        <comment>This is a comment</comment>
-    </data>
-                
-    There are any number of "resheader" rows that contain simple 
-    name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
-    mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
-    extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
-    read any of the formats listed below.
-    
-    mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-            : and then encoded with base64 encoding.
-    
-    mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-            : and then encoded with base64 encoding.
-
-    mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
-            : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute xmlns:xml="http://www.w3.org/XML/1998/namespace" ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute xmlns:xml="http://www.w3.org/XML/1998/namespace" ref="xml:space"/>
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -391,7 +319,7 @@
     <value>Idle Knight</value>
   </data>
   <data name="Settings_Version_Text" xml:space="preserve">
-    <value>Version 1.0.0 Playtest  •  2026</value>
+    <value>Version 1.0.0 Playtest • 2026</value>
   </data>
   <data name="Settings_Stats_XP" xml:space="preserve">
     <value>XP</value>
@@ -469,22 +397,22 @@
     <value>Total Ranked Points Lost</value>
   </data>
   <data name="Settings_Stats_SuffixXP" xml:space="preserve">
-    <value> XP</value>
+    <value>XP</value>
   </data>
   <data name="Settings_Stats_PrefixLVL" xml:space="preserve">
-    <value>LVL </value>
+    <value>LVL</value>
   </data>
   <data name="Settings_Stats_SuffixHP" xml:space="preserve">
-    <value> HP</value>
+    <value>HP</value>
   </data>
   <data name="Settings_Stats_SuffixDMG" xml:space="preserve">
-    <value> DMG</value>
+    <value>DMG</value>
   </data>
   <data name="Settings_Stats_SuffixAGI" xml:space="preserve">
     <value>% AGI</value>
   </data>
   <data name="Settings_Stats_SuffixPTS" xml:space="preserve">
-    <value> PTS</value>
+    <value>PTS</value>
   </data>
   <data name="MainMenu_FightButton_Text" xml:space="preserve">
     <value>⚔️ FIGHT ⚔️</value>
@@ -505,7 +433,7 @@
     <value>Abandonned Catacombs</value>
   </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
-    <value>Recommended Power : </value>
+    <value>Recommended Power :</value>
   </data>
   <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
     <value>LEVEL 18</value>
@@ -514,7 +442,7 @@
     <value>POSSIBLE REWARDS</value>
   </data>
   <data name="DungeonMenu_Keys_Text" xml:space="preserve">
-    <value>Keys : </value>
+    <value>Keys :</value>
   </data>
   <data name="RankedMenu_RankedText" xml:space="preserve">
     <value>RANKED</value>
@@ -526,7 +454,7 @@
     <value>EXIT</value>
   </data>
   <data name="RankedMenu_Keys_Text" xml:space="preserve">
-    <value>Keys : </value>
+    <value>Keys :</value>
   </data>
   <data name="FightMenu_ExitButton_Text" xml:space="preserve">
     <value>EXIT</value>
@@ -538,7 +466,7 @@
     <value>EXIT</value>
   </data>
   <data name="RankedMenu_Points_Text" xml:space="preserve">
-    <value>Points : </value>
+    <value>Points :</value>
   </data>
   <data name="Tuto_Dialogue1" xml:space="preserve">
     <value>Hey, you! Yeah, you, the new recruit in the armor.</value>
@@ -548,107 +476,107 @@
   </data>
   <data name="Tuto_Dialogue3" xml:space="preserve">
     <value>Prove to me you can stand on your own two feet.
-Grab your character and move it around the screen.</value>
+ Grab your character and move it around the screen.</value>
   </data>
   <data name="Tuto_Dialogue4" xml:space="preserve">
     <value>Not bad, you're not completely rusty!</value>
   </data>
   <data name="Tuto_Dialogue5" xml:space="preserve">
     <value>Now hover over your character
-to discover the menu.</value>
+ to discover the menu.</value>
   </data>
   <data name="Tuto_Dialogue6" xml:space="preserve">
     <value>See your name at the top? That's you.
-Right now you're level 0, but that's about to change.</value>
+ Right now you're level 0, but that's about to change.</value>
   </data>
   <data name="Tuto_Dialogue7" xml:space="preserve">
     <value>The blue bar under your name is your experience.
-It fills up every time you click on your character.</value>
+ It fills up every time you click on your character.</value>
   </data>
   <data name="Tuto_Dialogue8" xml:space="preserve">
     <value>The number below shows how much XP you've earned this level,
-and how much you need to reach the next one.</value>
+ and how much you need to reach the next one.</value>
   </data>
   <data name="Tuto_Dialogue9" xml:space="preserve">
     <value>The three lines below are your stats:
-HP, DMG and AGI.
-We'll get back to those.</value>
+ HP, DMG and AGI.
+ We'll get back to those.</value>
   </data>
   <data name="Tuto_Dialogue10" xml:space="preserve">
     <value>The FIGHT button at the bottom is where it all begins.
-That's the one that starts battles.</value>
+ That's the one that starts battles.</value>
   </data>
   <data name="Tuto_Dialogue11" xml:space="preserve">
     <value>And at the very bottom, your shortcuts:
-Friends, Leaderboard, Inventory, Shop, and Settings.</value>
+ Friends, Leaderboard, Inventory, Shop, and Settings.</value>
   </data>
   <data name="Tuto_Dialogue12" xml:space="preserve">
     <value>Here you can find your friends and track their progress.
-You can also fight a friend's ghost by clicking the Fight button.</value>
+ You can also fight a friend's ghost by clicking the Fight button.</value>
   </data>
   <data name="Tuto_Dialogue13" xml:space="preserve">
     <value>Compare yourself to the best players in the world.
-Climb the rankings by stacking up XP.</value>
+ Climb the rankings by stacking up XP.</value>
   </data>
   <data name="Tuto_Dialogue14" xml:space="preserve">
     <value>This is where you pick your skin.
-Customize the look of your character.</value>
+ Customize the look of your character.</value>
   </data>
   <data name="Tuto_Dialogue15" xml:space="preserve">
     <value>This is where you choose your combat mode.
-Dungeon, Ranked, and Event.</value>
+ Dungeon, Ranked, and Event.</value>
   </data>
   <data name="Tuto_Dialogue16" xml:space="preserve">
     <value>Fight players from around the world in real time.
-Climb the leaderboard to make a name for yourself.</value>
+ Climb the leaderboard to make a name for yourself.</value>
   </data>
   <data name="Tuto_Dialogue17" xml:space="preserve">
     <value>Here you can tweak the game to your liking.
-Sound, language, notifications... it's all here.</value>
+ Sound, language, notifications... it's all here.</value>
   </data>
   <data name="Tuto_Dialogue18" xml:space="preserve">
     <value>Perfect, you know the ropes now.
-Click anywhere to earn XP.</value>
+ Click anywhere to earn XP.</value>
   </data>
   <data name="Tuto_Dialogue19" xml:space="preserve">
     <value>Not bad at all!
-Now you'll need to build some muscle before stepping into the arena.</value>
+ Now you'll need to build some muscle before stepping into the arena.</value>
   </data>
   <data name="Tuto_Dialogue20" xml:space="preserve">
     <value>Keep clicking until you reach level 1!
-Every click brings you closer to the goal.</value>
+ Every click brings you closer to the goal.</value>
   </data>
   <data name="Tuto_Dialogue21" xml:space="preserve">
     <value>Nice work! You've reached level 1!
-It's time to choose your skills.</value>
+ It's time to choose your skills.</value>
   </data>
   <data name="Tuto_Dialogue22" xml:space="preserve">
     <value>HP: More health points.
-The more you have, the more hits you can take.</value>
+ The more you have, the more hits you can take.</value>
   </data>
   <data name="Tuto_Dialogue23" xml:space="preserve">
     <value>DMG: More damage.
-Hit harder, kill faster.</value>
+ Hit harder, kill faster.</value>
   </data>
   <data name="Tuto_Dialogue24" xml:space="preserve">
     <value>AGI: More evasion.
-The higher it is, the sooner you strike in combat.</value>
+ The higher it is, the sooner you strike in combat.</value>
   </data>
   <data name="Tuto_Dialogue25" xml:space="preserve">
     <value>Your turn.
-Choose wisely, every point counts!</value>
+ Choose wisely, every point counts!</value>
   </data>
   <data name="Tuto_Dialogue26" xml:space="preserve">
     <value>There you go, you've gotten stronger!
-Every point invested makes a difference in battle.</value>
+ Every point invested makes a difference in battle.</value>
   </data>
   <data name="Tuto_Dialogue27" xml:space="preserve">
     <value>To wrap up the training, you can jump into a quick Ranked match.
-But you don't have to, it's your call.</value>
+ But you don't have to, it's your call.</value>
   </data>
   <data name="Tuto_Dialogue28" xml:space="preserve">
     <value>That's everything I had to teach you.
-Good luck, warrior. The rest is up to you.</value>
+ Good luck, warrior. The rest is up to you.</value>
   </data>
   <data name="Tuto_Dialogue29" xml:space="preserve">
     <value>Open the {name} menu.</value>
@@ -661,7 +589,7 @@ Good luck, warrior. The rest is up to you.</value>
   </data>
   <data name="Tuto_Dialogue30" xml:space="preserve">
     <value>Enter dungeons to face powerful bosses and earn great rewards.
-Conquer every floor and prove you are worthy of glory.</value>
+ Conquer every floor and prove you are worthy of glory.</value>
   </data>
   <data name="MainMenu_HpText" xml:space="preserve">
     <value>HP</value>
@@ -709,7 +637,7 @@ Conquer every floor and prove you are worthy of glory.</value>
     <value>You ·</value>
   </data>
   <data name="DungeonMenu_BattleBossFight_Text" xml:space="preserve">
-    <value>⚔ BOSS FIGHT ⚔</value>
+    <value>BOSS FIGHT</value>
   </data>
   <data name="DungeonMenu_BattleFloor_Text" xml:space="preserve">
     <value>FLOOR</value>
@@ -913,7 +841,7 @@ Conquer every floor and prove you are worthy of glory.</value>
     <value>GHOST BATTLE</value>
   </data>
   <data name="Dungeon_Floor_Text" xml:space="preserve">
-    <value>DUNGEON FLOOR</value>
+    <value>FLOOR</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
     <value>⚔ Boss incoming...</value>
@@ -961,7 +889,7 @@ Conquer every floor and prove you are worthy of glory.</value>
     <value>Your data has been synchronized.</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ BOSS FIGHT! ⚔</value>
+    <value>BOSS FIGHT!</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
     <value>Common</value>

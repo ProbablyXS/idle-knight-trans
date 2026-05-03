@@ -46,867 +46,840 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="MainMenu_Friends_Button" xml:space="preserve">
-    <value>Amis</value>
+    <value>フレンド</value>
   </data>
   <data name="MainMenu_Settings_Button" xml:space="preserve">
-    <value>Paramètres</value>
+    <value>設定</value>
   </data>
   <data name="MainMenu_Leaderboard_Button" xml:space="preserve">
-    <value>Classement</value>
+    <value>ランキング</value>
   </data>
   <data name="MainMenu_Inventory_Button" xml:space="preserve">
-    <value>Inventaire</value>
+    <value>インベントリ</value>
   </data>
   <data name="MainMenu_Shop_Button" xml:space="preserve">
-    <value>Boutique</value>
+    <value>ショップ</value>
   </data>
   <data name="MainMenu_HpText_Tooltip" xml:space="preserve">
-    <value>❤ Détermine combien de dégâts le chevalier peut subir avant de mourir.</value>
+    <value>❤ 騎士が死亡するまでに受けられるダメージ量を決定します。</value>
   </data>
   <data name="MainMenu_DmgText_Tooltip" xml:space="preserve">
-    <value>⚔ Augmente les dégâts infligés par le chevalier à chaque attaque.</value>
+    <value>⚔ 攻撃ごとに騎士が与えるダメージを増加させます。</value>
   </data>
   <data name="MainMenu_AgiText_Tooltip" xml:space="preserve">
-    <value>💨 Augmente les chances d'esquive et détermine qui attaque en premier lors du combat.</value>
+    <value>💨 回避率を上げ、戦闘で先制攻撃するキャラを決定します。</value>
   </data>
   <data name="Settings_General_LanguageText" xml:space="preserve">
-    <value>Langue</value>
+    <value>言語</value>
   </data>
   <data name="Settings_General_AlwaysOnTopText" xml:space="preserve">
-    <value>Toujours au premier plan</value>
+    <value>常に前面に表示</value>
   </data>
   <data name="Settings_General_StartWithWindowsText" xml:space="preserve">
-    <value>Démarrer avec Windows</value>
+    <value>Windowsと一緒に起動</value>
   </data>
   <data name="Settings_General_RunAsAdminText" xml:space="preserve">
-    <value>Exécuter en tant qu'administrateur</value>
+    <value>管理者として実行</value>
   </data>
   <data name="Settings_General_NotificationsText" xml:space="preserve">
-    <value>Notifications</value>
+    <value>通知</value>
   </data>
   <data name="Settings_General_ShowTaskBarIconText" xml:space="preserve">
-    <value>Afficher l'icône dans la barre des tâches</value>
+    <value>タスクバーアイコンを表示</value>
   </data>
   <data name="Settings_General_CloseGameText" xml:space="preserve">
-    <value>Quitter le jeu</value>
+    <value>ゲームを閉じる</value>
   </data>
   <data name="Settings_GeneralText" xml:space="preserve">
-    <value>GÉNÉRAL</value>
+    <value>一般</value>
   </data>
   <data name="Settings_GeneralInfoText" xml:space="preserve">
-    <value>Paramètres généraux du système</value>
+    <value>一般システム設定</value>
   </data>
   <data name="Settings_AudioText" xml:space="preserve">
-    <value>AUDIO</value>
+    <value>オーディオ</value>
   </data>
   <data name="Settings_AudioInfoText" xml:space="preserve">
-    <value>Gérer les paramètres audio</value>
+    <value>サウンド設定の管理</value>
   </data>
   <data name="Settings_Nav_General" xml:space="preserve">
-    <value>GÉNÉRAL</value>
+    <value>一般</value>
   </data>
   <data name="Settings_Nav_Audio" xml:space="preserve">
-    <value>AUDIO</value>
+    <value>オーディオ</value>
   </data>
   <data name="Settings_Nav_Overlay" xml:space="preserve">
-    <value>OVERLAY</value>
+    <value>オーバーレイ</value>
   </data>
   <data name="Settings_Nav_Stats" xml:space="preserve">
-    <value>STATS</value>
+    <value>ステータス</value>
   </data>
   <data name="Settings_Nav_Credits" xml:space="preserve">
-    <value>CRÉDITS</value>
+    <value>クレジット</value>
   </data>
   <data name="Settings_Nav_Menu" xml:space="preserve">
-    <value>MENU</value>
+    <value>メニュー</value>
   </data>
   <data name="Settings_SystemText" xml:space="preserve">
-    <value>SYSTÈME</value>
+    <value>システム</value>
   </data>
   <data name="Settings_SystemInfoText" xml:space="preserve">
-    <value>Paramètres généraux du système</value>
+    <value>一般システム設定</value>
   </data>
   <data name="Settings_OverlayText" xml:space="preserve">
-    <value>OVERLAY</value>
+    <value>オーバーレイ</value>
   </data>
   <data name="Settings_OverlayInfoText" xml:space="preserve">
-    <value>Propriétés de l'overlay</value>
+    <value>オーバーレイのプロパティ</value>
   </data>
   <data name="Settings_CreditsText" xml:space="preserve">
-    <value>CRÉDITS</value>
+    <value>クレジット</value>
   </data>
   <data name="Settings_CreditsInfoText" xml:space="preserve">
-    <value>L'équipe derrière le jeu</value>
+    <value>ゲームを作ったチーム</value>
   </data>
   <data name="Settings_StatsText" xml:space="preserve">
-    <value>STATS</value>
+    <value>ステータス</value>
   </data>
   <data name="Settings_StatsInfoText" xml:space="preserve">
-    <value>Statistiques</value>
+    <value>統計</value>
   </data>
   <data name="Settings_Header_Volume" xml:space="preserve">
-    <value>VOLUME</value>
+    <value>ボリューム</value>
   </data>
   <data name="Settings_Header_Toggles" xml:space="preserve">
-    <value>OPTIONS</value>
+    <value>トグル</value>
   </data>
   <data name="Settings_Header_Controls" xml:space="preserve">
-    <value>CONTRÔLES</value>
+    <value>コントロール</value>
   </data>
   <data name="Settings_Header_Appearance" xml:space="preserve">
-    <value>APPARENCE</value>
+    <value>外見</value>
   </data>
   <data name="Settings_Header_Video" xml:space="preserve">
-    <value>VIDÉO</value>
+    <value>ビデオ</value>
   </data>
   <data name="Settings_Header_Team" xml:space="preserve">
-    <value>ÉQUIPE</value>
+    <value>チーム</value>
   </data>
   <data name="Settings_Header_GameAssets" xml:space="preserve">
-    <value>RESSOURCES DU JEU</value>
+    <value>ゲームアセット</value>
   </data>
   <data name="Settings_Header_BuiltWith" xml:space="preserve">
-    <value>RÉALISÉ AVEC</value>
+    <value>制作環境</value>
   </data>
   <data name="Settings_Header_Links" xml:space="preserve">
-    <value>LIENS</value>
+    <value>リンク</value>
   </data>
   <data name="Settings_Header_PrivacyPolicy" xml:space="preserve">
-    <value>POLITIQUE DE CONFIDENTIALITÉ</value>
+    <value>プライバシーポリシー</value>
   </data>
   <data name="Settings_Header_Stats" xml:space="preserve">
-    <value>STATS</value>
+    <value>ステータス</value>
   </data>
   <data name="Settings_Header_Dungeon" xml:space="preserve">
-    <value>DONJON</value>
+    <value>ダンジョン</value>
   </data>
   <data name="Settings_Header_Ranked" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>ランク戦</value>
   </data>
   <data name="Settings_General_English" xml:space="preserve">
-    <value>Français</value>
+    <value>日本語</value>
   </data>
   <data name="Settings_General_Quit" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>終了</value>
   </data>
   <data name="Settings_Audio_GameVolume" xml:space="preserve">
-    <value>Volume du jeu</value>
+    <value>ゲーム音量</value>
   </data>
   <data name="Settings_Audio_Music" xml:space="preserve">
-    <value>Musique</value>
+    <value>音楽</value>
   </data>
   <data name="Settings_Audio_SoundEffects" xml:space="preserve">
-    <value>Effets sonores</value>
+    <value>効果音</value>
   </data>
   <data name="Settings_Audio_EnableMusic" xml:space="preserve">
-    <value>Activer la musique</value>
+    <value>音楽を有効にする</value>
   </data>
   <data name="Settings_Overlay_ControllerSupport" xml:space="preserve">
-    <value>Activer le support manette</value>
+    <value>コントローラーサポートを有効にする</value>
   </data>
   <data name="Settings_Overlay_WidgetSize" xml:space="preserve">
-    <value>Taille du widget</value>
+    <value>ウィジェットサイズ</value>
   </data>
   <data name="Settings_Overlay_ShowXpBar" xml:space="preserve">
-    <value>Afficher la barre XP</value>
+    <value>XPバーを表示</value>
   </data>
   <data name="Settings_Overlay_ScreenSelection" xml:space="preserve">
-    <value>Sélection de l'écran</value>
+    <value>画面選択</value>
   </data>
   <data name="Settings_Overlay_SoftwareRendering" xml:space="preserve">
-    <value>Rendu logiciel</value>
+    <value>ソフトウェアレンダリング</value>
   </data>
   <data name="Settings_Overlay_FpsLimit" xml:space="preserve">
-    <value>Limite FPS</value>
+    <value>FPS制限</value>
   </data>
   <data name="Settings_Overlay_ScreenPrimary" xml:space="preserve">
-    <value>Écran {0} (Principal)</value>
+    <value>画面 {0}（プライマリ）</value>
   </data>
   <data name="Settings_Overlay_ScreenNormal" xml:space="preserve">
-    <value>Écran {0}</value>
+    <value>画面 {0}</value>
   </data>
   <data name="Settings_Credits_Programming" xml:space="preserve">
-    <value>Programmation</value>
+    <value>プログラミング</value>
   </data>
   <data name="Settings_Credits_Art" xml:space="preserve">
-    <value>Art &amp; Design</value>
+    <value>アート＆デザイン</value>
   </data>
   <data name="Settings_Credits_MusicText" xml:space="preserve">
-    <value>Musique</value>
+    <value>音楽</value>
   </data>
   <data name="Settings_Credits_BugHunters" xml:space="preserve">
-    <value>Chasseurs de bugs</value>
+    <value>バグハンター</value>
   </data>
   <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>Chevalier, Créateur : Mattz</value>
+    <value>ナイト、制作者: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetEdits" xml:space="preserve">
-    <value>Éditions : Dark, Darkness, Shadow, Bloody, White, Monochrome(Probably), Green, Emerald, VoIP (Pooh5159), Gold (Upper)</value>
+    <value>編集: Dark, Darkness, Shadow, Bloody, White, Monochrome (Probably), Green, Emerald, VoIP(Pooh5159), Gold (Upper)</value>
   </data>
   <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>Gobelin, Créateur : Mattz</value>
+    <value>ゴブリン、制作者: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>Squelette, Créateur : Mattz</value>
+    <value>スケルトン、制作者: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>Kobold, Créateur : Mattz</value>
+    <value>コボルト、制作者: Mattz</value>
   </data>
   <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>Bébé Dragon, Créateur : Mattz</value>
+    <value>ベビードラゴン、制作者: Mattz</value>
   </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>VECR Engine (WPF / .NET, C#)</value>
   </data>
   <data name="Settings_Links_Website" xml:space="preserve">
-    <value>Site web</value>
+    <value>ウェブサイト</value>
   </data>
   <data name="Settings_Links_Discord" xml:space="preserve">
-    <value>Serveur Discord</value>
+    <value>Discordサーバー</value>
   </data>
   <data name="Settings_Links_ReportBug" xml:space="preserve">
-    <value>Signaler un bug</value>
+    <value>バグを報告</value>
   </data>
   <data name="Settings_Privacy_1" xml:space="preserve">
-    <value>Idle Knight traite un ensemble limité de données afin de fournir des fonctionnalités en ligne et assurer le bon fonctionnement du jeu.</value>
+    <value>Idle Knightは、オンライン機能の提供とゲームの正常な動作を確保するために、限られたデータを処理します。</value>
   </data>
   <data name="Settings_Privacy_2" xml:space="preserve">
-    <value>Les informations suivantes peuvent être collectées et stockées :</value>
+    <value>以下の情報が収集・保存される場合があります：</value>
   </data>
   <data name="Settings_Privacy_3" xml:space="preserve">
     <value>• SteamID64</value>
   </data>
   <data name="Settings_Privacy_4" xml:space="preserve">
-    <value>• Progression du joueur et statistiques de jeu</value>
+    <value>• プレイヤーの進行状況とゲーム統計</value>
   </data>
   <data name="Settings_Privacy_5" xml:space="preserve">
-    <value>• Données de matchmaking et de classement</value>
+    <value>• マッチメイキングおよびランキングデータ</value>
   </data>
   <data name="Settings_Privacy_6" xml:space="preserve">
-    <value>• Données techniques liées au serveur</value>
+    <value>• サーバー関連の技術データ</value>
   </data>
   <data name="Settings_Privacy_7" xml:space="preserve">
-    <value>• Informations nécessaires à la validation des achats Steam (aucune information de paiement n'est collectée)</value>
+    <value>• Steam購入の確認に必要な情報（支払い情報は収集されません）</value>
   </data>
   <data name="Settings_Privacy_8" xml:space="preserve">
-    <value>Ces données sont utilisées exclusivement pour :</value>
+    <value>このデータは以下の目的のみに使用されます：</value>
   </data>
   <data name="Settings_Privacy_9" xml:space="preserve">
-    <value>• Identifier le joueur</value>
+    <value>• プレイヤーの識別</value>
   </data>
   <data name="Settings_Privacy_10" xml:space="preserve">
-    <value>• Sauvegarder et synchroniser la progression</value>
+    <value>• 進行状況の保存と同期</value>
   </data>
   <data name="Settings_Privacy_11" xml:space="preserve">
-    <value>• Gérer le matchmaking et les classements</value>
+    <value>• マッチメイキングとランキングの運営</value>
   </data>
   <data name="Settings_Privacy_12" xml:space="preserve">
-    <value>• Maintenir les services en ligne et les serveurs de jeu</value>
+    <value>• オンラインサービスとゲームサーバーの維持</value>
   </data>
   <data name="Settings_Privacy_13" xml:space="preserve">
-    <value>• Vérifier les achats et droits Steam</value>
+    <value>• Steam購入と権利の確認</value>
   </data>
   <data name="Settings_Privacy_14" xml:space="preserve">
-    <value>Aucune donnée n'est vendue, partagée ou transmise à des tiers.</value>
+    <value>データは第三者に販売、共有、または転送されることはありません。</value>
   </data>
   <data name="Settings_Privacy_15" xml:space="preserve">
-    <value>Toutes les données collectées sont stockées de manière sécurisée sur nos serveurs.</value>
+    <value>収集されたすべてのデータは当社のサーバーに安全に保存されます。</value>
   </data>
   <data name="Settings_Privacy_16" xml:space="preserve">
-    <value>En jouant à Idle Knight, vous acceptez cette Politique de Confidentialité ainsi que la Politique de Confidentialité de Steam.</value>
+    <value>Idle Knightをプレイすることで、このプライバシーポリシーおよびSteam独自のプライバシーポリシーに同意したものとみなされます。</value>
   </data>
   <data name="Settings_Title_IdleKnight" xml:space="preserve">
     <value>Idle Knight</value>
   </data>
   <data name="Settings_Version_Text" xml:space="preserve">
-    <value>Version 1.0.0 Playtest  •  2026</value>
+    <value>バージョン 1.0.0 プレイテスト  •  2026</value>
   </data>
   <data name="Settings_Stats_XP" xml:space="preserve">
     <value>XP</value>
   </data>
   <data name="Settings_Stats_TotalXp" xml:space="preserve">
-    <value>XP total gagné</value>
+    <value>獲得XP合計</value>
   </data>
   <data name="Settings_Stats_LEVEL" xml:space="preserve">
-    <value>NIVEAU</value>
+    <value>レベル</value>
   </data>
   <data name="Settings_Stats_CurrentLevel" xml:space="preserve">
-    <value>Niveau actuel</value>
+    <value>現在のレベル</value>
   </data>
   <data name="Settings_Stats_HP" xml:space="preserve">
     <value>HP</value>
   </data>
   <data name="Settings_Stats_CurrentHp" xml:space="preserve">
-    <value>HP actuel</value>
+    <value>現在のHP</value>
   </data>
   <data name="Settings_Stats_DMG" xml:space="preserve">
-    <value>DGT</value>
+    <value>ダメージ</value>
   </data>
   <data name="Settings_Stats_CurrentDamage" xml:space="preserve">
-    <value>Dégâts actuels</value>
+    <value>現在のダメージ</value>
   </data>
   <data name="Settings_Stats_AGI" xml:space="preserve">
     <value>AGI</value>
   </data>
   <data name="Settings_Stats_CurrentAgility" xml:space="preserve">
-    <value>Agilité actuelle</value>
+    <value>現在の敏捷性</value>
   </data>
   <data name="Settings_Stats_PTS" xml:space="preserve">
-    <value>PTS</value>
+    <value>ポイント</value>
   </data>
   <data name="Settings_Stats_AvailabilityPoints" xml:space="preserve">
-    <value>Points disponibles</value>
+    <value>利用可能ポイント</value>
   </data>
   <data name="Settings_Stats_MATCHES" xml:space="preserve">
-    <value>PARTIES</value>
+    <value>マッチ</value>
   </data>
   <data name="Settings_Stats_DungeonMatches" xml:space="preserve">
-    <value>Total de parties en donjon</value>
+    <value>ダンジョンマッチ合計</value>
   </data>
   <data name="Settings_Stats_WINS" xml:space="preserve">
-    <value>VICTOIRES</value>
+    <value>勝利</value>
   </data>
   <data name="Settings_Stats_DungeonWins" xml:space="preserve">
-    <value>Total de victoires en donjon</value>
+    <value>ダンジョン勝利合計</value>
   </data>
   <data name="Settings_Stats_LOSSES" xml:space="preserve">
-    <value>DÉFAITES</value>
+    <value>敗北</value>
   </data>
   <data name="Settings_Stats_DungeonLosses" xml:space="preserve">
-    <value>Total de défaites en donjon</value>
+    <value>ダンジョン敗北合計</value>
   </data>
   <data name="Settings_Stats_RankedMatches" xml:space="preserve">
-    <value>Total de parties classées</value>
+    <value>ランクマッチ合計</value>
   </data>
   <data name="Settings_Stats_RankedWins" xml:space="preserve">
-    <value>Total de victoires classées</value>
+    <value>ランク勝利合計</value>
   </data>
   <data name="Settings_Stats_RankedLosses" xml:space="preserve">
-    <value>Total de défaites classées</value>
+    <value>ランク敗北合計</value>
   </data>
   <data name="Settings_Stats_EARNED" xml:space="preserve">
-    <value>GAGNÉS</value>
+    <value>獲得</value>
   </data>
   <data name="Settings_Stats_RankedPointsEarned" xml:space="preserve">
-    <value>Total de points classés gagnés</value>
+    <value>獲得ランクポイント合計</value>
   </data>
   <data name="Settings_Stats_LOST" xml:space="preserve">
-    <value>PERDUS</value>
+    <value>喪失</value>
   </data>
   <data name="Settings_Stats_RankedPointsLost" xml:space="preserve">
-    <value>Total de points classés perdus</value>
+    <value>喪失ランクポイント合計</value>
   </data>
   <data name="Settings_Stats_SuffixXP" xml:space="preserve">
-    <value> XP</value>
+    <value>XP</value>
   </data>
   <data name="Settings_Stats_PrefixLVL" xml:space="preserve">
-    <value>NIV </value>
+    <value>LV</value>
   </data>
   <data name="Settings_Stats_SuffixHP" xml:space="preserve">
-    <value> HP</value>
+    <value>HP</value>
   </data>
   <data name="Settings_Stats_SuffixDMG" xml:space="preserve">
-    <value> DGT</value>
+    <value>ダメ</value>
   </data>
   <data name="Settings_Stats_SuffixAGI" xml:space="preserve">
     <value>% AGI</value>
   </data>
   <data name="Settings_Stats_SuffixPTS" xml:space="preserve">
-    <value> PTS</value>
+    <value>ポイント</value>
   </data>
   <data name="MainMenu_FightButton_Text" xml:space="preserve">
-    <value>⚔️ COMBAT ⚔️</value>
+    <value>⚔️ 戦闘 ⚔️</value>
   </data>
   <data name="FightMenu_DungeonButton_Text" xml:space="preserve">
-    <value>DONJON</value>
+    <value>ダンジョン</value>
   </data>
   <data name="FightMenu_RankedButton_Text" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>ランク戦</value>
   </data>
   <data name="FightMenu_FightText" xml:space="preserve">
-    <value>COMBAT</value>
+    <value>戦闘</value>
   </data>
   <data name="DungeonMenu_DungeonText" xml:space="preserve">
-    <value>DONJON</value>
+    <value>ダンジョン</value>
   </data>
   <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>Catacombes Abandonnées</value>
+    <value>廃墟の地下墓地</value>
   </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
-    <value>Puissance recommandée : </value>
+    <value>推奨戦力 :</value>
   </data>
   <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>NIVEAU 18</value>
+    <value>レベル 18</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
-    <value>RÉCOMPENSES POSSIBLES</value>
+    <value>獲得可能な報酬</value>
   </data>
   <data name="DungeonMenu_Keys_Text" xml:space="preserve">
-    <value>Clés : </value>
+    <value>鍵 :</value>
   </data>
   <data name="RankedMenu_RankedText" xml:space="preserve">
-    <value>CLASSÉ</value>
+    <value>ランク戦</value>
   </data>
   <data name="RankedMenu_FindMatch_Button" xml:space="preserve">
-    <value>TROUVER UNE PARTIE</value>
+    <value>マッチを探す</value>
   </data>
   <data name="RankedMenu_ExitButton" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>終了</value>
   </data>
   <data name="RankedMenu_Keys_Text" xml:space="preserve">
-    <value>Clés : </value>
+    <value>鍵 :</value>
   </data>
   <data name="FightMenu_ExitButton_Text" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>終了</value>
   </data>
   <data name="DungeonMenu_EnterDungeon_Button" xml:space="preserve">
-    <value>ENTRER DANS LE DONJON</value>
+    <value>ダンジョンに入る</value>
   </data>
   <data name="DungeonMenu_Exit_Button" xml:space="preserve">
-    <value>QUITTER</value>
+    <value>終了</value>
   </data>
   <data name="RankedMenu_Points_Text" xml:space="preserve">
-    <value>Points : </value>
+    <value>ポイント :</value>
   </data>
   <data name="Tuto_Dialogue1" xml:space="preserve">
-    <value>Hé, toi ! Ouais, toi, la nouvelle recrue en armure.</value>
+    <value>おい、そこのお前！そう、お前だ、鎧を着た新入りよ。</value>
   </data>
   <data name="Tuto_Dialogue2" xml:space="preserve">
-    <value>Tu ne vas pas rester planté là toute la journée, si ?</value>
+    <value>一日中そこに立っているつもりじゃないよな？</value>
   </data>
   <data name="Tuto_Dialogue3" xml:space="preserve">
-    <value>Prouve-moi que tu sais tenir sur tes deux jambes.
-Saisis ton personnage et déplace-le sur l'écran.</value>
+    <value>自分の足で立てることを証明してくれ。キャラクターをつかんで画面上で動かしてみろ。</value>
   </data>
   <data name="Tuto_Dialogue4" xml:space="preserve">
-    <value>Pas mal, tu n'es pas complètement rouillé !</value>
+    <value>悪くないぞ、完全に錆びついてるわけじゃないな！</value>
   </data>
   <data name="Tuto_Dialogue5" xml:space="preserve">
-    <value>Maintenant, survole ton personnage
-pour découvrir le menu.</value>
+    <value>次はキャラクターの上にマウスを乗せてメニューを確認してみろ。</value>
   </data>
   <data name="Tuto_Dialogue6" xml:space="preserve">
-    <value>Tu vois ton nom en haut ? C'est toi.
-Pour l'instant tu es niveau 0, mais ça va vite changer.</value>
+    <value>上に自分の名前が見えるか？それがお前だ。今はレベル0だが、すぐに変わるぞ。</value>
   </data>
   <data name="Tuto_Dialogue7" xml:space="preserve">
-    <value>La barre bleue sous ton nom est ton expérience.
-Elle se remplit chaque fois que tu cliques sur ton personnage.</value>
+    <value>名前の下の青いバーが経験値だ。キャラクターをクリックするたびに溜まっていく。</value>
   </data>
   <data name="Tuto_Dialogue8" xml:space="preserve">
-    <value>Le nombre en dessous indique l'XP gagnée à ce niveau,
-et combien il t'en faut pour atteindre le suivant.</value>
+    <value>その下の数字は、現在のレベルで獲得したXPと次のレベルに必要なXPを示している。</value>
   </data>
   <data name="Tuto_Dialogue9" xml:space="preserve">
-    <value>Les trois lignes en dessous sont tes stats :
-PV, DGT et AGI.
-On y reviendra plus tard.</value>
+    <value>その下の3行がステータスだ：HP、ダメージ、AGI。後でまた説明するぞ。</value>
   </data>
   <data name="Tuto_Dialogue10" xml:space="preserve">
-    <value>Le bouton COMBAT en bas est l'endroit où tout commence.
-C'est celui qui lance les batailles.</value>
+    <value>下部の戦闘ボタンがすべての始まりだ。バトルを開始するのはこれだ。</value>
   </data>
   <data name="Tuto_Dialogue11" xml:space="preserve">
-    <value>Et tout en bas, tes raccourcis :
-Amis, Classement, Inventaire, Boutique et Paramètres.</value>
+    <value>一番下にショートカットがある：フレンド、ランキング、インベントリ、ショップ、設定。</value>
   </data>
   <data name="Tuto_Dialogue12" xml:space="preserve">
-    <value>Ici, tu peux trouver tes amis et suivre leur progression.
-Tu peux aussi combattre le fantôme d'un ami en cliquant sur le bouton Combat.</value>
+    <value>ここでフレンドを見つけ、進行状況を確認できる。戦闘ボタンをクリックしてフレンドのゴーストと戦うことも可能だ。</value>
   </data>
   <data name="Tuto_Dialogue13" xml:space="preserve">
-    <value>Compare-toi aux meilleurs joueurs du monde.
-Grimpe dans le classement en accumulant de l'XP.</value>
+    <value>世界最高のプレイヤーと比較してみろ。XPを積み上げてランキングを上げろ。</value>
   </data>
   <data name="Tuto_Dialogue14" xml:space="preserve">
-    <value>C'est ici que tu choisis ton apparence.
-Personnalise le look de ton personnage.</value>
+    <value>ここでスキンを選べる。キャラクターの見た目をカスタマイズしろ。</value>
   </data>
   <data name="Tuto_Dialogue15" xml:space="preserve">
-    <value>C'est ici que tu choisis ton mode de combat.
-Donjon, Classé et Événement.</value>
+    <value>ここで戦闘モードを選べ。ダンジョン、ランク戦、イベント。</value>
   </data>
   <data name="Tuto_Dialogue16" xml:space="preserve">
-    <value>Affronte des joueurs du monde entier en temps réel.
-Grimpe dans le classement pour te faire un nom.</value>
+    <value>世界中のプレイヤーとリアルタイムで戦え。ランキングを上げて名を轟かせろ。</value>
   </data>
   <data name="Tuto_Dialogue17" xml:space="preserve">
-    <value>Ici, tu peux ajuster le jeu à ta guise.
-Son, langue, notifications... tout est là.</value>
+    <value>ここでゲームを自分好みに調整できる。サウンド、言語、通知…すべてここにある。</value>
   </data>
   <data name="Tuto_Dialogue18" xml:space="preserve">
-    <value>Parfait, tu connais les rouages maintenant.
-Clique n'importe où pour gagner de l'XP.</value>
+    <value>完璧だ、基本は理解したぞ。どこかクリックしてXPを獲得しろ。</value>
   </data>
   <data name="Tuto_Dialogue19" xml:space="preserve">
-    <value>Pas mal du tout !
-Maintenant, tu vas devoir prendre du muscle avant d'entrer dans l'arène.</value>
+    <value>悪くないぞ！次はアリーナに入る前に力をつける必要がある。</value>
   </data>
   <data name="Tuto_Dialogue20" xml:space="preserve">
-    <value>Continue de cliquer jusqu'à atteindre le niveau 1 !
-Chaque clic te rapproche du but.</value>
+    <value>レベル1に達するまでクリックし続けろ！クリックするたびに目標に近づく。</value>
   </data>
   <data name="Tuto_Dialogue21" xml:space="preserve">
-    <value>Beau travail ! Tu as atteint le niveau 1 !
-Il est temps de choisir tes compétences.</value>
+    <value>よくやった！レベル1に到達したぞ！スキルを選ぶ時間だ。</value>
   </data>
   <data name="Tuto_Dialogue22" xml:space="preserve">
-    <value>PV : Plus de points de vie.
-Plus tu en as, plus tu peux encaisser de coups.</value>
+    <value>HP：ライフポイント増加。多いほど多くのダメージに耐えられる。</value>
   </data>
   <data name="Tuto_Dialogue23" xml:space="preserve">
-    <value>DGT : Plus de dégâts.
-Frappe plus fort, tue plus vite.</value>
+    <value>ダメージ：ダメージ増加。強く打って素早く倒せ。</value>
   </data>
   <data name="Tuto_Dialogue24" xml:space="preserve">
-    <value>AGI : Plus d'esquive.
-Plus elle est élevée, plus tu frappes tôt en combat.</value>
+    <value>AGI：回避増加。高いほど戦闘で先に攻撃できる。</value>
   </data>
   <data name="Tuto_Dialogue25" xml:space="preserve">
-    <value>À ton tour.
-Choisis sagement, chaque point compte !</value>
+    <value>お前の番だ。賢く選べ、すべてのポイントが重要だ！</value>
   </data>
   <data name="Tuto_Dialogue26" xml:space="preserve">
-    <value>Et voilà, tu es devenu plus fort !
-Chaque point investi fait la différence en combat.</value>
+    <value>やったな、強くなったぞ！投資したすべてのポイントが戦闘で差を生む。</value>
   </data>
   <data name="Tuto_Dialogue27" xml:space="preserve">
-    <value>Pour terminer l'entraînement, tu peux lancer un match Classé rapide.
-Mais tu n'es pas obligé, c'est toi qui vois.</value>
+    <value>訓練を締めくくるために、クイックランク戦に参加できる。でも強制じゃない、お前が決めろ。</value>
   </data>
   <data name="Tuto_Dialogue28" xml:space="preserve">
-    <value>C'est tout ce que j'avais à t'apprendre.
-Bonne chance, guerrier. La suite ne dépend que de toi.</value>
+    <value>教えることはすべて教えた。幸運を祈る、戦士よ。後はお前次第だ。</value>
   </data>
   <data name="Tuto_Dialogue29" xml:space="preserve">
-    <value>Ouvre le menu {name}.</value>
+    <value>{name}メニューを開け。</value>
   </data>
   <data name="Tuto_DialogueMentorName" xml:space="preserve">
-    <value>Mentor</value>
+    <value>メンター</value>
   </data>
   <data name="Tuto_DialogueKnightName" xml:space="preserve">
-    <value>Chevalier</value>
+    <value>ナイト</value>
   </data>
   <data name="Tuto_Dialogue30" xml:space="preserve">
-    <value>Entre dans les donjons pour affronter de puissants boss et gagner de superbes récompenses.
-Conquis chaque étage et prouve que tu es digne de la gloire.</value>
+    <value>ダンジョンに入って強力なボスと戦い、素晴らしい報酬を獲得せよ。すべての階層を制覇し、栄光に値することを証明しろ。</value>
   </data>
   <data name="MainMenu_HpText" xml:space="preserve">
-    <value>PV</value>
+    <value>HP</value>
   </data>
   <data name="MainMenu_DmgText" xml:space="preserve">
-    <value>DGT</value>
+    <value>ダメージ</value>
   </data>
   <data name="MainMenu_AgiText" xml:space="preserve">
     <value>% AGI</value>
   </data>
   <data name="PtsUntilNextRank" xml:space="preserve">
-    <value>Jusqu'à</value>
+    <value>まで</value>
   </data>
   <data name="FriendsMenu_Text" xml:space="preserve">
-    <value>AMIS</value>
+    <value>フレンド</value>
   </data>
   <data name="FriendsMenu_OnlineText" xml:space="preserve">
-    <value>en ligne</value>
+    <value>オンライン</value>
   </data>
   <data name="FriendsMenu_FriendsText" xml:space="preserve">
-    <value>amis</value>
+    <value>フレンド</value>
   </data>
   <data name="FriendsMenu_SearchFriendsText" xml:space="preserve">
-    <value>Rechercher un ami...</value>
+    <value>フレンドを検索...</value>
   </data>
   <data name="Previous_Button_Text" xml:space="preserve">
-    <value>◀ PREC</value>
+    <value>◀ 前へ</value>
   </data>
   <data name="Next_Button_Text" xml:space="preserve">
-    <value>SUIV ▶</value>
+    <value>次へ ▶</value>
   </data>
   <data name="FriendsMenu_Fight_Button" xml:space="preserve">
-    <value>COMBATTRE</value>
+    <value>戦う</value>
   </data>
   <data name="FriendsMenu_Level_Text" xml:space="preserve">
-    <value>NIV</value>
+    <value>LV</value>
   </data>
   <data name="FriendsMenu_Loading_Text" xml:space="preserve">
-    <value>Chargement...</value>
+    <value>読み込み中...</value>
   </data>
   <data name="FightMenu_EventText" xml:space="preserve">
-    <value>ÉVÉNEMENT</value>
+    <value>イベント</value>
   </data>
   <data name="LeaderboardMenu_You_Text" xml:space="preserve">
-    <value>Toi ·</value>
+    <value>あなた ·</value>
   </data>
   <data name="DungeonMenu_BattleBossFight_Text" xml:space="preserve">
-    <value>COMBAT BOSS</value>
+    <value>ボスバトル</value>
   </data>
   <data name="DungeonMenu_BattleFloor_Text" xml:space="preserve">
-    <value>ÉTAGE</value>
+    <value>フロア</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ Combat...</value>
+    <value>⚔ 戦闘中...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
-    <value>Banni !</value>
+    <value>BANされました！</value>
   </data>
   <data name="InventoryMenu_Text" xml:space="preserve">
-    <value>INVENTAIRE</value>
+    <value>インベントリ</value>
   </data>
   <data name="InventoryMenu_Skins_Text" xml:space="preserve">
-    <value>SKINS</value>
+    <value>スキン</value>
   </data>
   <data name="InventoryMenu_Consumables_Text" xml:space="preserve">
-    <value>CONSOMMABLES</value>
+    <value>消耗品</value>
   </data>
   <data name="InventoryMenu_All_Button" xml:space="preserve">
-    <value>TOUS</value>
+    <value>すべて</value>
   </data>
   <data name="UnlockCondition_1" xml:space="preserve">
-    <value>Skin par défaut</value>
+    <value>デフォルトスキン</value>
   </data>
   <data name="UnlockCondition_2" xml:space="preserve">
-    <value>Vaincre le boss du donjon 2</value>
+    <value>ダンジョン2のボスを倒す</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
-    <value>À venir...</value>
+    <value>近日公開...</value>
   </data>
   <data name="UnlockCondition_4" xml:space="preserve">
-    <value>Rejoignez le discord Idle Knight</value>
+    <value>Idle Knight Discordサーバーに参加してスキンをリクエスト</value>
   </data>
   <data name="UnlockCondition_5" xml:space="preserve">
-    <value>Acheter dans la boutique</value>
+    <value>ショップで購入</value>
   </data>
   <data name="UnlockCondition_6" xml:space="preserve">
-    <value>Uniquement pour les playtesteurs</value>
+    <value>プレイテスター限定</value>
   </data>
   <data name="Consumable_ItemName_1" xml:space="preserve">
-    <value>Plume de phénix</value>
+    <value>フェニックスの羽</value>
   </data>
   <data name="Consumable_ItemName_2" xml:space="preserve">
-    <value>Double XP 15 min</value>
+    <value>ダブルXP 15分</value>
   </data>
   <data name="Consumable_ItemName_3" xml:space="preserve">
-    <value>Double XP 30 min</value>
+    <value>ダブルXP 30分</value>
   </data>
   <data name="Consumable_ItemName_4" xml:space="preserve">
-    <value>Double XP 60 min</value>
+    <value>ダブルXP 60分</value>
   </data>
   <data name="Consumable_ItemDesc_1" xml:space="preserve">
-    <value>Réinitialise tes stats et restaure ton build de base.</value>
+    <value>ステータスをリセットし、基本ビルドを復元します。</value>
   </data>
   <data name="Consumable_ItemDesc_2" xml:space="preserve">
-    <value>Double ton XP pendant 15 minutes.</value>
+    <value>15分間XPが2倍になります。</value>
   </data>
   <data name="Consumable_ItemDesc_3" xml:space="preserve">
-    <value>Double ton XP pendant 30 minutes.</value>
+    <value>30分間XPが2倍になります。</value>
   </data>
   <data name="Consumable_ItemDesc_4" xml:space="preserve">
-    <value>Double ton XP pendant 60 minutes.</value>
+    <value>60分間XPが2倍になります。</value>
   </data>
   <data name="Consumable_ItemEffect_1" xml:space="preserve">
-    <value>Réinitialisation des stats</value>
+    <value>ステータスリセット</value>
   </data>
   <data name="Consumable_ItemEffect_2" xml:space="preserve">
-    <value>x2 XP / 15 min</value>
+    <value>x2 XP / 15分</value>
   </data>
   <data name="Consumable_ItemEffect_3" xml:space="preserve">
-    <value>x2 XP / 30 min</value>
+    <value>x2 XP / 30分</value>
   </data>
   <data name="Consumable_ItemEffect_4" xml:space="preserve">
-    <value>x2 XP / 60 min</value>
+    <value>x2 XP / 60分</value>
   </data>
   <data name="Notif_title_1" xml:space="preserve">
-    <value>Consommable trouvé !</value>
+    <value>消耗品を発見！</value>
   </data>
   <data name="Notif_title_2" xml:space="preserve">
-    <value>Plus aucune clé disponible</value>
+    <value>鍵がありません</value>
   </data>
   <data name="Notif_message_2" xml:space="preserve">
-    <value>Patiente jusqu’à la reset quotidienne (1h00 UTC)</value>
+    <value>毎日UTC 1:00のリセットをお待ちください。</value>
   </data>
   <data name="Notif_title_3" xml:space="preserve">
-    <value>Stats non synchronisées</value>
+    <value>ステータス未同期</value>
   </data>
   <data name="Notif_message_3" xml:space="preserve">
-    <value>Veuillez patienter {secondsLeft}s avant de jouer.</value>
+    <value>プレイする前に{secondsLeft}秒お待ちください。</value>
   </data>
   <data name="Notif_title_4" xml:space="preserve">
-    <value>Classé indisponible</value>
+    <value>ランク利用不可</value>
   </data>
   <data name="Notif_message_4" xml:space="preserve">
-    <value>Aucun adversaire trouvé à votre niveau. Réessayez plus tard.</value>
+    <value>あなたのレベルで相手が見つかりませんでした。後でもう一度お試しください。</value>
   </data>
   <data name="Notif_title_5" xml:space="preserve">
-    <value>Donjon indisponible</value>
+    <value>ダンジョン利用不可</value>
   </data>
   <data name="Notif_message_5" xml:space="preserve">
-    <value>Une erreur s’est produite. Réessayez plus tard.</value>
+    <value>エラーが発生しました。後でもう一度お試しください。</value>
   </data>
   <data name="Notif_title_6" xml:space="preserve">
-    <value>Stats non synchronisées</value>
+    <value>ステータス未同期</value>
   </data>
   <data name="Notif_message_6" xml:space="preserve">
-    <value>Vous devez attendre {secondsLeft}s avant de l’utiliser.</value>
+    <value>使用する前に{secondsLeft}秒お待ちください。</value>
   </data>
   <data name="Cheater_text" xml:space="preserve">
-    <value>Cheater !</value>
+    <value>チーター！</value>
   </data>
   <data name="Notif_title_7" xml:space="preserve">
-    <value>Niveau supérieur !</value>
+    <value>レベルアップ！</value>
   </data>
   <data name="Notif_title_8" xml:space="preserve">
-    <value>Record hebdomadaire !</value>
+    <value>週間記録！</value>
   </data>
   <data name="Notif_title_9" xml:space="preserve">
-    <value>Montée de rang !</value>
+    <value>ランクアップ！</value>
   </data>
   <data name="Notif_title_10" xml:space="preserve">
-    <value>Top 3 !</value>
+    <value>TOP 3！</value>
   </data>
   <data name="Notif_title_11" xml:space="preserve">
-    <value>Sauvegardé</value>
+    <value>保存されました</value>
   </data>
   <data name="Notif_title_12" xml:space="preserve">
-    <value>Mode hors‑ligne</value>
+    <value>オフラインモード</value>
   </data>
   <data name="Notif_title_20" xml:space="preserve">
-    <value>Manette</value>
+    <value>コントローラー</value>
   </data>
   <data name="Notif_title_14" xml:space="preserve">
-    <value>⚠️ AVERTISSEMENT ⚠️</value>
+    <value>⚠️ 警告 ⚠️</value>
   </data>
   <data name="Notif_title_15" xml:space="preserve">
-    <value>⚠️ BANNI ⚠️</value>
+    <value>⚠️ BAN済み ⚠️</value>
   </data>
   <data name="Notif_title_16" xml:space="preserve">
-    <value>☠️ Vous avez été signalé ☠️</value>
+    <value>☠️ フラグが立てられました ☠️</value>
   </data>
   <data name="Notif_title_17" xml:space="preserve">
-    <value>Reconnecté</value>
+    <value>再接続されました</value>
   </data>
   <data name="Notif_title_18" xml:space="preserve">
-    <value>Dépassé !</value>
+    <value>追い抜かれました！</value>
   </data>
   <data name="Notif_title_19" xml:space="preserve">
-    <value>Ami en ligne</value>
+    <value>フレンドがオンラインです</value>
   </data>
   <data name="Notif_message_7" xml:space="preserve">
-    <value>Niveau {level} atteint !</value>
+    <value>レベル{level}に到達！</value>
   </data>
   <data name="Notif_message_8" xml:space="preserve">
-    <value>{xp:N0} XP cette semaine</value>
+    <value>今週{xp:N0} XP</value>
   </data>
   <data name="Notif_message_9" xml:space="preserve">
-    <value>Vous êtes maintenant n°{rank}</value>
+    <value>現在#{rank}位です！</value>
   </data>
   <data name="Notif_message_10" xml:space="preserve">
-    <value>Vous êtes n°{rank} mondial !</value>
+    <value>世界#{rank}位です！</value>
   </data>
   <data name="Notif_message_11" xml:space="preserve">
-    <value>Progression envoyée au serveur</value>
+    <value>進行状況をサーバーに送信しました</value>
   </data>
   <data name="Notif_message_12" xml:space="preserve">
-    <value>Sauvegarde locale uniquement. Vos statistiques ne seront pas enregistrées en ligne.</value>
+    <value>ローカルにのみ保存されます。ステータスはオンラインに保存されません。</value>
   </data>
   <data name="Notif_message_20" xml:space="preserve">
-    <value>Connecté.</value>
+    <value>接続されました。</value>
   </data>
   <data name="Notif_message_21" xml:space="preserve">
-    <value>Déconnecté.</value>
+    <value>接続が切断されました。</value>
   </data>
   <data name="Notif_message_14" xml:space="preserve">
-    <value>Activité suspecte détectée.</value>
+    <value>不審なアクティビティが検出されました。</value>
   </data>
   <data name="Notif_message_15" xml:space="preserve">
-    <value>Compte banni.</value>
+    <value>アカウントがBANされました。</value>
   </data>
   <data name="Notif_message_16" xml:space="preserve">
-    <value>Triche détectée. L’incident a été signalé.</value>
+    <value>チートが検出されました。この件は報告されました。</value>
   </data>
   <data name="Notif_message_17" xml:space="preserve">
-    <value>Serveur disponible</value>
+    <value>サーバーが利用可能です</value>
   </data>
   <data name="Notif_message_18" xml:space="preserve">
-    <value>{name} vient de vous dépasser</value>
+    <value>{name}があなたを追い抜きました</value>
   </data>
   <data name="Notif_title_21" xml:space="preserve">
-    <value>Manette</value>
+    <value>コントローラー</value>
   </data>
   <data name="RankedBattle_Text" xml:space="preserve">
-    <value>COMBAT CLASSÉ</value>
+    <value>ランクバトル</value>
   </data>
   <data name="Dungeon_Boss_Text" xml:space="preserve">
-    <value>BOSS</value>
+    <value>ボス</value>
   </data>
   <data name="GhostBattle_Text" xml:space="preserve">
-    <value>COMBAT FANTOME</value>
+    <value>ゴーストバトル</value>
   </data>
   <data name="Dungeon_Floor_Text" xml:space="preserve">
-    <value>ÉTAGE</value>
+    <value>フロア</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ Boss en approche...</value>
+    <value>⚔ ボスが来る...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
-    <value>Arrivée de l’étage {i + 2}...</value>
+    <value>⚔ フロア{i + 2}が来る...</value>
   </data>
   <data name="Dungeon_BossFloor_Text" xml:space="preserve">
-    <value>ÉTAGE DU BOSS</value>
+    <value>ボスフロア</value>
   </data>
   <data name="PlayVSMenu_Wins" xml:space="preserve">
-    <value>VICTOIRES</value>
+    <value>勝利</value>
   </data>
   <data name="PlayVSMenu_Losses" xml:space="preserve">
-    <value>DÉFAITES</value>
+    <value>敗北</value>
   </data>
   <data name="GhostBattle_Log_1" xml:space="preserve">
-    <value>a remporté la bataille !</value>
+    <value>バトルに勝利しました！</value>
   </data>
   <data name="GhostBattle_Log_2" xml:space="preserve">
-    <value>attaque en premier !</value>
+    <value>先制攻撃！</value>
   </data>
   <data name="GhostBattle_Log_3" xml:space="preserve">
-    <value>a esquivé ton attaque !</value>
+    <value>攻撃をかわしました！</value>
   </data>
   <data name="GhostBattle_SpawnDamageText_1" xml:space="preserve">
-    <value>RATÉ !</value>
+    <value>ミス！</value>
   </data>
   <data name="GhostBattle_Log_4" xml:space="preserve">
-    <value>a subi {myDmg} dégâts !</value>
+    <value>{myDmg}ダメージを受けました！</value>
   </data>
   <data name="GhostBattle_Log_5" xml:space="preserve">
-    <value>a subi {enDmg} dégâts !</value>
+    <value>{enDmg}ダメージを受けました！</value>
   </data>
   <data name="GhostBattle_Log_6" xml:space="preserve">
-    <value>Match nul.</value>
+    <value>バトルは引き分けに終わりました。</value>
   </data>
   <data name="GhostBattle_Log_7" xml:space="preserve">
-    <value>a été vaincu...</value>
+    <value>敗北しました...</value>
   </data>
   <data name="Notif_title_22" xml:space="preserve">
-    <value>Sync</value>
+    <value>同期</value>
   </data>
   <data name="Notif_message_22" xml:space="preserve">
-    <value>Données synchronisées.</value>
+    <value>データが同期されました。</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ COMBAT BOSS ! ⚔</value>
+    <value>⚔ ボスバトル！⚔</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
-    <value>Commun</value>
+    <value>コモン</value>
   </data>
   <data name="Rarity_Label_Uncommon" xml:space="preserve">
-    <value>Peu commun</value>
+    <value>アンコモン</value>
   </data>
   <data name="Rarity_Label_Rare" xml:space="preserve">
-    <value>Rare</value>
+    <value>レア</value>
   </data>
   <data name="Rarity_Label_Epic" xml:space="preserve">
-    <value>Épique</value>
+    <value>エピック</value>
   </data>
   <data name="Rarity_Label_Legendary" xml:space="preserve">
-    <value>Légendaire</value>
+    <value>レジェンダリー</value>
   </data>
   <data name="MainMenu_AvailablesPts" xml:space="preserve">
-    <value>POINTS DISPONIBLES</value>
+    <value>利用可能ポイント</value>
   </data>
 </root>
