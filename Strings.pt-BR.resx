@@ -1,32 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute xmlns:xml="http://www.w3.org/XML/1998/namespace" ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute xmlns:xml="http://www.w3.org/XML/1998/namespace" ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -61,13 +133,13 @@
     <value>Loja</value>
   </data>
   <data name="MainMenu_HpText_Tooltip" xml:space="preserve">
-    <value>❤ Determina quanto dano o cavaleiro pode receber antes de morrer.</value>
+    <value>Determina quanto dano o cavaleiro pode receber antes de morrer.</value>
   </data>
   <data name="MainMenu_DmgText_Tooltip" xml:space="preserve">
-    <value>⚔ Aumenta o dano causado pelo cavaleiro a cada ataque.</value>
+    <value>Aumenta o dano causado pelo cavaleiro a cada ataque.</value>
   </data>
   <data name="MainMenu_AgiText_Tooltip" xml:space="preserve">
-    <value>💨 Aumenta a chance de esquiva e determina quem ataca primeiro no combate.</value>
+    <value>Aumenta a chance de esquiva e determina quem ataca primeiro no combate.</value>
   </data>
   <data name="Settings_General_LanguageText" xml:space="preserve">
     <value>Idioma</value>
@@ -202,7 +274,7 @@
     <value>Ativar Música</value>
   </data>
   <data name="Settings_Overlay_ControllerSupport" xml:space="preserve">
-    <value>Ativar suporte a controle</value>
+    <value>Ativar suporte de controle</value>
   </data>
   <data name="Settings_Overlay_WidgetSize" xml:space="preserve">
     <value>Tamanho do widget</value>
@@ -234,14 +306,8 @@
   <data name="Settings_Credits_MusicText" xml:space="preserve">
     <value>Música</value>
   </data>
-  <data name="Settings_Credits_BugHunters" xml:space="preserve">
-    <value>Caçadores de Bugs</value>
-  </data>
   <data name="Settings_Credits_AssetKnight" xml:space="preserve">
     <value>Cavaleiro, Criador: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetEdits" xml:space="preserve">
-    <value>Edições: Dark, Darkness, Shadow, Bloody, White, Monochrome (Probably), Green, Emerald, VoIP (Pooh5159), Gold (Upper)</value>
   </data>
   <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
     <value>Goblin, Criador: Mattz</value>
@@ -256,7 +322,7 @@
     <value>Dragãozinho, Criador: Mattz</value>
   </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
-    <value>VECR Engine (WPF / .NET, C#)</value>
+    <value>Mecanismo VECR (WPF / .NET, C#)</value>
   </data>
   <data name="Settings_Links_Website" xml:space="preserve">
     <value>Site</value>
@@ -298,7 +364,7 @@
     <value>• Salvar e sincronizar a progressão</value>
   </data>
   <data name="Settings_Privacy_11" xml:space="preserve">
-    <value>• Operar matchmaking e placar</value>
+    <value>• Operar sistema de pareamento e placar</value>
   </data>
   <data name="Settings_Privacy_12" xml:space="preserve">
     <value>• Manter os serviços online e servidores do jogo</value>
@@ -325,13 +391,13 @@
     <value>XP</value>
   </data>
   <data name="Settings_Stats_TotalXp" xml:space="preserve">
-    <value>XP Total Ganho</value>
+    <value>Experiência Total</value>
   </data>
   <data name="Settings_Stats_LEVEL" xml:space="preserve">
-    <value>NÍVEL</value>
+    <value>LVL</value>
   </data>
   <data name="Settings_Stats_CurrentLevel" xml:space="preserve">
-    <value>Nível Atual</value>
+    <value>Level Atual</value>
   </data>
   <data name="Settings_Stats_HP" xml:space="preserve">
     <value>HP</value>
@@ -340,7 +406,7 @@
     <value>HP Atual</value>
   </data>
   <data name="Settings_Stats_DMG" xml:space="preserve">
-    <value>DGT</value>
+    <value>DMG</value>
   </data>
   <data name="Settings_Stats_CurrentDamage" xml:space="preserve">
     <value>Dano Atual</value>
@@ -400,13 +466,13 @@
     <value>XP</value>
   </data>
   <data name="Settings_Stats_PrefixLVL" xml:space="preserve">
-    <value>NÍV</value>
+    <value>LVL</value>
   </data>
   <data name="Settings_Stats_SuffixHP" xml:space="preserve">
     <value>HP</value>
   </data>
   <data name="Settings_Stats_SuffixDMG" xml:space="preserve">
-    <value>DGT</value>
+    <value>DMG</value>
   </data>
   <data name="Settings_Stats_SuffixAGI" xml:space="preserve">
     <value>% AGI</value>
@@ -415,7 +481,7 @@
     <value>PTS</value>
   </data>
   <data name="MainMenu_FightButton_Text" xml:space="preserve">
-    <value>⚔️ LUTAR ⚔️</value>
+    <value>LUTAR</value>
   </data>
   <data name="FightMenu_DungeonButton_Text" xml:space="preserve">
     <value>MASMORRA</value>
@@ -433,7 +499,7 @@
     <value>Catacumbas Abandonadas</value>
   </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
-    <value>Poder Recomendado :</value>
+    <value>Poder Recomendado : </value>
   </data>
   <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
     <value>NÍVEL 18</value>
@@ -442,7 +508,7 @@
     <value>RECOMPENSAS POSSÍVEIS</value>
   </data>
   <data name="DungeonMenu_Keys_Text" xml:space="preserve">
-    <value>Chaves :</value>
+    <value>Chaves : </value>
   </data>
   <data name="RankedMenu_RankedText" xml:space="preserve">
     <value>RANQUEADO</value>
@@ -454,7 +520,7 @@
     <value>SAIR</value>
   </data>
   <data name="RankedMenu_Keys_Text" xml:space="preserve">
-    <value>Chaves :</value>
+    <value>Chaves : </value>
   </data>
   <data name="FightMenu_ExitButton_Text" xml:space="preserve">
     <value>SAIR</value>
@@ -466,16 +532,16 @@
     <value>SAIR</value>
   </data>
   <data name="RankedMenu_Points_Text" xml:space="preserve">
-    <value>Pontos :</value>
+    <value>Pontos : </value>
   </data>
   <data name="Tuto_Dialogue1" xml:space="preserve">
-    <value>Ei, você! Sim, você, o novo recruta na armadura.</value>
+    <value>Ei, você! Sim, você, o novo recruta de armadura.</value>
   </data>
   <data name="Tuto_Dialogue2" xml:space="preserve">
     <value>Você não vai ficar aí parado o dia todo, vai?</value>
   </data>
   <data name="Tuto_Dialogue3" xml:space="preserve">
-    <value>Prove que você consegue se sustentar por conta própria.
+    <value>Prove que você consegue se virar por conta própria.
  Segure seu personagem e mova-o pela tela.</value>
   </data>
   <data name="Tuto_Dialogue4" xml:space="preserve">
@@ -499,7 +565,7 @@
   </data>
   <data name="Tuto_Dialogue9" xml:space="preserve">
     <value>As três linhas abaixo são seus atributos:
- HP, DGT e AGI.
+ HP, DMG e AGI.
  Voltaremos a eles mais tarde.</value>
   </data>
   <data name="Tuto_Dialogue10" xml:space="preserve">
@@ -555,7 +621,7 @@
  Quanto mais você tiver, mais golpes pode suportar.</value>
   </data>
   <data name="Tuto_Dialogue23" xml:space="preserve">
-    <value>DGT: Mais dano.
+    <value>DMG: Mais dano.
  Bata mais forte, mate mais rápido.</value>
   </data>
   <data name="Tuto_Dialogue24" xml:space="preserve">
@@ -595,10 +661,10 @@
     <value>HP</value>
   </data>
   <data name="MainMenu_DmgText" xml:space="preserve">
-    <value>DGT</value>
+    <value>DMG</value>
   </data>
   <data name="MainMenu_AgiText" xml:space="preserve">
-    <value>% AGI</value>
+    <value>AGI</value>
   </data>
   <data name="PtsUntilNextRank" xml:space="preserve">
     <value>até</value>
@@ -619,13 +685,13 @@
     <value>◀ ANT</value>
   </data>
   <data name="Next_Button_Text" xml:space="preserve">
-    <value>PROX ▶</value>
+    <value>PRÓX ▶</value>
   </data>
   <data name="FriendsMenu_Fight_Button" xml:space="preserve">
     <value>LUTAR</value>
   </data>
   <data name="FriendsMenu_Level_Text" xml:space="preserve">
-    <value>NÍV</value>
+    <value>LVL</value>
   </data>
   <data name="FriendsMenu_Loading_Text" xml:space="preserve">
     <value>Carregando...</value>
@@ -637,7 +703,7 @@
     <value>Você ·</value>
   </data>
   <data name="DungeonMenu_BattleBossFight_Text" xml:space="preserve">
-    <value>LUTA CONTRA O CHEFE</value>
+    <value>LUTA CONTRA CHEFE</value>
   </data>
   <data name="DungeonMenu_BattleFloor_Text" xml:space="preserve">
     <value>ANDAR</value>
@@ -676,7 +742,7 @@
     <value>Comprar na loja</value>
   </data>
   <data name="UnlockCondition_6" xml:space="preserve">
-    <value>Exclusivo para playtestadores</value>
+    <value>Exclusivo para playtesters</value>
   </data>
   <data name="Consumable_ItemName_1" xml:space="preserve">
     <value>Pena de Fênix</value>
@@ -748,10 +814,10 @@
     <value>Por favor, aguarde {secondsLeft}s antes de usar.</value>
   </data>
   <data name="Cheater_text" xml:space="preserve">
-    <value>Trapaça!</value>
+    <value>Trapaceiro!</value>
   </data>
   <data name="Notif_title_7" xml:space="preserve">
-    <value>SUBIU DE NÍVEL!</value>
+    <value>SUBIU DE LEVEL!</value>
   </data>
   <data name="Notif_title_8" xml:space="preserve">
     <value>RECORDE SEMANAL!</value>
@@ -778,7 +844,7 @@
     <value>⚠️ BANIDO ⚠️</value>
   </data>
   <data name="Notif_title_16" xml:space="preserve">
-    <value>☠️ Você foi sinalizado ☠️</value>
+    <value>☠️ VOCÊ FOI SINALIZADO ☠️</value>
   </data>
   <data name="Notif_title_17" xml:space="preserve">
     <value>Reconectado</value>
@@ -865,7 +931,7 @@
     <value>ataca primeiro!</value>
   </data>
   <data name="GhostBattle_Log_3" xml:space="preserve">
-    <value>esquivou do seu ataque!</value>
+    <value>esquivou seu ataque!</value>
   </data>
   <data name="GhostBattle_SpawnDamageText_1" xml:space="preserve">
     <value>ERROU!</value>
@@ -889,7 +955,7 @@
     <value>Seus dados foram sincronizados.</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ LUTA CONTRA O CHEFE! ⚔</value>
+    <value>LUTA CONTRA O CHEFE!</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
     <value>Comum</value>
@@ -908,5 +974,45 @@
   </data>
   <data name="MainMenu_AvailablesPts" xml:space="preserve">
     <value>PONTOS DISPONÍVEIS</value>
+  </data>
+  <data name="Settings_General_TutoGameText" xml:space="preserve">
+    <value>Iniciar tutorial</value>
+  </data>
+  <data name="Settings_General_TutoLaunchButton" xml:space="preserve">
+    <value>INICIAR</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Inventory_Use_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Inventory_Yes_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Inventory_No_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Inventory_AreYouSure_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Inventory_Quantity_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Chest_Open_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Chest_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Notif_message_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Notif_title_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Settings_Credits_AssetGoldChest" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
 </root>
