@@ -306,21 +306,6 @@
   <data name="Settings_Credits_MusicText" xml:space="preserve">
     <value>Musik</value>
   </data>
-  <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>Ritter, Ersteller: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>Goblin, Ersteller: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>Skelett, Ersteller: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>Kobold, Ersteller: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>Babydrache, Ersteller: Mattz</value>
-  </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>VECR Engine (WPF / .NET, C#)</value>
   </data>
@@ -495,14 +480,11 @@
   <data name="DungeonMenu_DungeonText" xml:space="preserve">
     <value>VERLIES</value>
   </data>
-  <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>Verlassene Katakomben</value>
-  </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
     <value>Empfohlene Stärke : </value>
   </data>
-  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>LEVEL 18</value>
+  <data name="DungeonMenu_Dungeon2Level_Text" xml:space="preserve">
+    <value>LEVEL 20</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
     <value>MÖGLICHE BELOHNUNGEN</value>
@@ -682,7 +664,7 @@
     <value>ETAGE</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ Kämpfend...</value>
+    <value>Kämpfend...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
     <value>Gesperrt!</value>
@@ -701,9 +683,6 @@
   </data>
   <data name="UnlockCondition_1" xml:space="preserve">
     <value>Standard-Skin</value>
-  </data>
-  <data name="UnlockCondition_2" xml:space="preserve">
-    <value>Besiege den Boss in Verlies 2</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
     <value>Demnächst...</value>
@@ -883,10 +862,10 @@
     <value>ETAGE</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ Boss kommt...</value>
+    <value>Boss kommt...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
-    <value>⚔ Etage {i + 2} kommt...</value>
+    <value>Etage {i + 2} kommt...</value>
   </data>
   <data name="Dungeon_BossFloor_Text" xml:space="preserve">
     <value>BOSS-ETAGE</value>
@@ -928,7 +907,7 @@
     <value>Deine Daten wurden synchronisiert.</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ BOSSBATTLE! ⚔</value>
+    <value>BOSSBATTLE!</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
     <value>Gewöhnlich</value>
@@ -985,7 +964,12 @@
   <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="Settings_Credits_AssetGoldChest" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Settings_Header_Localization" xml:space="preserve">
+    <value>LOKALISIERUNG</value>
+  </data>
+  <data name="Tuto_Dialogue32" xml:space="preserve">
+    <value>Idle Knight befindet sich derzeit im Early Access.
+Einige Fehler oder unvollständige Funktionen können auftreten.
+Vielen Dank fürs Spielen und dafür, dass du uns hilfst, das Spiel zu verbessern!</value>
   </data>
 </root>

@@ -306,21 +306,6 @@
   <data name="Settings_Credits_MusicText" xml:space="preserve">
     <value>音楽</value>
   </data>
-  <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>ナイト、制作者: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>ゴブリン、制作者: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>スケルトン、制作者: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>コボルト、制作者: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>ベビードラゴン、制作者: Mattz</value>
-  </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>VECR Engine (WPF / .NET, C#)</value>
   </data>
@@ -495,14 +480,11 @@
   <data name="DungeonMenu_DungeonText" xml:space="preserve">
     <value>ダンジョン</value>
   </data>
-  <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>廃墟の地下墓地</value>
-  </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
     <value>推奨戦力 : </value>
   </data>
-  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>レベル 18</value>
+  <data name="DungeonMenu_Dungeon2Level_Text" xml:space="preserve">
+    <value>レベル 20</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
     <value>獲得可能な報酬</value>
@@ -682,7 +664,7 @@
     <value>フロア</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ 戦闘中...</value>
+    <value>戦闘中...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
     <value>BANされました！</value>
@@ -701,9 +683,6 @@
   </data>
   <data name="UnlockCondition_1" xml:space="preserve">
     <value>デフォルトスキン</value>
-  </data>
-  <data name="UnlockCondition_2" xml:space="preserve">
-    <value>ダンジョン2のボスを倒す</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
     <value>近日公開...</value>
@@ -883,10 +862,10 @@
     <value>フロア</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ ボスが来る...</value>
+    <value>ボスが来る...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
-    <value>⚔ フロア{i + 2}が来る...</value>
+    <value>フロア{i + 2}が来る...</value>
   </data>
   <data name="Dungeon_BossFloor_Text" xml:space="preserve">
     <value>ボスフロア</value>
@@ -928,7 +907,7 @@
     <value>データが同期されました。</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ ボスバトル！⚔</value>
+    <value>ボスバトル！</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
     <value>コモン</value>
@@ -985,7 +964,12 @@
   <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="Settings_Credits_AssetGoldChest" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Settings_Header_Localization" xml:space="preserve">
+    <value>ローカライゼーション</value>
+  </data>
+  <data name="Tuto_Dialogue32" xml:space="preserve">
+    <value>Idle Knightは現在アーリーアクセス中です。
+不具合や未完成の機能が発生する場合があります。
+プレイしてゲーム改善に協力していただきありがとうございます！</value>
   </data>
 </root>

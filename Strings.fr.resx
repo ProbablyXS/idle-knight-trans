@@ -306,21 +306,6 @@
   <data name="Settings_Credits_MusicText" xml:space="preserve">
     <value>Musique</value>
   </data>
-  <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>Chevalier, Créateur : Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>Gobelin, Créateur : Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>Squelette, Créateur : Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>Kobold, Créateur : Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>Bébé Dragon, Créateur : Mattz</value>
-  </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>VECR Engine (WPF / .NET, C#)</value>
   </data>
@@ -496,13 +481,13 @@
     <value>DONJON</value>
   </data>
   <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>Catacombes Abandonnées</value>
+    <value>Cave mystérieuse</value>
   </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
     <value>Puissance recommandée : </value>
   </data>
-  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>NIVEAU 18</value>
+  <data name="DungeonMenu_Dungeon2Level_Text" xml:space="preserve">
+    <value>NIVEAU 20</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
     <value>RÉCOMPENSES POSSIBLES</value>
@@ -556,8 +541,8 @@ pour découvrir le menu.</value>
 Pour l'instant tu es niveau 0, mais ça va vite changer.</value>
   </data>
   <data name="Tuto_Dialogue7" xml:space="preserve">
-    <value>La barre bleue sous ton nom est ton expérience.
-Elle se remplit chaque fois que tu cliques sur ton personnage.</value>
+    <value>La barre sous ton nom représente ton expérience.
+Elle se remplit à mesure que tu gagnes de l’expérience.</value>
   </data>
   <data name="Tuto_Dialogue8" xml:space="preserve">
     <value>Le nombre en dessous indique l'XP gagnée à ce niveau,
@@ -593,7 +578,7 @@ Personnalise le look de ton personnage.</value>
 Donjon, Classé et Événement.</value>
   </data>
   <data name="Tuto_Dialogue16" xml:space="preserve">
-    <value>Affronte des joueurs du monde entier en temps réel.
+    <value>Affronte des joueurs du monde entier.
 Grimpe dans le classement pour te faire un nom.</value>
   </data>
   <data name="Tuto_Dialogue17" xml:space="preserve">
@@ -709,7 +694,7 @@ Conquis chaque étage et prouve que tu es digne de la gloire.</value>
     <value>ÉTAGE</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ Combat...</value>
+    <value>Combat...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
     <value>Banni !</value>
@@ -728,9 +713,6 @@ Conquis chaque étage et prouve que tu es digne de la gloire.</value>
   </data>
   <data name="UnlockCondition_1" xml:space="preserve">
     <value>Skin par défaut</value>
-  </data>
-  <data name="UnlockCondition_2" xml:space="preserve">
-    <value>Vaincre le boss du donjon 2</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
     <value>À venir...</value>
@@ -910,7 +892,7 @@ Conquis chaque étage et prouve que tu es digne de la gloire.</value>
     <value>ÉTAGE</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ Boss en approche...</value>
+    <value>Boss en approche...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
     <value>Arrivée de l’étage {i + 2}...</value>
@@ -955,7 +937,7 @@ Conquis chaque étage et prouve que tu es digne de la gloire.</value>
     <value>Données synchronisées.</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ COMBAT BOSS ! ⚔</value>
+    <value>COMBAT BOSS !</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
     <value>Commun</value>
@@ -1012,19 +994,76 @@ Conquis chaque étage et prouve que tu es digne de la gloire.</value>
     <value>Disponible dans </value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Settings_Credits_AssetGoldChest" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
   <data name="Chest_Title" xml:space="preserve">
     <value>COFFRE QUOTIDIEN</value>
-  </data>
-  <data name="Settings_Credits_AssetSatyr" xml:space="preserve">
-    <value>Satyr, Créateur : Mattz</value>
   </data>
   <data name="Settings_Credits_BugHunters" xml:space="preserve">
     <value>Testeur QA</value>
   </data>
   <data name="FightMenu_PlayersOnline_Text" xml:space="preserve">
-    <value>JOUEUR EN LIGNE</value>
+    <value>JOUEUR(S) EN LIGNE</value>
+  </data>
+  <data name="DungeonMenu_Dungeon2Name_Text" xml:space="preserve">
+    <value>Catacombes Abandonnées</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Name_Text" xml:space="preserve">
+    <value>Forêt Maudite</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
+    <value>NIVEAU 10</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Level_Text" xml:space="preserve">
+    <value>NIVEAU 30</value>
+  </data>
+  <data name="Consumable_ItemName_5" xml:space="preserve">
+    <value>Clé Classée</value>
+  </data>
+  <data name="Consumable_ItemDesc_6" xml:space="preserve">
+    <value>Cette clé donne accès au Donjon.</value>
+  </data>
+  <data name="Consumable_ItemDesc_5" xml:space="preserve">
+    <value>Cette clé donne accès au mode Classé.</value>
+  </data>
+  <data name="Consumable_ItemName_6" xml:space="preserve">
+    <value>Clé de Donjon</value>
+  </data>
+  <data name="Tuto_Dialogue31" xml:space="preserve">
+    <value>Ouvre un coffre toutes les heures pour gagner de l’XP et obtenir des récompenses.
+Reviens régulièrement pour récupérer ton coffre !</value>
+  </data>
+  <data name="PtsMaxRankReached" xml:space="preserve">
+    <value>Rang maximum atteint !</value>
+  </data>
+  <data name="DungeonMenu_MimicDrop_Text" xml:space="preserve">
+    <value>Un Mimic peut apparaître à la fin du donjon terminé.</value>
+  </data>
+  <data name="DungeonMenu_MimicSpawn_Text" xml:space="preserve">
+    <value>Apparition du Mimic</value>
+  </data>
+  <data name="Chest_ChestDrop_Text" xml:space="preserve">
+    <value>Drop du coffre</value>
+  </data>
+  <data name="Chest_PossibleXP_Text" xml:space="preserve">
+    <value>XP Possible</value>
+  </data>
+  <data name="RankedMenu_PossibleRewards_Text" xml:space="preserve">
+    <value>RÉCOMPENSES CLASSÉES</value>
+  </data>
+  <data name="RankedMenu_Every1st_Text" xml:space="preserve">
+    <value>Chaque 1er du mois, tous les points sont remis à zéro.</value>
+  </data>
+  <data name="UnlockCondition_2" xml:space="preserve">
+    <value>Déblocable dans les coffres quotidiens.</value>
+  </data>
+  <data name="Settings_Header_Localization" xml:space="preserve">
+    <value>LOCALISATION</value>
+  </data>
+  <data name="Keys_AvailableIn_text" xml:space="preserve">
+    <value>Clés disponibles dans</value>
+  </data>
+  <data name="Tuto_Dialogue32" xml:space="preserve">
+    <value>Idle Knight est actuellement en accès anticipé.
+Certains bugs ou fonctionnalités incomplètes peuvent survenir.
+Merci de jouer et de contribuer à l’amélioration du jeu !</value>
   </data>
 </root>

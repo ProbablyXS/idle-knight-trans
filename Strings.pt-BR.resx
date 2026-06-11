@@ -181,10 +181,10 @@
     <value>ÁUDIO</value>
   </data>
   <data name="Settings_Nav_Overlay" xml:space="preserve">
-    <value>OVERLAY</value>
+    <value>SOBREPOSIÇÃO</value>
   </data>
   <data name="Settings_Nav_Stats" xml:space="preserve">
-    <value>STATS</value>
+    <value>ESTATÍSTICAS</value>
   </data>
   <data name="Settings_Nav_Credits" xml:space="preserve">
     <value>CRÉDITOS</value>
@@ -199,7 +199,7 @@
     <value>Configurações gerais do sistema</value>
   </data>
   <data name="Settings_OverlayText" xml:space="preserve">
-    <value>OVERLAY</value>
+    <value>SOBREPOSIÇÃO</value>
   </data>
   <data name="Settings_OverlayInfoText" xml:space="preserve">
     <value>Propriedades do overlay</value>
@@ -211,7 +211,7 @@
     <value>A equipe por trás do jogo</value>
   </data>
   <data name="Settings_StatsText" xml:space="preserve">
-    <value>STATS</value>
+    <value>ESTATÍSTICAS</value>
   </data>
   <data name="Settings_StatsInfoText" xml:space="preserve">
     <value>Estatísticas</value>
@@ -253,7 +253,7 @@
     <value>MASMORRA</value>
   </data>
   <data name="Settings_Header_Ranked" xml:space="preserve">
-    <value>RANQUEADO</value>
+    <value>RANQUEADA</value>
   </data>
   <data name="Settings_General_English" xml:space="preserve">
     <value>Português (Brasil)</value>
@@ -305,21 +305,6 @@
   </data>
   <data name="Settings_Credits_MusicText" xml:space="preserve">
     <value>Música</value>
-  </data>
-  <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>Cavaleiro, Criador: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>Goblin, Criador: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>Esqueleto, Criador: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>Kobold, Criador: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>Dragãozinho, Criador: Mattz</value>
   </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>Mecanismo VECR (WPF / .NET, C#)</value>
@@ -454,7 +439,7 @@
     <value>GANHOS</value>
   </data>
   <data name="Settings_Stats_RankedPointsEarned" xml:space="preserve">
-    <value>Total de Pontos Ranqueados Ganhos</value>
+    <value>Total de Pontos de Ranqueadas Ganhos</value>
   </data>
   <data name="Settings_Stats_LOST" xml:space="preserve">
     <value>PERDIDOS</value>
@@ -495,14 +480,11 @@
   <data name="DungeonMenu_DungeonText" xml:space="preserve">
     <value>MASMORRA</value>
   </data>
-  <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>Catacumbas Abandonadas</value>
-  </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
     <value>Poder Recomendado : </value>
   </data>
-  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>NÍVEL 18</value>
+  <data name="DungeonMenu_Dungeon2Level_Text" xml:space="preserve">
+    <value>NÍVEL 20</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
     <value>RECOMPENSAS POSSÍVEIS</value>
@@ -511,7 +493,7 @@
     <value>Chaves : </value>
   </data>
   <data name="RankedMenu_RankedText" xml:space="preserve">
-    <value>RANQUEADO</value>
+    <value>RANQUEADA</value>
   </data>
   <data name="RankedMenu_FindMatch_Button" xml:space="preserve">
     <value>BUSCAR PARTIDA</value>
@@ -589,8 +571,8 @@
  Personalize a aparência do seu personagem.</value>
   </data>
   <data name="Tuto_Dialogue15" xml:space="preserve">
-    <value>Aqui você escolhe seu modo de combate.
- Masmorra, Ranqueado e Evento.</value>
+    <value> Aqui você escolhe seu modo de combate.
+Masmorra, Ranqueada e Evento.</value>
   </data>
   <data name="Tuto_Dialogue16" xml:space="preserve">
     <value>Lute contra jogadores do mundo todo em tempo real.
@@ -709,7 +691,7 @@
     <value>ANDAR</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ Lutando...</value>
+    <value>Lutando...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
     <value>Banido!</value>
@@ -727,16 +709,13 @@
     <value>TODOS</value>
   </data>
   <data name="UnlockCondition_1" xml:space="preserve">
-    <value>Skin padrão</value>
-  </data>
-  <data name="UnlockCondition_2" xml:space="preserve">
-    <value>Derrote o chefe da masmorra 2</value>
+    <value>Aparência padrão</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
     <value>Em breve...</value>
   </data>
   <data name="UnlockCondition_4" xml:space="preserve">
-    <value>Entre no servidor Discord do Idle Knight e solicite a skin</value>
+    <value>Entre no servidor Discord do Idle Knight e solicite a aparência</value>
   </data>
   <data name="UnlockCondition_5" xml:space="preserve">
     <value>Comprar na loja</value>
@@ -796,7 +775,7 @@
     <value>Por favor, aguarde {secondsLeft}s antes de jogar.</value>
   </data>
   <data name="Notif_title_4" xml:space="preserve">
-    <value>Ranqueado indisponível</value>
+    <value>Ranqueada indisponível</value>
   </data>
   <data name="Notif_message_4" xml:space="preserve">
     <value>Nenhum adversário encontrado no seu nível. Tente novamente mais tarde.</value>
@@ -910,10 +889,10 @@
     <value>ANDAR DA MASMORRA</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ Chefe chegando...</value>
+    <value>Chefe chegando...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
-    <value>⚔ Andar {i + 2} chegando...</value>
+    <value>Andar {i + 2} chegando...</value>
   </data>
   <data name="Dungeon_BossFloor_Text" xml:space="preserve">
     <value>ANDAR DO CHEFE</value>
@@ -982,37 +961,63 @@
     <value>INICIAR</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Inventory_Use_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Use_Button" xml:space="preserve">
+    <value>USAR</value>
   </data>
-  <data name="Inventory_Yes_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Yes_Button" xml:space="preserve">
+    <value>SIM</value>
   </data>
-  <data name="Inventory_No_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_No_Button" xml:space="preserve">
+    <value>NÃO</value>
   </data>
-  <data name="Inventory_AreYouSure_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_AreYouSure_Text" xml:space="preserve">
+    <value>Você tem certeza?</value>
   </data>
-  <data name="Inventory_Quantity_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Quantity_Text" xml:space="preserve">
+    <value>Quantidade: x</value>
   </data>
-  <data name="Chest_Open_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Open_Text" xml:space="preserve">
+    <value>ABRIR BÁU</value>
   </data>
-  <data name="Chest_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Text" xml:space="preserve">
+    <value>BÁU</value>
   </data>
-  <data name="Notif_message_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_message_23" xml:space="preserve">
+    <value>O baú está pronto para ser aberto</value>
   </data>
-  <data name="Notif_title_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_title_23" xml:space="preserve">
+    <value>Baú disponível agora!</value>
   </data>
-  <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_AvailableIn_text" xml:space="preserve">
+    <value>Available in </value>
   </data>
-  <data name="Settings_Credits_AssetGoldChest" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Title" xml:space="preserve">
+    <value>DAILY CHEST</value>
+  </data>
+  <data name="Consumable_ItemName_5" xml:space="preserve">
+    <value>Ranked Key</value>
+  </data>
+  <data name="Consumable_ItemName_6" xml:space="preserve">
+    <value>Dungeon Key</value>
+  </data>
+  <data name="Consumable_ItemDesc_5" xml:space="preserve">
+    <value>This key grants access to the Ranked mode.</value>
+  </data>
+  <data name="Consumable_ItemDesc_6" xml:space="preserve">
+    <value>This key grants access to the Dungeon.</value>
+  </data>
+  <data name="FightMenu_PlayersOnline_Text" xml:space="preserve">
+    <value>PLAYERS ONLINE</value>
+  </data>
+  <data name="Settings_Header_Localization" xml:space="preserve">
+    <value>LOCALIZAÇÃO</value>
+  </data>
+  <data name="Settings_Credits_BugHunters" xml:space="preserve">
+    <value>Analista de testes</value>
+  </data>
+  <data name="Tuto_Dialogue32" xml:space="preserve">
+    <value>Idle Knight está atualmente em acesso antecipado.
+Alguns bugs ou recursos inacabados podem ocorrer.
+Obrigado por jogar e ajudar a melhorar o jogo!</value>
   </data>
 </root>

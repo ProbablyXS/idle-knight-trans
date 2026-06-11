@@ -306,21 +306,6 @@
   <data name="Settings_Credits_MusicText" xml:space="preserve">
     <value>Hudba</value>
   </data>
-  <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>Rytíř, Tvůrce: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>Goblin, Tvůrce: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>Kostlivec, Tvůrce: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>Kobold, Tvůrce: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>Baby drak, Tvůrce: Mattz</value>
-  </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>VECR Engine (WPF / .NET, C#)</value>
   </data>
@@ -495,14 +480,11 @@
   <data name="DungeonMenu_DungeonText" xml:space="preserve">
     <value>DUNGEON</value>
   </data>
-  <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>Opuštěné katakomby</value>
-  </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
     <value>Doporučená síla: </value>
   </data>
-  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>ÚROVEŇ 18</value>
+  <data name="DungeonMenu_Dungeon2Level_Text" xml:space="preserve">
+    <value>ÚROVEŇ 20</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
     <value>MOŽNÉ ODMĚNY</value>
@@ -682,7 +664,7 @@
     <value>PATRO</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ Bojování...</value>
+    <value>Bojování...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
     <value>Zabanován!</value>
@@ -701,9 +683,6 @@
   </data>
   <data name="UnlockCondition_1" xml:space="preserve">
     <value>Výchozí skin</value>
-  </data>
-  <data name="UnlockCondition_2" xml:space="preserve">
-    <value>Porazte bosse v dungeonu 2</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
     <value>Již brzy...</value>
@@ -883,10 +862,10 @@
     <value>PATRO</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ Boss přichází...</value>
+    <value>Boss přichází...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
-    <value>⚔ Přichází patro {i + 2}...</value>
+    <value>Přichází patro {i + 2}...</value>
   </data>
   <data name="Dungeon_BossFloor_Text" xml:space="preserve">
     <value>PATRO BOSSE</value>
@@ -928,7 +907,7 @@
     <value>Tvá data byla synchronizována.</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ SOUBOJ S BOSSEM! ⚔</value>
+    <value>SOUBOJ S BOSSEM!</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
     <value>Běžné</value>
@@ -985,7 +964,11 @@
   <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="Settings_Credits_AssetGoldChest" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Settings_Header_Localization" xml:space="preserve">
+    <value>LOKALIZACE</value>
+  </data>
+  <data name="Tuto_Dialogue32" xml:space="preserve">
+    <value>Idle Knight je momentálně v předběžném přístupu. Může se objevit několik chyb nebo nedokončených funkcí.
+Děkujeme, že hrajete a pomáháte nám hru zlepšovat!</value>
   </data>
 </root>

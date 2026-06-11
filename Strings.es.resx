@@ -306,21 +306,6 @@
   <data name="Settings_Credits_MusicText" xml:space="preserve">
     <value>Música</value>
   </data>
-  <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>Caballero, Creador: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>Goblin, Creador: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>Esqueleto, Creador: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>Kobold, Creador: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>Dragón Bebé, Creador: Mattz</value>
-  </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>VECR Engine (WPF / .NET, C#)</value>
   </data>
@@ -495,14 +480,11 @@
   <data name="DungeonMenu_DungeonText" xml:space="preserve">
     <value>MAZMORRA</value>
   </data>
-  <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>Catacumbas Abandonadas</value>
-  </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
     <value>Poder Recomendado : </value>
   </data>
-  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>NIVEL 18</value>
+  <data name="DungeonMenu_Dungeon2Level_Text" xml:space="preserve">
+    <value>NIVEL 20</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
     <value>RECOMPENSAS POSIBLES</value>
@@ -682,7 +664,7 @@
     <value>PISO</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ Combatiendo...</value>
+    <value>Combatiendo...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
     <value>¡Baneado!</value>
@@ -701,9 +683,6 @@
   </data>
   <data name="UnlockCondition_1" xml:space="preserve">
     <value>Skin predeterminada</value>
-  </data>
-  <data name="UnlockCondition_2" xml:space="preserve">
-    <value>Derrota al jefe de la mazmorra 2</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
     <value>Próximamente...</value>
@@ -883,10 +862,10 @@
     <value>PISO</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ Jefe en camino...</value>
+    <value>Jefe en camino...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
-    <value>⚔ Piso {i + 2} en camino...</value>
+    <value>Piso {i + 2} en camino...</value>
   </data>
   <data name="Dungeon_BossFloor_Text" xml:space="preserve">
     <value>PISO DEL JEFE</value>
@@ -928,7 +907,7 @@
     <value>Tus datos han sido sincronizados.</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ ¡COMBATE CONTRA EL JEFE! ⚔</value>
+    <value>¡COMBATE CONTRA EL JEFE!</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
     <value>Común</value>
@@ -985,7 +964,12 @@
   <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="Settings_Credits_AssetGoldChest" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Settings_Header_Localization" xml:space="preserve">
+    <value>LOCALIZACIÓN</value>
+  </data>
+  <data name="Tuto_Dialogue32" xml:space="preserve">
+    <value>Idle Knight está actualmente en acceso anticipado.
+Pueden aparecer algunos errores o funciones incompletas.
+¡Gracias por jugar y ayudarnos a mejorar el juego!</value>
   </data>
 </root>

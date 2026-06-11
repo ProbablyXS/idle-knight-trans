@@ -306,21 +306,6 @@
   <data name="Settings_Credits_MusicText" xml:space="preserve">
     <value>음악</value>
   </data>
-  <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>기사, 제작자: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>고블린, 제작자: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>해골, 제작자: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>코볼드, 제작자: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>아기 드래곤, 제작자: Mattz</value>
-  </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>VECR Engine (WPF / .NET, C#)</value>
   </data>
@@ -495,14 +480,11 @@
   <data name="DungeonMenu_DungeonText" xml:space="preserve">
     <value>던전</value>
   </data>
-  <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>버려진 지하묘지</value>
-  </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
     <value>권장 전투력 : </value>
   </data>
-  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>레벨 18</value>
+  <data name="DungeonMenu_Dungeon2Level_Text" xml:space="preserve">
+    <value>레벨 20</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
     <value>가능한 보상</value>
@@ -682,7 +664,7 @@
     <value>층</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ 전투 중...</value>
+    <value> 전투 중...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
     <value>밴 당함!</value>
@@ -701,9 +683,6 @@
   </data>
   <data name="UnlockCondition_1" xml:space="preserve">
     <value>기본 스킨</value>
-  </data>
-  <data name="UnlockCondition_2" xml:space="preserve">
-    <value>던전 2의 보스를 처치</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
     <value>곧 출시...</value>
@@ -883,10 +862,10 @@
     <value>층</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ 보스 등장 중...</value>
+    <value>보스 등장 중...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
-    <value>⚔ {i + 2}층 진입 중...</value>
+    <value>{i + 2}층 진입 중...</value>
   </data>
   <data name="Dungeon_BossFloor_Text" xml:space="preserve">
     <value>보스 층</value>
@@ -928,7 +907,7 @@
     <value>데이터가 동기화되었습니다.</value>
   </data>
   <data name="DungeonMenu_BattleBoss_Text" xml:space="preserve">
-    <value>⚔ 보스 전투! ⚔</value>
+    <value>보스 전투!</value>
   </data>
   <data name="Rarity_Label_Common" xml:space="preserve">
     <value>일반</value>
@@ -985,7 +964,12 @@
   <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="Settings_Credits_AssetGoldChest" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Settings_Header_Localization" xml:space="preserve">
+    <value>현지화</value>
+  </data>
+  <data name="Tuto_Dialogue32" xml:space="preserve">
+    <value>Idle Knight는 현재 얼리 액세스 중입니다.
+일부 버그나 미완성 기능이 있을 수 있습니다.
+게임을 플레이하고 개선에 도움을 주셔서 감사합니다!</value>
   </data>
 </root>

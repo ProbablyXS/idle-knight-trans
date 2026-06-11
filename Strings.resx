@@ -309,24 +309,6 @@
   <data name="Settings_Credits_BugHunters" xml:space="preserve">
     <value>QA Tester</value>
   </data>
-  <data name="Settings_Credits_AssetKnight" xml:space="preserve">
-    <value>Knight, Creator: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetEdits" xml:space="preserve">
-    <value>Edits: Dark, Darkness, Shadow, Bloody, White, Monochrome (Probably), Green, Emerald, VoIP, Yellow (Pooh5159), Gold (Upper)</value>
-  </data>
-  <data name="Settings_Credits_AssetGoblin" xml:space="preserve">
-    <value>Goblin, Creator: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetSkeleton" xml:space="preserve">
-    <value>Skeleton, Creator: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetKobold" xml:space="preserve">
-    <value>Kobold, Creator: Mattz</value>
-  </data>
-  <data name="Settings_Credits_AssetBabyDragon" xml:space="preserve">
-    <value>Baby Dragon, Creator: Mattz</value>
-  </data>
   <data name="Settings_Credits_Engine" xml:space="preserve">
     <value>VECR Engine (WPF / .NET, C#)</value>
   </data>
@@ -502,13 +484,13 @@
     <value>DUNGEON</value>
   </data>
   <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
-    <value>Abandonned Catacombs</value>
+    <value>Mystery Cave</value>
   </data>
   <data name="DungeonMenu_RecommendedPower_Text" xml:space="preserve">
     <value>Recommended Power : </value>
   </data>
-  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
-    <value>LEVEL 18</value>
+  <data name="DungeonMenu_Dungeon2Level_Text" xml:space="preserve">
+    <value>LEVEL 20</value>
   </data>
   <data name="DungeonMenu_PossibleRewards_Text" xml:space="preserve">
     <value>POSSIBLE REWARDS</value>
@@ -562,8 +544,8 @@ to discover the menu.</value>
 Right now you're level 0, but that's about to change.</value>
   </data>
   <data name="Tuto_Dialogue7" xml:space="preserve">
-    <value>The blue bar under your name is your experience.
-It fills up every time you click on your character.</value>
+    <value>The bar under your name represents your experience.
+It fills up as you gain experience.</value>
   </data>
   <data name="Tuto_Dialogue8" xml:space="preserve">
     <value>The number below shows how much XP you've earned this level,
@@ -599,7 +581,7 @@ Customize the look of your character.</value>
 Dungeon, Ranked, and Event.</value>
   </data>
   <data name="Tuto_Dialogue16" xml:space="preserve">
-    <value>Fight players from around the world in real time.
+    <value>Fight players from around the world.
 Climb the leaderboard to make a name for yourself.</value>
   </data>
   <data name="Tuto_Dialogue17" xml:space="preserve">
@@ -715,7 +697,7 @@ Good luck, warrior. The rest is up to you.</value>
     <value>FLOOR</value>
   </data>
   <data name="DungeonMenu_BattleFighting_Text" xml:space="preserve">
-    <value>⚔ Fighting...</value>
+    <value>Fighting...</value>
   </data>
   <data name="Banned_text" xml:space="preserve">
     <value>Banned!</value>
@@ -736,7 +718,7 @@ Good luck, warrior. The rest is up to you.</value>
     <value>Default skin</value>
   </data>
   <data name="UnlockCondition_2" xml:space="preserve">
-    <value>Kill the boss from dungeon 2</value>
+    <value>Unlockable from Daily Chests.</value>
   </data>
   <data name="UnlockCondition_3" xml:space="preserve">
     <value>Coming soon...</value>
@@ -916,10 +898,10 @@ Good luck, warrior. The rest is up to you.</value>
     <value>FLOOR</value>
   </data>
   <data name="Dungeon_BossIncoming_Text" xml:space="preserve">
-    <value>⚔ Boss incoming...</value>
+    <value>Boss incoming...</value>
   </data>
   <data name="Dungeon_FloorIsIncoming_Text" xml:space="preserve">
-    <value>⚔ Floor {i + 2} incoming...</value>
+    <value>Floor {i + 2} incoming...</value>
   </data>
   <data name="Dungeon_BossFloor_Text" xml:space="preserve">
     <value>BOSS FLOOR</value>
@@ -1017,14 +999,8 @@ Good luck, warrior. The rest is up to you.</value>
   <data name="Chest_AvailableIn_text" xml:space="preserve">
     <value>Available in </value>
   </data>
-  <data name="Settings_Credits_AssetGoldChest" xml:space="preserve">
-    <value>Gold Chest, Creator: Admurin</value>
-  </data>
   <data name="Chest_Title" xml:space="preserve">
     <value>DAILY CHEST</value>
-  </data>
-  <data name="Settings_Credits_AssetSatyr" xml:space="preserve">
-    <value>Satyr, Creator: Mattz</value>
   </data>
   <data name="Consumable_ItemName_5" xml:space="preserve">
     <value>Ranked Key</value>
@@ -1040,5 +1016,53 @@ Good luck, warrior. The rest is up to you.</value>
   </data>
   <data name="FightMenu_PlayersOnline_Text" xml:space="preserve">
     <value>PLAYERS ONLINE</value>
+  </data>
+  <data name="DungeonMenu_Dungeon2Name_Text" xml:space="preserve">
+    <value>Abandonned Catacombs</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Name_Text" xml:space="preserve">
+    <value>Cursed Forest</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
+    <value>LEVEL 10</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Level_Text" xml:space="preserve">
+    <value>LEVEL 30</value>
+  </data>
+  <data name="Tuto_Dialogue31" xml:space="preserve">
+    <value>Open a chest every hour to earn XP and receive valuable rewards.
+Come back regularly to claim your chest!</value>
+  </data>
+  <data name="PtsMaxRankReached" xml:space="preserve">
+    <value>Max rank reached!</value>
+  </data>
+  <data name="DungeonMenu_MimicDrop_Text" xml:space="preserve">
+    <value>A Mimic may appear at the end of a completed dungeon.</value>
+  </data>
+  <data name="DungeonMenu_MimicSpawn_Text" xml:space="preserve">
+    <value>Mimic Spawn</value>
+  </data>
+  <data name="Chest_ChestDrop_Text" xml:space="preserve">
+    <value>Chest Drop</value>
+  </data>
+  <data name="Chest_PossibleXP_Text" xml:space="preserve">
+    <value>Possible XP</value>
+  </data>
+  <data name="RankedMenu_PossibleRewards_Text" xml:space="preserve">
+    <value>RANKED REWARDS</value>
+  </data>
+  <data name="RankedMenu_Every1st_Text" xml:space="preserve">
+    <value>Every 1st of the month, all points reset to 0.</value>
+  </data>
+  <data name="Settings_Header_Localization" xml:space="preserve">
+    <value>LOCALIZATION</value>
+  </data>
+  <data name="Keys_AvailableIn_text" xml:space="preserve">
+    <value>Keys available in</value>
+  </data>
+  <data name="Tuto_Dialogue32" xml:space="preserve">
+    <value>Idle Knight is currently in Early Access.
+Some bugs or unfinished features may occur.
+Thank you for playing and helping us improve the game!</value>
   </data>
 </root>
