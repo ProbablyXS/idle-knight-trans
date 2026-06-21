@@ -334,7 +334,7 @@
     <value>• 匹配和排行榜数据</value>
   </data>
   <data name="Settings_Privacy_6" xml:space="preserve">
-    <value>• 与服务器相关的技术数据</value>
+    <value>• 与服务器相关的技术数据和游戏输入操作（如点击和按钮按下）仅用于游戏用途。我们不保存玩家输入的内容，只记录其在游戏中的行为。</value>
   </data>
   <data name="Settings_Privacy_7" xml:space="preserve">
     <value>• 验证Steam购买所需的信息（不收集支付信息）</value>
@@ -724,13 +724,13 @@
     <value>重置属性</value>
   </data>
   <data name="Consumable_ItemEffect_2" xml:space="preserve">
-    <value>x2 XP / 15 分钟</value>
+    <value>2XP / 15 分钟</value>
   </data>
   <data name="Consumable_ItemEffect_3" xml:space="preserve">
-    <value>x2 XP / 30 分钟</value>
+    <value>2XP / 30 分钟</value>
   </data>
   <data name="Consumable_ItemEffect_4" xml:space="preserve">
-    <value>x2 XP / 60 分钟</value>
+    <value>2XP / 60 分钟</value>
   </data>
   <data name="Notif_title_1" xml:space="preserve">
     <value>找到消耗品！</value>
@@ -751,7 +751,7 @@
     <value>排位赛不可用</value>
   </data>
   <data name="Notif_message_4" xml:space="preserve">
-    <value>在你的等级找不到对手。请稍后再试。</value>
+    <value>未找到与你当前段位相符的对手。请稍后再试。</value>
   </data>
   <data name="Notif_title_5" xml:space="preserve">
     <value>地下城不可用</value>
@@ -934,35 +934,35 @@
     <value>启动</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Inventory_Use_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Use_Button" xml:space="preserve">
+    <value>使用</value>
   </data>
-  <data name="Inventory_Yes_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Yes_Button" xml:space="preserve">
+    <value>是</value>
   </data>
-  <data name="Inventory_No_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_No_Button" xml:space="preserve">
+    <value>否</value>
   </data>
-  <data name="Inventory_AreYouSure_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_AreYouSure_Text" xml:space="preserve">
+    <value>你确定吗？</value>
   </data>
-  <data name="Inventory_Quantity_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Quantity_Text" xml:space="preserve">
+    <value>数量：x</value>
   </data>
-  <data name="Chest_Open_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Open_Text" xml:space="preserve">
+    <value>打开宝箱</value>
   </data>
-  <data name="Chest_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Text" xml:space="preserve">
+    <value>宝箱</value>
   </data>
-  <data name="Notif_message_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_message_23" xml:space="preserve">
+    <value>宝箱已准备好打开。</value>
   </data>
-  <data name="Notif_title_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_title_23" xml:space="preserve">
+    <value>宝箱现在可用！</value>
   </data>
-  <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_AvailableIn_text" xml:space="preserve">
+    <value>可用时间：</value>
   </data>
   <data name="Settings_Header_Localization" xml:space="preserve">
     <value>本地化</value>
@@ -971,5 +971,144 @@
     <value>《Idle Knight》目前处于抢先体验阶段。
 可能会出现一些错误或未完成的功能。
 感谢您游玩并帮助我们改进游戏！</value>
+  </data>
+  <data name="Settings_Credits_BugHunters" xml:space="preserve">
+    <value>QA测试员</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
+    <value>神秘洞穴</value>
+  </data>
+  <data name="UnlockCondition_2" xml:space="preserve">
+    <value>可通过每日宝箱解锁。</value>
+  </data>
+  <data name="Chest_Title" xml:space="preserve">
+    <value>每日宝箱</value>
+  </data>
+  <data name="Consumable_ItemName_5" xml:space="preserve">
+    <value>排位赛钥匙</value>
+  </data>
+  <data name="Consumable_ItemName_6" xml:space="preserve">
+    <value>地下城钥匙</value>
+  </data>
+  <data name="Consumable_ItemDesc_5" xml:space="preserve">
+    <value>此钥匙可让你进入排位赛模式。</value>
+  </data>
+  <data name="Consumable_ItemDesc_6" xml:space="preserve">
+    <value>此钥匙可让你进入地下城。</value>
+  </data>
+  <data name="FightMenu_PlayersOnline_Text" xml:space="preserve">
+    <value>在线玩家</value>
+  </data>
+  <data name="DungeonMenu_Dungeon2Name_Text" xml:space="preserve">
+    <value>废弃的墓穴</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Name_Text" xml:space="preserve">
+    <value>诅咒森林</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
+    <value>等级 10</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Level_Text" xml:space="preserve">
+    <value>等级 30</value>
+  </data>
+  <data name="Tuto_Dialogue31" xml:space="preserve">
+    <value>每小时打开一个宝箱，获得经验值和丰厚奖励。
+定期回来领取你的宝箱！</value>
+  </data>
+  <data name="PtsMaxRankReached" xml:space="preserve">
+    <value>已达到最高排名！</value>
+  </data>
+  <data name="DungeonMenu_MimicDrop_Text" xml:space="preserve">
+    <value>完成地下城后可能会出现一只宝箱怪。</value>
+  </data>
+  <data name="DungeonMenu_MimicSpawn_Text" xml:space="preserve">
+    <value>宝箱怪出现</value>
+  </data>
+  <data name="Chest_ChestDrop_Text" xml:space="preserve">
+    <value>宝箱掉落</value>
+  </data>
+  <data name="Chest_PossibleXP_Text" xml:space="preserve">
+    <value>可能获得的XP</value>
+  </data>
+  <data name="RankedMenu_PossibleRewards_Text" xml:space="preserve">
+    <value>排位赛奖励</value>
+  </data>
+  <data name="RankedMenu_Every1st_Text" xml:space="preserve">
+    <value>每月1日，所有积分将重置为0。</value>
+  </data>
+  <data name="Keys_AvailableIn_text" xml:space="preserve">
+    <value>钥匙可用时间</value>
+  </data>
+  <data name="LeaderboardMenu_Top500_Button" xml:space="preserve">
+    <value>TOP 500</value>
+  </data>
+  <data name="LeaderboardMenu_Ranked_Button" xml:space="preserve">
+    <value>排位赛</value>
+  </data>
+  <data name="LeaderboardMenu_Weekly_Button" xml:space="preserve">
+    <value>本周</value>
+  </data>
+  <data name="LeaderboardMenu_Friends_Button" xml:space="preserve">
+    <value>好友</value>
+  </data>
+  <data name="EasterEgg1_Dialogue01" xml:space="preserve">
+    <value>你刚刚点击了这个宝箱10次。
+这样可不会让它打开得更快，你知道的……
+请寻求帮助。</value>
+  </data>
+  <data name="EasterEgg1_Dialogue02" xml:space="preserve">
+    <value>……你还在继续？
+我很佩服你的执着，真的。
+但是，求你了。停下吧。</value>
+  </data>
+  <data name="EasterEgg1_Dialogue03" xml:space="preserve">
+    <value>30次。
+你点击了这个整整三十次。
+够了，我放弃了。
+RIYA！快来处理这个！</value>
+  </data>
+  <data name="Settings_General_AlwaysOnTopText_Info" xml:space="preserve">
+    <value>使游戏窗口始终显示在所有其他应用程序之上。
+如果你想在使用其他软件时查看游玩进度，这会很有用。</value>
+  </data>
+  <data name="Settings_General_StartWithWindowsText_Info" xml:space="preserve">
+    <value>在你的电脑启动时自动启动Idle Knight。
+绝不错过任何挂机进度，Windows启动的瞬间游戏就会开始刷取资源。</value>
+  </data>
+  <data name="Settings_General_RunAsAdminText_Info" xml:space="preserve">
+    <value>此项设置是Idle Knight在其他应用程序或游戏上方模拟点击所必需的。
+如果没有它，系统中运行的其他软件可能会屏蔽或忽略自动点击。</value>
+  </data>
+  <data name="Settings_Overlay_SoftwareRendering_Info" xml:space="preserve">
+    <value>为覆盖层启用软件渲染。
+如果当前的GPU驱动出现图形故障或黑屏问题，请使用此选项。</value>
+  </data>
+  <data name="Settings_Overlay_FpsLimit_Info" xml:space="preserve">
+    <value>限制覆盖层的渲染帧率。
+数值越低，CPU/GPU占用越少。</value>
+  </data>
+  <data name="Shop_BuyNow_Text" xml:space="preserve">
+    <value>立即购买</value>
+  </data>
+  <data name="LeaderBoardMenu_Text" xml:space="preserve">
+    <value>排行榜</value>
+  </data>
+  <data name="Shop_Info_Message" xml:space="preserve">
+    <value>商店中的每一笔购买都将直接支持 Idle Knight 的持续开发，并帮助我们为整个社区改进游戏。</value>
+  </data>
+  <data name="Shop_Info_NoPurchase" xml:space="preserve">
+    <value>没有正在进行的购买。</value>
+  </data>
+  <data name="Notif_message_24" xml:space="preserve">
+    <value>地下城钥匙和排位钥匙现已可用。</value>
+  </data>
+  <data name="Notif_title_24" xml:space="preserve">
+    <value>可用钥匙</value>
+  </data>
+  <data name="Exchange_Message" xml:space="preserve">
+    <value>用 {0} 个排位钥匙交换 {1} 个地牢钥匙吗？</value>
+  </data>
+  <data name="Exchange_Bouton" xml:space="preserve">
+    <value>交换</value>
   </data>
 </root>

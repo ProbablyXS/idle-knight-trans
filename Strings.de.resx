@@ -334,7 +334,7 @@
     <value>• Matchmaking- und Ranglisten-Daten</value>
   </data>
   <data name="Settings_Privacy_6" xml:space="preserve">
-    <value>• Serverbezogene technische Daten</value>
+    <value>• Serverbezogene technische Daten und Gameplay-Eingaben (wie Klicks und Tastendrücke auf Schaltflächen) werden nur für das Spiel verwendet. Wir speichern nicht, was der Spieler tippt, sondern nur, was er im Spiel tut.</value>
   </data>
   <data name="Settings_Privacy_7" xml:space="preserve">
     <value>• Für die Validierung von Steam-Käufen erforderliche Informationen (keine Zahlungsinformationen werden erfasst)</value>
@@ -724,13 +724,13 @@
     <value>Stats zurücksetzen</value>
   </data>
   <data name="Consumable_ItemEffect_2" xml:space="preserve">
-    <value>x2 XP / 15 Min.</value>
+    <value>2XP / 15 Min.</value>
   </data>
   <data name="Consumable_ItemEffect_3" xml:space="preserve">
-    <value>x2 XP / 30 Min.</value>
+    <value>2XP / 30 Min.</value>
   </data>
   <data name="Consumable_ItemEffect_4" xml:space="preserve">
-    <value>x2 XP / 60 Min.</value>
+    <value>2XP / 60 Min.</value>
   </data>
   <data name="Notif_title_1" xml:space="preserve">
     <value>Verbrauchsgut gefunden!</value>
@@ -751,7 +751,7 @@
     <value>Ranglistenspiel nicht verfügbar</value>
   </data>
   <data name="Notif_message_4" xml:space="preserve">
-    <value>Kein Gegner auf deinem Level gefunden. Versuche es später erneut.</value>
+    <value>Kein Gegner auf deinem Rang gefunden. Versuche es später erneut.</value>
   </data>
   <data name="Notif_title_5" xml:space="preserve">
     <value>Verlies nicht verfügbar</value>
@@ -934,35 +934,35 @@
     <value>STARTEN</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Inventory_Use_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Use_Button" xml:space="preserve">
+    <value>VERWENDEN</value>
   </data>
-  <data name="Inventory_Yes_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Yes_Button" xml:space="preserve">
+    <value>JA</value>
   </data>
-  <data name="Inventory_No_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_No_Button" xml:space="preserve">
+    <value>NEIN</value>
   </data>
-  <data name="Inventory_AreYouSure_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_AreYouSure_Text" xml:space="preserve">
+    <value>Bist du sicher?</value>
   </data>
-  <data name="Inventory_Quantity_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Quantity_Text" xml:space="preserve">
+    <value>Menge: x</value>
   </data>
-  <data name="Chest_Open_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Open_Text" xml:space="preserve">
+    <value>TRUHE ÖFFNEN</value>
   </data>
-  <data name="Chest_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Text" xml:space="preserve">
+    <value>TRUHE</value>
   </data>
-  <data name="Notif_message_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_message_23" xml:space="preserve">
+    <value>Die Truhe ist bereit zum Öffnen.</value>
   </data>
-  <data name="Notif_title_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_title_23" xml:space="preserve">
+    <value>Truhe jetzt verfügbar!</value>
   </data>
-  <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_AvailableIn_text" xml:space="preserve">
+    <value>Verfügbar in </value>
   </data>
   <data name="Settings_Header_Localization" xml:space="preserve">
     <value>LOKALISIERUNG</value>
@@ -971,5 +971,144 @@
     <value>Idle Knight befindet sich derzeit im Early Access.
 Einige Fehler oder unvollständige Funktionen können auftreten.
 Vielen Dank fürs Spielen und dafür, dass du uns hilfst, das Spiel zu verbessern!</value>
+  </data>
+  <data name="Settings_Credits_BugHunters" xml:space="preserve">
+    <value>QA-Tester</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
+    <value>Geheimnisvolle Höhle</value>
+  </data>
+  <data name="UnlockCondition_2" xml:space="preserve">
+    <value>Freischaltbar durch tägliche Truhen.</value>
+  </data>
+  <data name="Chest_Title" xml:space="preserve">
+    <value>TÄGLICHE TRUHE</value>
+  </data>
+  <data name="Consumable_ItemName_5" xml:space="preserve">
+    <value>Ranglisten-Schlüssel</value>
+  </data>
+  <data name="Consumable_ItemName_6" xml:space="preserve">
+    <value>Verlies-Schlüssel</value>
+  </data>
+  <data name="Consumable_ItemDesc_5" xml:space="preserve">
+    <value>Dieser Schlüssel gewährt Zugang zum Ranglistenmodus.</value>
+  </data>
+  <data name="Consumable_ItemDesc_6" xml:space="preserve">
+    <value>Dieser Schlüssel gewährt Zugang zum Verlies.</value>
+  </data>
+  <data name="FightMenu_PlayersOnline_Text" xml:space="preserve">
+    <value>SPIELER ONLINE</value>
+  </data>
+  <data name="DungeonMenu_Dungeon2Name_Text" xml:space="preserve">
+    <value>Verlassene Katakomben</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Name_Text" xml:space="preserve">
+    <value>Verfluchter Wald</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
+    <value>LEVEL 10</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Level_Text" xml:space="preserve">
+    <value>LEVEL 30</value>
+  </data>
+  <data name="Tuto_Dialogue31" xml:space="preserve">
+    <value>Öffne jede Stunde eine Truhe, um XP und wertvolle Belohnungen zu erhalten.
+Komm regelmäßig zurück, um deine Truhe abzuholen!</value>
+  </data>
+  <data name="PtsMaxRankReached" xml:space="preserve">
+    <value>Maximaler Rang erreicht!</value>
+  </data>
+  <data name="DungeonMenu_MimicDrop_Text" xml:space="preserve">
+    <value>Am Ende eines abgeschlossenen Verlieses kann ein Mimic erscheinen.</value>
+  </data>
+  <data name="DungeonMenu_MimicSpawn_Text" xml:space="preserve">
+    <value>Mimic-Erscheinung</value>
+  </data>
+  <data name="Chest_ChestDrop_Text" xml:space="preserve">
+    <value>Truhen-Drop</value>
+  </data>
+  <data name="Chest_PossibleXP_Text" xml:space="preserve">
+    <value>Mögliches XP</value>
+  </data>
+  <data name="RankedMenu_PossibleRewards_Text" xml:space="preserve">
+    <value>RANGLISTEN-BELOHNUNGEN</value>
+  </data>
+  <data name="RankedMenu_Every1st_Text" xml:space="preserve">
+    <value>Jeden 1. des Monats werden alle Punkte auf 0 zurückgesetzt.</value>
+  </data>
+  <data name="Keys_AvailableIn_text" xml:space="preserve">
+    <value>Schlüssel verfügbar in</value>
+  </data>
+  <data name="LeaderboardMenu_Top500_Button" xml:space="preserve">
+    <value>TOP 500</value>
+  </data>
+  <data name="LeaderboardMenu_Ranked_Button" xml:space="preserve">
+    <value>RANGLISTENSPIEL</value>
+  </data>
+  <data name="LeaderboardMenu_Weekly_Button" xml:space="preserve">
+    <value>WOCHE</value>
+  </data>
+  <data name="LeaderboardMenu_Friends_Button" xml:space="preserve">
+    <value>FREUNDE</value>
+  </data>
+  <data name="EasterEgg1_Dialogue01" xml:space="preserve">
+    <value>Du hast diese Truhe jetzt 10 Mal angeklickt.
+Sie öffnet sich dadurch nicht schneller, weißt du....
+Bitte such dir Hilfe.</value>
+  </data>
+  <data name="EasterEgg1_Dialogue02" xml:space="preserve">
+    <value>...Du machst immer noch weiter?
+Ich bewundere dein Engagement. Wirklich.
+Aber bitte. Hör auf.</value>
+  </data>
+  <data name="EasterEgg1_Dialogue03" xml:space="preserve">
+    <value>30 Mal.
+Du hast DREISSIG Mal darauf geklickt.
+Das war's. Ich bin fertig.
+RIYA! KÜMMER DICH DARUM.</value>
+  </data>
+  <data name="Settings_General_AlwaysOnTopText_Info" xml:space="preserve">
+    <value>Hält das Spielfenster über allen anderen Anwendungen.
+Nützlich, wenn du deinen Fortschritt im Blick behalten möchtest, während du andere Programme nutzt.</value>
+  </data>
+  <data name="Settings_General_StartWithWindowsText_Info" xml:space="preserve">
+    <value>Startet Idle Knight automatisch, wenn dein Computer hochfährt.
+Verpasse niemals Idle-Fortschritt – dein Spiel beginnt mit dem Grinden, sobald Windows startet.</value>
+  </data>
+  <data name="Settings_General_RunAsAdminText_Info" xml:space="preserve">
+    <value>Erforderlich, damit Idle Knight Klicks über anderen Anwendungen oder Spielen simulieren kann.
+Ohne dies können Auto-Klicks von anderer auf deinem System laufender Software blockiert oder ignoriert werden.</value>
+  </data>
+  <data name="Settings_Overlay_SoftwareRendering_Info" xml:space="preserve">
+    <value>Aktiviert die Software-Darstellung für das Overlay.
+Verwende dies, wenn bei deinem aktuellen GPU-Treiber grafische Fehler oder schwarze Bildschirme auftreten.</value>
+  </data>
+  <data name="Settings_Overlay_FpsLimit_Info" xml:space="preserve">
+    <value>Begrenzt die Bildwiederholrate des Overlays.
+Niedrigere Werte reduzieren die CPU-/GPU-Auslastung.</value>
+  </data>
+  <data name="Shop_BuyNow_Text" xml:space="preserve">
+    <value>JETZT KAUFEN</value>
+  </data>
+  <data name="LeaderBoardMenu_Text" xml:space="preserve">
+    <value>RANGLISTE</value>
+  </data>
+  <data name="Shop_Info_Message" xml:space="preserve">
+    <value>Jeder Kauf im Shop unterstützt direkt die laufende Entwicklung von Idle Knight und hilft uns dabei, das Spiel für die gesamte Community zu verbessern.</value>
+  </data>
+  <data name="Shop_Info_NoPurchase" xml:space="preserve">
+    <value>Kein Kaufvorgang läuft.</value>
+  </data>
+  <data name="Notif_message_24" xml:space="preserve">
+    <value>Dungeon- und Rang-Schlüssel sind verfügbar.</value>
+  </data>
+  <data name="Notif_title_24" xml:space="preserve">
+    <value>Verfügbare Schlüssel</value>
+  </data>
+  <data name="Exchange_Message" xml:space="preserve">
+    <value>Möchtest du {0} Rangschlüssel gegen {1} Dungeon-Schlüssel eintauschen?</value>
+  </data>
+  <data name="Exchange_Bouton" xml:space="preserve">
+    <value>TAUSCHEN</value>
   </data>
 </root>

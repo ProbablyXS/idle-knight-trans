@@ -334,7 +334,7 @@
     <value>• Data z matchmakingu a žebříčku</value>
   </data>
   <data name="Settings_Privacy_6" xml:space="preserve">
-    <value>• Technická data související se serverem</value>
+    <value>• Technická data související se serverem a vstupní herní akce (např. kliknutí a stisknutí tlačítek) jsou používány pouze pro hru. Neukládáme to, co hráč píše, ale pouze to, co ve hře dělá.</value>
   </data>
   <data name="Settings_Privacy_7" xml:space="preserve">
     <value>• Informace potřebné k ověření nákupů na Steamu (žádné platební informace nejsou shromažďovány)</value>
@@ -724,13 +724,13 @@
     <value>Resetovat statistiky</value>
   </data>
   <data name="Consumable_ItemEffect_2" xml:space="preserve">
-    <value>x2 XP / 15 min</value>
+    <value>2XP / 15 min</value>
   </data>
   <data name="Consumable_ItemEffect_3" xml:space="preserve">
-    <value>x2 XP / 30 min</value>
+    <value>2XP / 30 min</value>
   </data>
   <data name="Consumable_ItemEffect_4" xml:space="preserve">
-    <value>x2 XP / 60 min</value>
+    <value>2XP / 60 min</value>
   </data>
   <data name="Notif_title_1" xml:space="preserve">
     <value>Spotřební předmět nalezen!</value>
@@ -751,7 +751,7 @@
     <value>Žebříček nedostupný</value>
   </data>
   <data name="Notif_message_4" xml:space="preserve">
-    <value>Nenalezen žádný soupeř na tvé úrovni. Zkus to znovu později.</value>
+    <value>Na tvém rangu nebyl nalezen žádný soupeř. Zkus to znovu později.</value>
   </data>
   <data name="Notif_title_5" xml:space="preserve">
     <value>Dungeon nedostupný</value>
@@ -934,35 +934,35 @@
     <value>SPUSTIT</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Inventory_Use_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Use_Button" xml:space="preserve">
+    <value>POUŽÍT</value>
   </data>
-  <data name="Inventory_Yes_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Yes_Button" xml:space="preserve">
+    <value>ANO</value>
   </data>
-  <data name="Inventory_No_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_No_Button" xml:space="preserve">
+    <value>NE</value>
   </data>
-  <data name="Inventory_AreYouSure_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_AreYouSure_Text" xml:space="preserve">
+    <value>Jsi si jistý?</value>
   </data>
-  <data name="Inventory_Quantity_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Quantity_Text" xml:space="preserve">
+    <value>Množství: x</value>
   </data>
-  <data name="Chest_Open_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Open_Text" xml:space="preserve">
+    <value>OTEVŘÍT TRUHLU</value>
   </data>
-  <data name="Chest_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Text" xml:space="preserve">
+    <value>TRUHLA</value>
   </data>
-  <data name="Notif_message_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_message_23" xml:space="preserve">
+    <value>Truhla je připravena k otevření.</value>
   </data>
-  <data name="Notif_title_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_title_23" xml:space="preserve">
+    <value>Truhla je nyní dostupná!</value>
   </data>
-  <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_AvailableIn_text" xml:space="preserve">
+    <value>Dostupné za </value>
   </data>
   <data name="Settings_Header_Localization" xml:space="preserve">
     <value>LOKALIZACE</value>
@@ -970,5 +970,144 @@
   <data name="Tuto_Dialogue32" xml:space="preserve">
     <value>Idle Knight je momentálně v předběžném přístupu. Může se objevit několik chyb nebo nedokončených funkcí.
 Děkujeme, že hrajete a pomáháte nám hru zlepšovat!</value>
+  </data>
+  <data name="Settings_Credits_BugHunters" xml:space="preserve">
+    <value>Tester QA</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
+    <value>Tajemná jeskyně</value>
+  </data>
+  <data name="UnlockCondition_2" xml:space="preserve">
+    <value>Odemykatelné z denních truhel.</value>
+  </data>
+  <data name="Chest_Title" xml:space="preserve">
+    <value>DENNÍ TRUHLA</value>
+  </data>
+  <data name="Consumable_ItemName_5" xml:space="preserve">
+    <value>Klíč do žebříčku</value>
+  </data>
+  <data name="Consumable_ItemName_6" xml:space="preserve">
+    <value>Klíč do dungeonu</value>
+  </data>
+  <data name="Consumable_ItemDesc_5" xml:space="preserve">
+    <value>Tento klíč umožňuje přístup do žebříčkového režimu.</value>
+  </data>
+  <data name="Consumable_ItemDesc_6" xml:space="preserve">
+    <value>Tento klíč umožňuje přístup do dungeonu.</value>
+  </data>
+  <data name="FightMenu_PlayersOnline_Text" xml:space="preserve">
+    <value>HRÁČI ONLINE</value>
+  </data>
+  <data name="DungeonMenu_Dungeon2Name_Text" xml:space="preserve">
+    <value>Opuštěné katakomby</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Name_Text" xml:space="preserve">
+    <value>Prokletý les</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
+    <value>ÚROVEŇ 10</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Level_Text" xml:space="preserve">
+    <value>ÚROVEŇ 30</value>
+  </data>
+  <data name="Tuto_Dialogue31" xml:space="preserve">
+    <value>Otevři truhlu každou hodinu, abys získal XP a hodnotné odměny.
+Vracej se pravidelně, abys vyzvedl svou truhlu!</value>
+  </data>
+  <data name="PtsMaxRankReached" xml:space="preserve">
+    <value>Maximální rank dosažen!</value>
+  </data>
+  <data name="DungeonMenu_MimicDrop_Text" xml:space="preserve">
+    <value>Na konci dokončeného dungeonu se může objevit Mimic.</value>
+  </data>
+  <data name="DungeonMenu_MimicSpawn_Text" xml:space="preserve">
+    <value>Výskyt Mimika</value>
+  </data>
+  <data name="Chest_ChestDrop_Text" xml:space="preserve">
+    <value>Drop truhly</value>
+  </data>
+  <data name="Chest_PossibleXP_Text" xml:space="preserve">
+    <value>Možné XP</value>
+  </data>
+  <data name="RankedMenu_PossibleRewards_Text" xml:space="preserve">
+    <value>ŽEBŘÍČKOVÉ ODMĚNY</value>
+  </data>
+  <data name="RankedMenu_Every1st_Text" xml:space="preserve">
+    <value>Každého 1. dne v měsíci se všechny body vynulují.</value>
+  </data>
+  <data name="Keys_AvailableIn_text" xml:space="preserve">
+    <value>Klíče dostupné za</value>
+  </data>
+  <data name="LeaderboardMenu_Top500_Button" xml:space="preserve">
+    <value>TOP 500</value>
+  </data>
+  <data name="LeaderboardMenu_Ranked_Button" xml:space="preserve">
+    <value>ŽEBŘÍČEK</value>
+  </data>
+  <data name="LeaderboardMenu_Weekly_Button" xml:space="preserve">
+    <value>TÝDEN</value>
+  </data>
+  <data name="LeaderboardMenu_Friends_Button" xml:space="preserve">
+    <value>PŘÁTELÉ</value>
+  </data>
+  <data name="EasterEgg1_Dialogue01" xml:space="preserve">
+    <value>Tuhle truhlu jsi právě klikl už 10krát.
+Víš, že se kvůli tomu neotevře rychleji, že jo....
+Prosím, vyhledej pomoc.</value>
+  </data>
+  <data name="EasterEgg1_Dialogue02" xml:space="preserve">
+    <value>...Ty v tom ještě pokračuješ?
+Obdivuji tvou odhodlanost. Vážně.
+Ale prosím. Přestaň.</value>
+  </data>
+  <data name="EasterEgg1_Dialogue03" xml:space="preserve">
+    <value>30krát.
+Kliknul jsi na to TŘICETKRÁT.
+To je vše. Já končím.
+RIYA! PŘIJDI TO VYŘEŠIT.</value>
+  </data>
+  <data name="Settings_General_AlwaysOnTopText_Info" xml:space="preserve">
+    <value>Udržuje okno hry nad všemi ostatními aplikacemi.
+Užitečné, pokud chceš sledovat svůj postup při používání jiného softwaru.</value>
+  </data>
+  <data name="Settings_General_StartWithWindowsText_Info" xml:space="preserve">
+    <value>Automaticky spustí Idle Knight při zapnutí počítače.
+Nikdy nepřijdeš o idle pokrok, tvoje hra začne grindovat ve chvíli, kdy se Windows zapnou.</value>
+  </data>
+  <data name="Settings_General_RunAsAdminText_Info" xml:space="preserve">
+    <value>Je nutné, aby Idle Knight mohl simulovat kliknutí nad jinými aplikacemi nebo hrami.
+Bez tohoto mohou být automatická kliknutí blokována nebo ignorována jiným softwarem běžícím v tvém systému.</value>
+  </data>
+  <data name="Settings_Overlay_SoftwareRendering_Info" xml:space="preserve">
+    <value>Aktivuje softwarové vykreslování pro overlay.
+Použij tuto možnost, pokud máš grafické chyby nebo černou obrazovku s aktuálním ovladačem GPU.</value>
+  </data>
+  <data name="Settings_Overlay_FpsLimit_Info" xml:space="preserve">
+    <value>Omezuje snímkovou frekvenci vykreslování overlaye.
+Nižší hodnoty snižují zatížení CPU/GPU.</value>
+  </data>
+  <data name="Shop_BuyNow_Text" xml:space="preserve">
+    <value>KOUPIT NYNÍ</value>
+  </data>
+  <data name="LeaderBoardMenu_Text" xml:space="preserve">
+    <value>ŽEBŘÍČEK</value>
+  </data>
+  <data name="Shop_Info_Message" xml:space="preserve">
+    <value>Každý nákup v obchodě přímo podporuje další vývoj hry Idle Knight a pomáhá nám vylepšovat hru pro celou komunitu.</value>
+  </data>
+  <data name="Shop_Info_NoPurchase" xml:space="preserve">
+    <value>Žádný probíhající nákup.</value>
+  </data>
+  <data name="Notif_message_24" xml:space="preserve">
+    <value>Klíče k dungeonu a žebříčkové klíče jsou k dispozici.</value>
+  </data>
+  <data name="Notif_title_24" xml:space="preserve">
+    <value>Dostupné klíče</value>
+  </data>
+  <data name="Exchange_Message" xml:space="preserve">
+    <value>Vyměnit {0} klíčů z rankingu za {1} klíče do dungeonu?</value>
+  </data>
+  <data name="Exchange_Bouton" xml:space="preserve">
+    <value>VYMĚNIT</value>
   </data>
 </root>

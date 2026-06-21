@@ -334,7 +334,7 @@
     <value>• Datos de emparejamiento y clasificación</value>
   </data>
   <data name="Settings_Privacy_6" xml:space="preserve">
-    <value>• Datos técnicos relacionados con el servidor</value>
+    <value>• Datos técnicos del servidor y acciones de entrada de juego (como clics y pulsaciones de botones) se utilizan únicamente para el juego. No almacenamos lo que el jugador escribe, solo lo que hace en el juego.</value>
   </data>
   <data name="Settings_Privacy_7" xml:space="preserve">
     <value>• Información necesaria para validar compras en Steam (no se recopila información de pago)</value>
@@ -724,13 +724,13 @@
     <value>Reiniciar estadísticas</value>
   </data>
   <data name="Consumable_ItemEffect_2" xml:space="preserve">
-    <value>x2 XP / 15 min</value>
+    <value>2XP / 15 min</value>
   </data>
   <data name="Consumable_ItemEffect_3" xml:space="preserve">
-    <value>x2 XP / 30 min</value>
+    <value>2XP / 30 min</value>
   </data>
   <data name="Consumable_ItemEffect_4" xml:space="preserve">
-    <value>x2 XP / 60 min</value>
+    <value>2XP / 60 min</value>
   </data>
   <data name="Notif_title_1" xml:space="preserve">
     <value>¡Consumible encontrado!</value>
@@ -751,7 +751,7 @@
     <value>Clasificado no disponible</value>
   </data>
   <data name="Notif_message_4" xml:space="preserve">
-    <value>No se encontró ningún oponente en tu nivel. Inténtalo de nuevo más tarde.</value>
+    <value>No se encontró ningún oponente en tu rango. Inténtalo de nuevo más tarde.</value>
   </data>
   <data name="Notif_title_5" xml:space="preserve">
     <value>Mazmorra no disponible</value>
@@ -934,35 +934,35 @@
     <value>INICIAR</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Inventory_Use_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Use_Button" xml:space="preserve">
+    <value>USAR</value>
   </data>
-  <data name="Inventory_Yes_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Yes_Button" xml:space="preserve">
+    <value>SÍ</value>
   </data>
-  <data name="Inventory_No_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_No_Button" xml:space="preserve">
+    <value>NO</value>
   </data>
-  <data name="Inventory_AreYouSure_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_AreYouSure_Text" xml:space="preserve">
+    <value>¿Estás seguro?</value>
   </data>
-  <data name="Inventory_Quantity_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Quantity_Text" xml:space="preserve">
+    <value>Cantidad: x</value>
   </data>
-  <data name="Chest_Open_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Open_Text" xml:space="preserve">
+    <value>ABRIR COFRE</value>
   </data>
-  <data name="Chest_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Text" xml:space="preserve">
+    <value>COFRE</value>
   </data>
-  <data name="Notif_message_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_message_23" xml:space="preserve">
+    <value>El cofre está listo para abrirse.</value>
   </data>
-  <data name="Notif_title_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_title_23" xml:space="preserve">
+    <value>¡Cofre disponible ahora!</value>
   </data>
-  <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_AvailableIn_text" xml:space="preserve">
+    <value>Disponible en </value>
   </data>
   <data name="Settings_Header_Localization" xml:space="preserve">
     <value>LOCALIZACIÓN</value>
@@ -971,5 +971,144 @@
     <value>Idle Knight está actualmente en acceso anticipado.
 Pueden aparecer algunos errores o funciones incompletas.
 ¡Gracias por jugar y ayudarnos a mejorar el juego!</value>
+  </data>
+  <data name="Settings_Credits_BugHunters" xml:space="preserve">
+    <value>Tester de QA</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
+    <value>Cueva Misteriosa</value>
+  </data>
+  <data name="UnlockCondition_2" xml:space="preserve">
+    <value>Desbloqueable a través de los cofres diarios.</value>
+  </data>
+  <data name="Chest_Title" xml:space="preserve">
+    <value>COFRE DIARIO</value>
+  </data>
+  <data name="Consumable_ItemName_5" xml:space="preserve">
+    <value>Llave Clasificada</value>
+  </data>
+  <data name="Consumable_ItemName_6" xml:space="preserve">
+    <value>Llave de Mazmorra</value>
+  </data>
+  <data name="Consumable_ItemDesc_5" xml:space="preserve">
+    <value>Esta llave otorga acceso al modo Clasificado.</value>
+  </data>
+  <data name="Consumable_ItemDesc_6" xml:space="preserve">
+    <value>Esta llave otorga acceso a la Mazmorra.</value>
+  </data>
+  <data name="FightMenu_PlayersOnline_Text" xml:space="preserve">
+    <value>JUGADORES EN LÍNEA</value>
+  </data>
+  <data name="DungeonMenu_Dungeon2Name_Text" xml:space="preserve">
+    <value>Catacumbas Abandonadas</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Name_Text" xml:space="preserve">
+    <value>Bosque Maldito</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
+    <value>NIVEL 10</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Level_Text" xml:space="preserve">
+    <value>NIVEL 30</value>
+  </data>
+  <data name="Tuto_Dialogue31" xml:space="preserve">
+    <value>Abre un cofre cada hora para ganar XP y recibir valiosas recompensas.
+¡Vuelve regularmente para reclamar tu cofre!</value>
+  </data>
+  <data name="PtsMaxRankReached" xml:space="preserve">
+    <value>¡Rango máximo alcanzado!</value>
+  </data>
+  <data name="DungeonMenu_MimicDrop_Text" xml:space="preserve">
+    <value>Al final de una mazmorra completada puede aparecer un Mimic.</value>
+  </data>
+  <data name="DungeonMenu_MimicSpawn_Text" xml:space="preserve">
+    <value>Aparición de Mimic</value>
+  </data>
+  <data name="Chest_ChestDrop_Text" xml:space="preserve">
+    <value>Drop de cofre</value>
+  </data>
+  <data name="Chest_PossibleXP_Text" xml:space="preserve">
+    <value>XP Posible</value>
+  </data>
+  <data name="RankedMenu_PossibleRewards_Text" xml:space="preserve">
+    <value>RECOMPENSAS CLASIFICADAS</value>
+  </data>
+  <data name="RankedMenu_Every1st_Text" xml:space="preserve">
+    <value>Cada día 1 del mes, todos los puntos se reinician a 0.</value>
+  </data>
+  <data name="Keys_AvailableIn_text" xml:space="preserve">
+    <value>Llaves disponibles en</value>
+  </data>
+  <data name="LeaderboardMenu_Top500_Button" xml:space="preserve">
+    <value>TOP 500</value>
+  </data>
+  <data name="LeaderboardMenu_Ranked_Button" xml:space="preserve">
+    <value>CLASIFICADO</value>
+  </data>
+  <data name="LeaderboardMenu_Weekly_Button" xml:space="preserve">
+    <value>SEMANA</value>
+  </data>
+  <data name="LeaderboardMenu_Friends_Button" xml:space="preserve">
+    <value>AMIGOS</value>
+  </data>
+  <data name="EasterEgg1_Dialogue01" xml:space="preserve">
+    <value>Acabas de hacer clic en este cofre 10 veces.
+No se abrirá más rápido por eso, ¿sabes?....
+Por favor, busca ayuda.</value>
+  </data>
+  <data name="EasterEgg1_Dialogue02" xml:space="preserve">
+    <value>...¿Sigues con esto?
+Admiro tu dedicación. De verdad.
+Pero por favor. Para.</value>
+  </data>
+  <data name="EasterEgg1_Dialogue03" xml:space="preserve">
+    <value>30 veces.
+Le has dado clic TREINTA veces.
+Se acabó. Yo me rindo.
+¡RIYA! VEN A ENCARGARTE DE ESTO.</value>
+  </data>
+  <data name="Settings_General_AlwaysOnTopText_Info" xml:space="preserve">
+    <value>Mantiene la ventana del juego por encima de todas las demás aplicaciones.
+Útil si quieres controlar tu progreso mientras usas otro software.</value>
+  </data>
+  <data name="Settings_General_StartWithWindowsText_Info" xml:space="preserve">
+    <value>Inicia Idle Knight automáticamente cuando arranca tu ordenador.
+Nunca te pierdas el progreso inactivo, tu juego empieza a farmear en el momento en que arranca Windows.</value>
+  </data>
+  <data name="Settings_General_RunAsAdminText_Info" xml:space="preserve">
+    <value>Necesario para que Idle Knight pueda simular clics sobre otras aplicaciones o juegos.
+Sin esto, los clics automáticos pueden ser bloqueados o ignorados por otro software en ejecución en tu sistema.</value>
+  </data>
+  <data name="Settings_Overlay_SoftwareRendering_Info" xml:space="preserve">
+    <value>Activa la renderización por software para la superposición.
+Úsalo si experimentas fallos gráficos o pantallas negras con tu controlador de GPU actual.</value>
+  </data>
+  <data name="Settings_Overlay_FpsLimit_Info" xml:space="preserve">
+    <value>Limita la tasa de fotogramas de renderizado de la superposición.
+Valores más bajos reducen el uso de CPU/GPU.</value>
+  </data>
+  <data name="Shop_BuyNow_Text" xml:space="preserve">
+    <value>COMPRAR AHORA</value>
+  </data>
+  <data name="LeaderBoardMenu_Text" xml:space="preserve">
+    <value>CLASIFICACIÓN</value>
+  </data>
+  <data name="Shop_Info_Message" xml:space="preserve">
+    <value>Cada compra realizada en la tienda apoya directamente el desarrollo continuo de Idle Knight y nos ayuda a mejorar el juego para toda la comunidad.</value>
+  </data>
+  <data name="Shop_Info_NoPurchase" xml:space="preserve">
+    <value>No hay ninguna compra en curso.</value>
+  </data>
+  <data name="Notif_message_24" xml:space="preserve">
+    <value>Las llaves de mazmorra y clasificatorias están disponibles.</value>
+  </data>
+  <data name="Notif_title_24" xml:space="preserve">
+    <value>Claves disponibles</value>
+  </data>
+  <data name="Exchange_Message" xml:space="preserve">
+    <value>¿Cambiar {0} llaves clasificadas por {1} llaves de mazmorra?</value>
+  </data>
+  <data name="Exchange_Bouton" xml:space="preserve">
+    <value>INTERCAMBIAR</value>
   </data>
 </root>

@@ -334,7 +334,7 @@
     <value>• マッチメイキングおよびランキングデータ</value>
   </data>
   <data name="Settings_Privacy_6" xml:space="preserve">
-    <value>• サーバー関連の技術データ</value>
+    <value>• サーバー関連の技術データおよびゲームプレイ入力アクション（クリックやボタン押下など）はゲーム目的のみに使用されます。プレイヤーが入力した内容は保存せず、ゲーム内で行った操作のみを扱います。</value>
   </data>
   <data name="Settings_Privacy_7" xml:space="preserve">
     <value>• Steam購入の確認に必要な情報（支払い情報は収集されません）</value>
@@ -724,13 +724,13 @@
     <value>ステータスリセット</value>
   </data>
   <data name="Consumable_ItemEffect_2" xml:space="preserve">
-    <value>x2 XP / 15分</value>
+    <value>2XP / 15分</value>
   </data>
   <data name="Consumable_ItemEffect_3" xml:space="preserve">
-    <value>x2 XP / 30分</value>
+    <value>2XP / 30分</value>
   </data>
   <data name="Consumable_ItemEffect_4" xml:space="preserve">
-    <value>x2 XP / 60分</value>
+    <value>2XP / 60分</value>
   </data>
   <data name="Notif_title_1" xml:space="preserve">
     <value>消耗品を発見！</value>
@@ -751,7 +751,7 @@
     <value>ランク利用不可</value>
   </data>
   <data name="Notif_message_4" xml:space="preserve">
-    <value>あなたのレベルで相手が見つかりませんでした。後でもう一度お試しください。</value>
+    <value>あなたのランクに該当する対戦相手が見つかりませんでした。後でもう一度お試しください。</value>
   </data>
   <data name="Notif_title_5" xml:space="preserve">
     <value>ダンジョン利用不可</value>
@@ -934,35 +934,35 @@
     <value>起動</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Inventory_Use_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Use_Button" xml:space="preserve">
+    <value>使用</value>
   </data>
-  <data name="Inventory_Yes_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Yes_Button" xml:space="preserve">
+    <value>はい</value>
   </data>
-  <data name="Inventory_No_Button" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_No_Button" xml:space="preserve">
+    <value>いいえ</value>
   </data>
-  <data name="Inventory_AreYouSure_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_AreYouSure_Text" xml:space="preserve">
+    <value>本当にいいですか？</value>
   </data>
-  <data name="Inventory_Quantity_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Inventory_Quantity_Text" xml:space="preserve">
+    <value>数量：x</value>
   </data>
-  <data name="Chest_Open_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Open_Text" xml:space="preserve">
+    <value>チェストを開く</value>
   </data>
-  <data name="Chest_Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_Text" xml:space="preserve">
+    <value>チェスト</value>
   </data>
-  <data name="Notif_message_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_message_23" xml:space="preserve">
+    <value>チェストが開封可能になりました。</value>
   </data>
-  <data name="Notif_title_23" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Notif_title_23" xml:space="preserve">
+    <value>チェストが利用可能になりました！</value>
   </data>
-  <data name="Chest_AvailableIn_text" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Chest_AvailableIn_text" xml:space="preserve">
+    <value>あと</value>
   </data>
   <data name="Settings_Header_Localization" xml:space="preserve">
     <value>ローカライゼーション</value>
@@ -971,5 +971,144 @@
     <value>Idle Knightは現在アーリーアクセス中です。
 不具合や未完成の機能が発生する場合があります。
 プレイしてゲーム改善に協力していただきありがとうございます！</value>
+  </data>
+  <data name="Settings_Credits_BugHunters" xml:space="preserve">
+    <value>QAテスター</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Name_Text" xml:space="preserve">
+    <value>謎の洞窟</value>
+  </data>
+  <data name="UnlockCondition_2" xml:space="preserve">
+    <value>デイリーチェストから入手可能。</value>
+  </data>
+  <data name="Chest_Title" xml:space="preserve">
+    <value>デイリーチェスト</value>
+  </data>
+  <data name="Consumable_ItemName_5" xml:space="preserve">
+    <value>ランク戦の鍵</value>
+  </data>
+  <data name="Consumable_ItemName_6" xml:space="preserve">
+    <value>ダンジョンの鍵</value>
+  </data>
+  <data name="Consumable_ItemDesc_5" xml:space="preserve">
+    <value>この鍵でランク戦モードにアクセスできます。</value>
+  </data>
+  <data name="Consumable_ItemDesc_6" xml:space="preserve">
+    <value>この鍵でダンジョンにアクセスできます。</value>
+  </data>
+  <data name="FightMenu_PlayersOnline_Text" xml:space="preserve">
+    <value>オンラインプレイヤー</value>
+  </data>
+  <data name="DungeonMenu_Dungeon2Name_Text" xml:space="preserve">
+    <value>廃墟のカタコンベ</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Name_Text" xml:space="preserve">
+    <value>呪われた森</value>
+  </data>
+  <data name="DungeonMenu_Dungeon1Level_Text" xml:space="preserve">
+    <value>レベル 10</value>
+  </data>
+  <data name="DungeonMenu_Dungeon3Level_Text" xml:space="preserve">
+    <value>レベル 30</value>
+  </data>
+  <data name="Tuto_Dialogue31" xml:space="preserve">
+    <value>1時間ごとにチェストを開けて、XPと貴重な報酬を獲得しろ。
+定期的に戻ってチェストを受け取れ！</value>
+  </data>
+  <data name="PtsMaxRankReached" xml:space="preserve">
+    <value>最大ランクに到達しました！</value>
+  </data>
+  <data name="DungeonMenu_MimicDrop_Text" xml:space="preserve">
+    <value>ダンジョンをクリアした後、ミミックが出現することがあります。</value>
+  </data>
+  <data name="DungeonMenu_MimicSpawn_Text" xml:space="preserve">
+    <value>ミミックの出現</value>
+  </data>
+  <data name="Chest_ChestDrop_Text" xml:space="preserve">
+    <value>チェストドロップ</value>
+  </data>
+  <data name="Chest_PossibleXP_Text" xml:space="preserve">
+    <value>獲得可能XP</value>
+  </data>
+  <data name="RankedMenu_PossibleRewards_Text" xml:space="preserve">
+    <value>ランク戦の報酬</value>
+  </data>
+  <data name="RankedMenu_Every1st_Text" xml:space="preserve">
+    <value>毎月1日、すべてのポイントが0にリセットされます。</value>
+  </data>
+  <data name="Keys_AvailableIn_text" xml:space="preserve">
+    <value>鍵が利用可能まで</value>
+  </data>
+  <data name="LeaderboardMenu_Top500_Button" xml:space="preserve">
+    <value>TOP 500</value>
+  </data>
+  <data name="LeaderboardMenu_Ranked_Button" xml:space="preserve">
+    <value>ランク戦</value>
+  </data>
+  <data name="LeaderboardMenu_Weekly_Button" xml:space="preserve">
+    <value>週間</value>
+  </data>
+  <data name="LeaderboardMenu_Friends_Button" xml:space="preserve">
+    <value>フレンド</value>
+  </data>
+  <data name="EasterEgg1_Dialogue01" xml:space="preserve">
+    <value>このチェストをもう10回もクリックしたな。
+それじゃ早く開かないぞ、知ってるか？....
+誰かに相談してくれ。</value>
+  </data>
+  <data name="EasterEgg1_Dialogue02" xml:space="preserve">
+    <value>...まだやってるのか？
+その根性は認める。本当にだ。
+だが頼む。やめてくれ。</value>
+  </data>
+  <data name="EasterEgg1_Dialogue03" xml:space="preserve">
+    <value>30回。
+お前はこれを30回もクリックした。
+もう無理だ。俺は降参する。
+RIYA！こっち来て対応してくれ！</value>
+  </data>
+  <data name="Settings_General_AlwaysOnTopText_Info" xml:space="preserve">
+    <value>ゲームウィンドウを他のすべてのアプリケーションより前面に表示します。
+他のソフトウェアを使用しながら進行状況を確認したい場合に便利です。</value>
+  </data>
+  <data name="Settings_General_StartWithWindowsText_Info" xml:space="preserve">
+    <value>コンピュータの起動時にIdle Knightを自動的に起動します。
+放置中の進行を見逃すことはありません。Windowsが起動した瞬間からゲームの稼ぎが始まります。</value>
+  </data>
+  <data name="Settings_General_RunAsAdminText_Info" xml:space="preserve">
+    <value>Idle Knightが他のアプリケーションやゲームの上でクリックをシミュレートするために必要です。
+これがないと、システム上で動作している他のソフトウェアによって自動クリックがブロックまたは無視される場合があります。</value>
+  </data>
+  <data name="Settings_Overlay_SoftwareRendering_Info" xml:space="preserve">
+    <value>オーバーレイのソフトウェアレンダリングを有効にします。
+現在のGPUドライバーで描画の不具合や黒い画面が発生する場合に使用してください。</value>
+  </data>
+  <data name="Settings_Overlay_FpsLimit_Info" xml:space="preserve">
+    <value>オーバーレイの描画フレームレートを制限します。
+値を低くするとCPU/GPUの使用率が下がります。</value>
+  </data>
+  <data name="Shop_BuyNow_Text" xml:space="preserve">
+    <value>今すぐ購入</value>
+  </data>
+  <data name="LeaderBoardMenu_Text" xml:space="preserve">
+    <value>ランキング</value>
+  </data>
+  <data name="Shop_Info_Message" xml:space="preserve">
+    <value>ショップでのすべての購入は、Idle Knightの継続的な開発を直接支援し、コミュニティ全体のためにゲームを改善するのに役立ちます。</value>
+  </data>
+  <data name="Shop_Info_NoPurchase" xml:space="preserve">
+    <value>購入は進行中ではありません。</value>
+  </data>
+  <data name="Notif_message_24" xml:space="preserve">
+    <value>ダンジョンキーとランクキーが利用可能です。</value>
+  </data>
+  <data name="Notif_title_24" xml:space="preserve">
+    <value>利用可能な鍵</value>
+  </data>
+  <data name="Exchange_Message" xml:space="preserve">
+    <value>{0}個のランクキーを{1}個のダンジョンキーに交換しますか？</value>
+  </data>
+  <data name="Exchange_Bouton" xml:space="preserve">
+    <value>交換</value>
   </data>
 </root>

@@ -334,7 +334,7 @@
     <value>• Données de matchmaking et de classement</value>
   </data>
   <data name="Settings_Privacy_6" xml:space="preserve">
-    <value>• Données techniques liées au serveur</value>
+    <value>• Données techniques liées au serveur et actions d’entrée de gameplay (telles que les clics et pressions de boutons) utilisées uniquement pour le jeu. Nous ne sauvegardons pas ce que le joueur tape, seulement ce qu’il fait dans le jeu.</value>
   </data>
   <data name="Settings_Privacy_7" xml:space="preserve">
     <value>• Informations nécessaires à la validation des achats Steam (aucune information de paiement n'est collectée)</value>
@@ -754,13 +754,13 @@ Conquis chaque étage et prouve que tu es digne de la gloire.</value>
     <value>Réinitialisation des stats</value>
   </data>
   <data name="Consumable_ItemEffect_2" xml:space="preserve">
-    <value>x2 XP / 15 min</value>
+    <value>2XP / 15 min</value>
   </data>
   <data name="Consumable_ItemEffect_3" xml:space="preserve">
-    <value>x2 XP / 30 min</value>
+    <value>2XP / 30 min</value>
   </data>
   <data name="Consumable_ItemEffect_4" xml:space="preserve">
-    <value>x2 XP / 60 min</value>
+    <value>2XP / 60 min</value>
   </data>
   <data name="Notif_title_1" xml:space="preserve">
     <value>Consommable trouvé !</value>
@@ -781,7 +781,7 @@ Conquis chaque étage et prouve que tu es digne de la gloire.</value>
     <value>Classé indisponible</value>
   </data>
   <data name="Notif_message_4" xml:space="preserve">
-    <value>Aucun adversaire trouvé à votre niveau. Réessayez plus tard.</value>
+    <value>Aucun adversaire trouvé à votre rang. Réessayez plus tard.</value>
   </data>
   <data name="Notif_title_5" xml:space="preserve">
     <value>Donjon indisponible</value>
@@ -1065,5 +1065,77 @@ Reviens régulièrement pour récupérer ton coffre !</value>
     <value>Idle Knight est actuellement en accès anticipé.
 Certains bugs ou fonctionnalités incomplètes peuvent survenir.
 Merci de jouer et de contribuer à l’amélioration du jeu !</value>
+  </data>
+  <data name="LeaderboardMenu_Top500_Button" xml:space="preserve">
+    <value>TOP 500</value>
+  </data>
+  <data name="LeaderboardMenu_Ranked_Button" xml:space="preserve">
+    <value>CLASSÉ</value>
+  </data>
+  <data name="LeaderboardMenu_Weekly_Button" xml:space="preserve">
+    <value>SEMAINE</value>
+  </data>
+  <data name="LeaderboardMenu_Friends_Button" xml:space="preserve">
+    <value>AMIS</value>
+  </data>
+  <data name="Settings_General_AlwaysOnTopText_Info" xml:space="preserve">
+    <value>Garde la fenêtre du jeu au‑dessus de toutes les autres applications.
+Utile si tu veux surveiller ta progression tout en utilisant d’autres logiciels.</value>
+  </data>
+  <data name="Settings_General_StartWithWindowsText_Info" xml:space="preserve">
+    <value>Lance automatiquement Idle Knight au démarrage de ton ordinateur.
+Ne manque jamais ta progression idle : le jeu commence à farmer dès que Windows démarre.</value>
+  </data>
+  <data name="Settings_General_RunAsAdminText_Info" xml:space="preserve">
+    <value>Nécessaire pour permettre à Idle Knight de simuler des clics au‑dessus des autres applications ou jeux.
+Sans cela, les auto‑clics peuvent être bloqués ou ignorés par d’autres logiciels en cours d’exécution sur ton système.</value>
+  </data>
+  <data name="Settings_Overlay_SoftwareRendering_Info" xml:space="preserve">
+    <value>Active le rendu logiciel pour l’overlay.
+À utiliser si tu rencontres des bugs graphiques ou des écrans noirs avec ton pilote GPU actuel.</value>
+  </data>
+  <data name="Settings_Overlay_FpsLimit_Info" xml:space="preserve">
+    <value>Limite le framerate de rendu de l’overlay.
+Des valeurs plus basses réduisent l’utilisation du CPU/GPU.</value>
+  </data>
+  <data name="Shop_BuyNow_Text" xml:space="preserve">
+    <value>ACHETER</value>
+  </data>
+  <data name="EasterEgg1_Dialogue01" xml:space="preserve">
+    <value>Tu viens de cliquer sur ce coffre 10 fois.
+Ça ne l'ouvrira pas plus vite, tu sais....
+Merci de demander de l'aide.</value>
+  </data>
+  <data name="EasterEgg1_Dialogue02" xml:space="preserve">
+    <value>...Tu continues encore ?
+J'admire ta détermination. Vraiment.
+Mais s'il te plaît. Arrête.</value>
+  </data>
+  <data name="EasterEgg1_Dialogue03" xml:space="preserve">
+    <value>30 fois.
+Tu as cliqué dessus TRENTE fois.
+Ça suffit. J'abandonne.
+RIYA ! VIENS GÉRER ÇA.</value>
+  </data>
+  <data name="LeaderBoardMenu_Text" xml:space="preserve">
+    <value>CLASSEMENT</value>
+  </data>
+  <data name="Shop_Info_Message" xml:space="preserve">
+    <value>Chaque achat effectué dans la boutique soutient directement le développement continu de Idle Knight et nous aide à améliorer le jeu pour toute la communauté.</value>
+  </data>
+  <data name="Shop_Info_NoPurchase" xml:space="preserve">
+    <value>Aucun achat en cours.</value>
+  </data>
+  <data name="Notif_title_24" xml:space="preserve">
+    <value>Clés disponibles</value>
+  </data>
+  <data name="Notif_message_24" xml:space="preserve">
+    <value>Clés de donjon et ranked disponibles.</value>
+  </data>
+  <data name="Exchange_Message" xml:space="preserve">
+    <value>Échanger {0} clés classées contre {1} clés de donjon ?</value>
+  </data>
+  <data name="Exchange_Bouton" xml:space="preserve">
+    <value>ÉCHANGER</value>
   </data>
 </root>
